@@ -1,0 +1,733 @@
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\61\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\61\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,ff,ff,ff,ff
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\62\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\62\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\63\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\63\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\64\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\64\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\65\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\65\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\66\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\66\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\67\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\67\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\68\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\68\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\69\ComDlg\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"FFlags"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\69\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\70\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\70\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\71\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\71\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\72\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\72\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\73\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\73\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\74\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\74\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\75\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\75\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\76\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\76\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\77\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\77\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\78\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-01200011
+【创建】"Vid"-SZ-{65F125E5-7BE1-4810-BA9D-D271C8432CE3}
+【创建】"Mode"-DWORD-00000006
+【创建】"LogicalViewMode"-DWORD-00000002
+【创建】"IconSize"-DWORD-00000030
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,a0,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\79\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\79\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\80\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\80\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\81\Shell]
+【创建】"SniffedFolderType"-SZ-Generic
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\81\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+【创建】"Rev"-DWORD-00000000
+【创建】"FFlags"-DWORD-41200001
+【创建】"Vid"-SZ-{137E7700-3573-11CF-AE69-08002B2E1262}
+【创建】"Mode"-DWORD-00000004
+【创建】"LogicalViewMode"-DWORD-00000001
+【创建】"IconSize"-DWORD-00000010
+【创建】"Sort"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+【创建】"ColInfo"-BINARY-00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,90,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+【创建】"GroupView"-DWORD-00000000
+【创建】"GroupByKey:FMTID"-SZ-{00000000-0000-0000-0000-000000000000}
+【创建】"GroupByKey:PID"-DWORD-00000000
+【创建】"GroupByDirection"-DWORD-00000001
+
+[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\AllFolders\Shell]
+【创建】"MinPos2560x1440x144(1).x"-DWORD-ffffffff
+【创建】"MinPos2560x1440x144(1).y"-DWORD-ffffffff
+【创建】"MaxPos2560x1440x144(1).x"-DWORD-ffffffff
+【创建】"MaxPos2560x1440x144(1).y"-DWORD-ffffffff
+【创建】"WinPos2560x1440x144(1).left"-DWORD-00000188
+【创建】"WinPos2560x1440x144(1).top"-DWORD-00000037
+【创建】"WinPos2560x1440x144(1).right"-DWORD-00000609
+【创建】"WinPos2560x1440x144(1).bottom"-DWORD-0000037f
+【创建】"MinPos2560x1440x96(1).x"-DWORD-ffff8300
+【创建】"MinPos2560x1440x96(1).y"-DWORD-ffff8300
+【创建】"MaxPos2560x1440x96(1).x"-DWORD-ffffffff
+【创建】"MaxPos2560x1440x96(1).y"-DWORD-ffffffff
+【创建】"WinPos2560x1440x96(1).left"-DWORD-000001a7
+【创建】"WinPos2560x1440x96(1).top"-DWORD-000002f5
+【创建】"WinPos2560x1440x96(1).right"-DWORD-0000061a
+【创建】"WinPos2560x1440x96(1).bottom"-DWORD-00000576
+【修改】"WinPos2560x1600x144(1).left"-DWORD-000001e7
+【修改】"WinPos2560x1600x144(1).top"-DWORD-00000048
+【修改】"WinPos2560x1600x144(1).right"-DWORD-000008a9
+【修改】"WinPos2560x1600x144(1).bottom"-DWORD-00000534
+
+[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache]
+【创建】"C:\\Users\\Administrator\\AppData\\Local\\Temp\\Rar$EXa10452.26949.rartemp\\360极速浏览器X 22.3.3077.64 正式版｜优化版 - 20240904.exe.FriendlyAppName"-SZ-360极速浏览器X Setup
+【创建】"C:\\Users\\Administrator\\AppData\\Local\\Temp\\Rar$EXa10452.26949.rartemp\\360极速浏览器X 22.3.3077.64 正式版｜优化版 - 20240904.exe.ApplicationCompany"-SZ-360.cn
+【创建】"C:\\Windows\\System32\\InfDefaultInstall.exe.FriendlyAppName"-SZ-INF 默认安装
+【创建】"C:\\Windows\\System32\\InfDefaultInstall.exe.ApplicationCompany"-SZ-Microsoft Corporation
+【创建】"C:\\Windows\\system32\\cryptext.dll.FriendlyAppName"-SZ-加密外壳扩展
+【创建】"C:\\Windows\\system32\\cryptext.dll.ApplicationCompany"-SZ-Microsoft Corporation
+【创建】"D:\\360极速浏览器X下载\\12.IPF_2.2.10000.20\\ipf_helper.exe.FriendlyAppName"-SZ-Intel(R) Innovation Platform Framework Utility Application
+【创建】"D:\\360极速浏览器X下载\\12.IPF_2.2.10000.20\\ipf_helper.exe.ApplicationCompany"-SZ-Intel Corporation
+【创建】"C:\\Windows\\system32\\mshta.exe.FriendlyAppName"-SZ-Microsoft (R) HTML 应用程序主机
+【创建】"C:\\Windows\\system32\\mshta.exe.ApplicationCompany"-SZ-Microsoft Corporation
+【创建】"C:\\Windows\\System32\\provtool.exe.FriendlyAppName"-SZ-Provisioning package runtime processing tool
+【创建】"C:\\Windows\\System32\\provtool.exe.ApplicationCompany"-SZ-Microsoft Corporation
+【创建】"C:\\Users\\Administrator\\AppData\\Local\\Temp\\360pingbaosetup.exe.FriendlyAppName"-SZ-360画报 服务组件
+【创建】"C:\\Users\\Administrator\\Desktop\\调机器\\UsbTreeView.exe.FriendlyAppName"-SZ-USB Device Tree Viewer (x64)
+【创建】"C:\\Users\\Administrator\\Desktop\\调机器\\UsbTreeView.exe.ApplicationCompany"-SZ-Uwe Sieber - www.uwe-sieber.de
+【创建】"C:\\Users\\Administrator\\Desktop\\调机器\\win10关闭自动更新 1.5\\Windows Update Blocker 1.5\\Wub.exe.FriendlyAppName"-SZ-Windows Update Blocker
+【创建】"C:\\Users\\Administrator\\Desktop\\调机器\\win10关闭自动更新 1.5\\Windows Update Blocker 1.5\\Wub.exe.ApplicationCompany"-SZ-www.sordum.org
+【创建】"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe.FriendlyAppName"-SZ-Windows PowerShell
+【创建】"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe.ApplicationCompany"-SZ-Microsoft Corporation
+【创建】"C:\\Users\\Administrator\\Desktop\\调机器\\调机器\\设备的调整\\设备的清理\\DeviceCleanup.exe.FriendlyAppName"-SZ-Device Cleanup Tool (x64)
+【创建】"C:\\Users\\Administrator\\Desktop\\调机器\\调机器\\设备的调整\\设备的清理\\DeviceCleanup.exe.ApplicationCompany"-SZ-Uwe Sieber - www.uwe-sieber.de
+【创建】"C:\\Windows\\system32\\CompMgmtLauncher.exe.FriendlyAppName"-SZ-计算机管理单元启动程序
+【创建】"C:\\Windows\\system32\\CompMgmtLauncher.exe.ApplicationCompany"-SZ-Microsoft Corporation
+【创建】"C:\\Users\\Administrator\\Desktop\\调机器\\nvidiaProfileInspector.exe.FriendlyAppName"-SZ-nvidiaProfileInspector
+【创建】"C:\\Users\\Administrator\\Desktop\\Privacy.exe.FriendlyAppName"-SZ-Privacy
+【创建】"C:\\Users\\Administrator\\Desktop\\Privacy.exe.ApplicationCompany"-SZ-LCG
+【创建】"C:\\Users\\Administrator\\Desktop\\调机器\\GoInterruptPolicy.exe.FriendlyAppName"-SZ-GoInterruptPolicy
+【创建】"C:\\Users\\Administrator\\Desktop\\调机器\\MSI_util_v3.exe.FriendlyAppName"-SZ-MSI_util_v3
+【创建】"D:\\360极速浏览器X下载\\HyperX_NGENUITY_Installer_2.35.0.0.exe.FriendlyAppName"-SZ-HyperX NGENUITY Installer
+【创建】"D:\\360极速浏览器X下载\\HyperX_NGENUITY_Installer_2.35.0.0.exe.ApplicationCompany"-SZ-Hewlett-Packard Development Company, L.P.
+【创建】"C:\\Program Files\\AskLink\\4.0.37.0\\AskLink.exe.FriendlyAppName"-SZ-AskLink
+【创建】"C:\\Program Files\\AskLink\\4.0.37.0\\AskLink.exe.ApplicationCompany"-SZ-Shanghai Kongkong Technology Co., Ltd.
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\PackagedCom\Package\33C30B79.NGENUITY_2.35.0.0_x64__922sw8z9z7n5w]
+【创建】@-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\PackagedCom\Package\MaxInstallOrder]
+【创建】@-DWORD-00000001
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\WOW6432Node\CLSID\{0002DF01-0000-0000-C000-000000000046}\LocalServer32]
+【创建】@-SZ-\"C:\\Program Files\\360\\360chromeX\\360chromex.exe\"
+
+【创建】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\WOW6432Node\CLSID\{D5E8041D-920F-45e9-B8FB-B1DEB82C6E5E}\TreatAs]
+【创建】@-SZ-{0002DF01-0000-0000-C000-000000000046}
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility]
+【创建】"MessageDuration"-DWORD-00000005
+【创建】"MinimumHitRadius"-DWORD-00000000
+【创建】"Sound on Activation"-DWORD-00000001
+【创建】"Warning Sounds"-DWORD-00000001
+【创建】"DynamicScrollbars"-DWORD-00000000
+
+【创建】[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\AudioDescription]
+【创建】"Locale"-SZ-
+【创建】"On"-SZ-0
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\HighContrast]
+【创建】"Previous High Contrast Scheme MUI Value"-SZ-
+【修改】"Flags"-SZ-0
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\Keyboard Response]
+【修改】"AutoRepeatDelay"-SZ-200
+【修改】"AutoRepeatRate"-SZ-5
+【修改】"DelayBeforeAcceptance"-SZ-0
+【修改】"Flags"-SZ-0
+【修改】"Last Valid Wait"-DWORD-00000000
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\MouseKeys]
+【修改】"Flags"-SZ-0
+【修改】"MaximumSpeed"-SZ-0
+【修改】"TimeToMaximumSpeed"-SZ-0
+
+【创建】[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\On]
+【创建】"Locale"-DWORD-00000000
+【创建】"On"-SZ-0
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\SlateLaunch]
+【修改】"LaunchAT"-DWORD-00000000
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\SoundSentry]
+【修改】"Flags"-SZ-0
+【修改】"WindowsEffect"-SZ-0
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\StickyKeys]
+【修改】"Flags"-SZ-0
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\TimeOut]
+【修改】"Flags"-SZ-0
+【修改】"TimeToWait"-SZ-0
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\ToggleKeys]
+【修改】"Flags"-SZ-0
+
+[HKEY_USERS\S-1-5-18\Control Panel\Cursors]
+【创建】"GestureVisualization"-DWORD-00000000
+【创建】"CursorDeadzoneJumpingSetting"-DWORD-00000000
+【创建】"ContactVisualization"-DWORD-00000000
+
+[HKEY_USERS\S-1-5-18\Control Panel\Desktop\WindowMetrics]
+【修改】"BorderWidth"-SZ--15
+【修改】"ScrollWidth"-SZ--255
+【修改】"ScrollHeight"-SZ--255
+【修改】"MenuWidth"-SZ--285
+【修改】"MenuHeight"-SZ--285
+【修改】"CaptionFont"-BINARY-f4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,01,00,00,05,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,59,00,61,00,48,00,65,00,69,00,20,00,55,00,49,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+【修改】"SmCaptionFont"-BINARY-f4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,01,00,00,05,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,59,00,61,00,48,00,65,00,69,00,20,00,55,00,49,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+【修改】"MenuFont"-BINARY-f4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,01,00,00,05,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,59,00,61,00,48,00,65,00,69,00,20,00,55,00,49,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+【修改】"StatusFont"-BINARY-f4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,01,00,00,05,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,59,00,61,00,48,00,65,00,69,00,20,00,55,00,49,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+【修改】"MessageFont"-BINARY-f4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,01,00,00,05,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,59,00,61,00,48,00,65,00,69,00,20,00,55,00,49,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+【修改】"AppliedDPI"-DWORD-00000060
+【修改】"IconFont"-BINARY-f4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,01,00,00,05,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,59,00,61,00,48,00,65,00,69,00,20,00,55,00,49,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Keyboard]
+【修改】"KeyboardDelay"-SZ-0
+
+[HKEY_USERS\S-1-5-18\Control Panel\Mouse]
+【创建】"MouseHoverTime"-SZ-0
+【创建】"MouseHoverHeight"-SZ-0
+【创建】"MouseHoverWidth"-SZ-0
+【创建】"MouseAccel"-SZ-0
+【创建】"MouseAccel_Scale"-SZ-0
+【创建】"MouseAccel_Max"-SZ-0
+【创建】"MouseTrails"-SZ-0
+【创建】"Beep"-SZ-No
+【创建】"ExtendedSounds"-SZ-No
+【修改】"DoubleClickHeight"-SZ-7
+【修改】"DoubleClickSpeed"-SZ-600
+【修改】"DoubleClickWidth"-SZ-7
+【修改】"MouseSpeed"-SZ-0
+【修改】"MouseThreshold1"-SZ-0
+【修改】"MouseThreshold2"-SZ-0
+【删除】"SmoothMouseXCurve"
+【删除】"SmoothMouseYCurve"
+
+【创建】[HKEY_USERS\S-1-5-18\Software\Classes\Local Settings\MuiCache\1d\AAF68885]
+【创建】"@%SystemRoot%\\System32\\ci.dll,-100"-SZ-Isolated User Mode (IUM)
+【创建】"@%SystemRoot%\\System32\\ci.dll,-101"-SZ-Enclave
+【创建】"@%SystemRoot%\\system32\\dnsapi.dll,-103"-SZ-域名系统(DNS)服务器信任
+【创建】"@%SystemRoot%\\System32\\fveui.dll,-843"-SZ-BitLocker 驱动器加密
+【创建】"@%SystemRoot%\\System32\\fveui.dll,-844"-SZ-BitLocker 数据恢复代理
+【创建】"@%SystemRoot%\\System32\\wuaueng.dll,-400"-SZ-Windows 更新
+【创建】"@%SystemRoot%\\system32\\WindowsPowerShell\\v1.0\\powershell.exe,-124"-SZ-文档加密
+【创建】"@%SystemRoot%\\system32\\NgcRecovery.dll,-100"-SZ-Windows Hello 恢复密钥加密
+【创建】"@Winlangdb.dll,-1650"-SZ-中文(简体，中国)
+【创建】"@%systemroot%\\system32\\usermgr.dll,-100"-SZ-User Manager
+【创建】"@%SystemRoot%\\system32\\WpnUserService.dll,-1"-SZ-Windows Push Notifications User Service
+【创建】"@comres.dll,-2450"-SZ-COM+ Event System
+【创建】"@%SystemRoot%\\system32\\drivers\\WudfRd.sys,-1000"-SZ-Windows Driver Foundation - User-mode Driver Framework Reflector
+【创建】"@%systemroot%\\system32\\SearchIndexer.exe,-103"-SZ-Windows Search
+【创建】"@%systemroot%\\system32\\srvsvc.dll,-100"-SZ-Server
+【创建】"@%systemroot%\\system32\\browser.dll,-100"-SZ-Computer Browser
+【创建】"@%SystemRoot%\\System32\\shsvcs.dll,-12288"-SZ-Shell Hardware Detection
+【创建】"@%Systemroot%\\system32\\wbem\\wmiapsrv.exe,-110"-SZ-WMI Performance Adapter
+【创建】"@%systemroot%\\system32\\appinfo.dll,-100"-SZ-Application Information
+【创建】"C:\\Windows\\system32,@elscore.dll,-2"-SZ-Microsoft 脚本检测
+【创建】"C:\\Windows\\system32,@elscore.dll,-5"-SZ-Microsoft 翻译引擎
+【创建】"C:\\Windows\\system32,@elscore.dll,-4"-SZ-Microsoft 简体中文译为繁体中文
+【创建】"C:\\Windows\\system32,@elscore.dll,-6"-SZ-Microsoft 西里尔文译为拉丁语
+【创建】"C:\\Windows\\system32,@elscore.dll,-10"-SZ-Microsoft 韩文分解转换
+【创建】"C:\\Windows\\system32,@elscore.dll,-3"-SZ-Microsoft 繁体中文译为简体中文
+【创建】"C:\\Windows\\system32,@elscore.dll,-7"-SZ-Microsoft 梵文译为拉丁语
+【创建】"C:\\Windows\\system32,@elscore.dll,-8"-SZ-Microsoft 马拉雅拉姆语译为拉丁语
+【创建】"C:\\Windows\\system32,@elscore.dll,-9"-SZ-Microsoft 孟加拉语译为拉丁语
+【创建】"C:\\Windows\\system32,@elscore.dll,-1"-SZ-Microsoft 语言检测
+【创建】"@%SystemRoot%\\system32\\powrprof.dll,-15"-SZ-平衡
+【创建】"@%SystemRoot%\\system32\\powrprof.dll,-19"-SZ-卓越性能
+【创建】"@%SystemRoot%\\servicing\\TrustedInstaller.exe,-100"-SZ-Windows Modules Installer
+【创建】"@%Systemroot%\\system32\\wbem\\wmisvc.dll,-205"-SZ-Windows Management Instrumentation
+【创建】"@keyiso.dll,-100"-SZ-CNG Key Isolation
+【创建】"@%SystemRoot%\\system32\\CapabilityAccessManager.dll,-1"-SZ-功能访问管理器服务
+【创建】"@%SystemRoot%\\system32\\windows.staterepository.dll,-1"-SZ-State Repository Service
+【创建】"@%SystemRoot%\\System32\\wlansvc.dll,-257"-SZ-WLAN AutoConfig
+【创建】"@%SystemRoot%\\system32\\NetSetupSvc.dll,-3"-SZ-Network Setup Service
+【创建】"@%SystemRoot%\\system32\\netprofmsvc.dll,-202"-SZ-Network List Service
+【创建】"@%SystemRoot%\\system32\\sppsvc.exe,-101"-SZ-Software Protection
+【创建】"@%SystemRoot%\\System32\\StorSvc.dll,-100"-SZ-Storage Service
+【创建】"@%SystemRoot%\\system32\\cdpsvc.dll,-100"-SZ-连接设备平台服务
+【创建】"@%SystemRoot%\\system32\\cbdhsvc.dll,-100"-SZ-剪贴板用户服务
+【创建】"@%SystemRoot%\\system32\\appxdeploymentserver.dll,-1"-SZ-AppX Deployment Service (AppXSVC)
+【创建】"@%SystemRoot%\\system32\\AudioEndpointBuilder.dll,-204"-SZ-Windows Audio Endpoint Builder
+【创建】"@%SystemRoot%\\system32\\audiosrv.dll,-200"-SZ-Windows Audio
+【创建】"@%windir%\\system32\\bisrv.dll,-100"-SZ-Background Tasks Infrastructure Service
+【创建】"@%SystemRoot%\\System32\\bthserv.dll,-101"-SZ-蓝牙支持服务
+【创建】"@combase.dll,-5012"-SZ-DCOM Server Process Launcher
+【创建】"@%SystemRoot%\\System32\\hidserv.dll,-101"-SZ-Human Interface Device Service
+【创建】"@%SystemRoot%\\system32\\ncbservice.dll,-500"-SZ-Network Connection Broker
+【创建】"@%SystemRoot%\\System32\\nlasvc.dll,-1"-SZ-Network Location Awareness
+【创建】"@combase.dll,-5010"-SZ-Remote Procedure Call (RPC)
+【创建】"@%systemroot%\\system32\\spoolsv.exe,-1"-SZ-Print Spooler
+【创建】"@%windir%\\system32\\SystemEventsBrokerServer.dll,-1001"-SZ-System Events Broker
+【创建】"@%SystemRoot%\\system32\\TabSvc.dll,-100"-SZ-Touch Keyboard and Handwriting Panel Service
+【创建】"@%SystemRoot%\\System32\\wcmsvc.dll,-4097"-SZ-Windows Connection Manager
+【创建】"@gpapi.dll,-112"-SZ-Group Policy Client
+【创建】"@%SystemRoot%\\System32\\polstore.dll,-5010"-SZ-IPsec Policy Agent
+【创建】"@%systemroot%\\system32\\dps.dll,-500"-SZ-Diagnostic Policy Service
+【创建】"@%SystemRoot%\\system32\\das.dll,-100"-SZ-Device Association Service
+【创建】"@%SystemRoot%\\system32\\dhcpcore.dll,-100"-SZ-DHCP Client
+【创建】"@%SystemRoot%\\system32\\ikeext.dll,-501"-SZ-IKE and AuthIP IPsec Keying Modules
+【创建】"@%SystemRoot%\\system32\\umpnpmgr.dll,-200"-SZ-Plug and Play
+【创建】"@%SystemRoot%\\system32\\wevtsvc.dll,-200"-SZ-Windows Event Log
+【创建】"@%SystemRoot%\\system32\\winhttp.dll,-100"-SZ-WinHTTP Web Proxy Auto-Discovery Service
+【创建】"@%SystemRoot%\\system32\\ClipSVC.dll,-103"-SZ-Client License Service (ClipSVC)
+【创建】"@%systemroot%\\system32\\profsvc.dll,-300"-SZ-User Profile Service
+【创建】"@%systemroot%\\system32\\FntCache.dll,-100"-SZ-Windows Font Cache Service
+【创建】"@%SystemRoot%\\system32\\DeviceSetupManager.dll,-1000"-SZ-Device Setup Manager
+【创建】"@%systemroot%\\system32\\FrameServer.dll,-100"-SZ-Windows Camera Frame Server
+【创建】"@%SystemRoot%\\System32\\smphost.dll,-102"-SZ-Microsoft Storage Spaces SMP
+
+[HKEY_USERS\S-1-5-18\Software\Microsoft\Direct3D]
+【创建】"MaxTextureWidth"-DWORD-00000100
+【创建】"MaxTextureHeight"-DWORD-00000100
+【创建】"TextureManagement"-DWORD-00000001
+【创建】"UsePureDevice"-DWORD-00000001
+【创建】"DisableDirectDraw"-DWORD-00000001
+【创建】"AllowHardware"-DWORD-00000001
+【创建】"ForceHAL"-DWORD-00000001
+【创建】"DirectDrawRenderer"-SZ-opengl
+【创建】"MaxPointSize"-DWORD-00000005
+【创建】"MaxAnisotropy"-DWORD-00000008
+【创建】"ForceSmoothing"-DWORD-00000000
+【创建】"TripleBuffering"-DWORD-00000000
+【创建】"OffscreenRenderingMode"-SZ-backbuffer
+【创建】"PixelShaderMode"-SZ-disabled
+【创建】"RenderTargetLockMode"-SZ-disabled
+【创建】"UseGLSL"-SZ-disabled
+【创建】"VertexBufferMode"-SZ-hardware
+【创建】"VertexShaderMode"-SZ-hardware
+【创建】"CSMT"-DWORD-00000000
+【创建】"MaxPreRenderedFrames"-DWORD-00000002
+【创建】"UseNonLocalVidMem"-DWORD-00000000
+【创建】"FullDebug"-DWORD-00000000
+【创建】"DisableDM"-DWORD-00000001
+【创建】"EnableMultimonDebugging"-DWORD-00000000
+【创建】"LoadDebugRuntime"-DWORD-00000000
+【创建】"FewVertices"-DWORD-00000001
+【创建】"DisableVidMemVBs"-DWORD-00000000
+【创建】"FlipNoYsync"-DWORD-00000001
+【创建】"DisableMMX"-DWORD-00000000
+【创建】"UseMMXForRGB"-DWORD-00000000
+【创建】"FlipNoVsync"-DWORD-00000001
+【创建】"MMX Fast Path"-DWORD-00000001
+【创建】"ForceSoftwareRendering"-DWORD-00000000
+【创建】"DisableDirectDrawAcceleration"-DWORD-00000000
+【创建】"DisableVidMemManagement"-DWORD-00000000
+【创建】"PresentInterval"-DWORD-00000000
+【修改】"LastTelemetryChangeStamp"-DWORD-00000002
+
+【创建】[HKEY_USERS\S-1-5-18\Software\Microsoft\Direct3D\Drivers]
+【创建】@-SZ-
+
+【创建】[HKEY_USERS\S-1-5-18\Software\Microsoft\Input\TIPC]
+【创建】"Enabled"-DWORD-00000000
+
+[HKEY_USERS\S-1-5-18\Software\Microsoft\Windows\CurrentVersion\ThemeManager]
+【修改】"LastLoadedDPI"-SZ-96
+【修改】"LastLoadedDPIPlateaus"-SZ-1
+
+[HKEY_USERS\S-1-5-18\Software\Microsoft\Windows Script\Settings\Telemetry\wmiprvse.exe]
+【修改】"JScriptSetScriptStateStarted"-QWORD-76,30,00,00,00,00,00,00
+
+【删除】[HKEY_USERS\.DEFAULT\Software\Classes\Local Settings\MuiCache\13]
+
+【删除】[HKEY_USERS\.DEFAULT\Software\Classes\Local Settings\MuiCache\13\AAF68885]
+
+【删除】[HKEY_USERS\S-1-5-19\SOFTWARE\Classes\Local Settings\MuiCache\13]
+
+【删除】[HKEY_USERS\S-1-5-19\SOFTWARE\Classes\Local Settings\MuiCache\13\AAF68885]
+
+【删除】[HKEY_USERS\S-1-5-20\SOFTWARE\Classes\Local Settings\MuiCache\13]
+
+【删除】[HKEY_USERS\S-1-5-20\SOFTWARE\Classes\Local Settings\MuiCache\13\AAF68885]
+
+【删除】[HKEY_USERS\S-1-5-20\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\PersistedSystemState]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\360\360pingbao]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\360\360pingbao\coreusers]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\360\360pingbao\huabao]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\360\360pingbao\pushmsg]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\360\360pingbao\Update]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\360\360pingbao\Update\ClientState]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\360\360pingbao\Update\ClientState\{aa167145-da48-4de7-bbab-fa13134c7af1}]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Microsoft\Internet Explorer\TypedURLs]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\CPC\Volume\{02356af3-2902-4e25-a683-4025a5f7fa58}]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\CPC\Volume\{10b21e54-d3b5-4549-865b-0ba58894f0f4}]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\CPC\Volume\{37240546-2350-4cf7-9b86-d8bfeb0895ec}]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\CPC\Volume\{8f8471b1-1481-47a5-8fb2-8c6476f335bc}]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\CPC\Volume\{b1176c7a-bc7d-44bb-b389-5aead764b272}]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\ApplicationViewManagement\W32:00000000000102FA]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\ApplicationViewManagement\W32:0000000000010334]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\ApplicationViewManagement\W32:0000000000010504]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\ApplicationViewManagement\W32:00000000000E057C]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\ApplicationViewManagement\W32:0000000000140198]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Microsoft\Windows\CurrentVersion\Search\JumplistData]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\360pingbao]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Classes\ActivatableClasses\Package\Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Classes\ActivatableClasses\Package\Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Classes\Local Settings\MuiCache\13]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Classes\Local Settings\MuiCache\13\AAF68885]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\Repository\Families\Microsoft.NET.Native.Framework.2.2_8wekyb3d8bbwe\Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\Repository\Families\Microsoft.NET.Native.Runtime.2.2_8wekyb3d8bbwe\Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\Repository\Packages\Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\Repository\Packages\Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\PersistedStorageItemTable\CurrentWorkingDirectory]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\ActivatableClasses\Package\Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\ActivatableClasses\Package\Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\MuiCache\13]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\MuiCache\13\AAF68885]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\Repository\Families\Microsoft.NET.Native.Framework.2.2_8wekyb3d8bbwe\Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\Repository\Families\Microsoft.NET.Native.Runtime.2.2_8wekyb3d8bbwe\Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\Repository\Packages\Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\Repository\Packages\Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe]
+
+【删除】[HKEY_USERS\S-1-5-21-1705975881-1584435405-3073042883-500_Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\PersistedStorageItemTable\CurrentWorkingDirectory]
+
+【删除】[HKEY_USERS\S-1-5-18\Software\Classes\Local Settings\MuiCache\13]
+
+【删除】[HKEY_USERS\S-1-5-18\Software\Classes\Local Settings\MuiCache\13\AAF68885]
+

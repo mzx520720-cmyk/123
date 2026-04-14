@@ -1,0 +1,1000 @@
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{E88C9BA0-C557-11D0-8A2B-00A0C9255AC1}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{E922348B-F538-48f2-8A46-03610CA3C815}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{E922348B-F538-48f2-8A46-03610CA3C815}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{EA1B271B-D19A-41ea-9141-E0FE75259300}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{EA1B271B-D19A-41ea-9141-E0FE75259300}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{EEA8F0C2-15F2-47ba-9939-8B68B99B5A47}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{EEA8F0C2-15F2-47ba-9939-8B68B99B5A47}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{EEB9FF66-875E-44d0-A7BC-94F8FF8A6B2E}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{EEB9FF66-875E-44d0-A7BC-94F8FF8A6B2E}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{EF0328E0-C558-11D0-8A2B-00A0C9255AC1}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{EF0328E0-C558-11D0-8A2B-00A0C9255AC1}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{F32BA73A-930B-4596-A47F-A9339FB7E24C}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{F32BA73A-930B-4596-A47F-A9339FB7E24C}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{F54FB883-BF16-4b3f-8965-76C99EC3741B}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{F54FB883-BF16-4b3f-8965-76C99EC3741B}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{F6810363-D355-4c27-B60C-DB10B4A6DB1F}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{F6810363-D355-4c27-B60C-DB10B4A6DB1F}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{F84AD65F-8888-4076-BA55-15FA42C66D43}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{F84AD65F-8888-4076-BA55-15FA42C66D43}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{F9B41DC3-96E2-11d2-AC4C-00C04F8EFB68}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{F9B41DC3-96E2-11d2-AC4C-00C04F8EFB68}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{F9C764D1-0A97-4216-BD80-57D11C86BF21}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{F9C764D1-0A97-4216-BD80-57D11C86BF21}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{FA3C462A-11E7-4cfe-9C20-4208E87EE2F1}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{FA3C462A-11E7-4cfe-9C20-4208E87EE2F1}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{FA5703D8-BC38-4759-BDDB-53A0A9977D86}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{FA5703D8-BC38-4759-BDDB-53A0A9977D86}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{FB0CBA7B-73ED-4880-9A7F-338D67AB1E71}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{FB0CBA7B-73ED-4880-9A7F-338D67AB1E71}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{FDCD16F9-7895-4f2c-9E95-2C4F62DE500D}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{FDCD16F9-7895-4f2c-9E95-2C4F62DE500D}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaInterfaces\{BC29A660-30E3-11d0-9E69-00C04FD7C15B}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaInterfaces\{BC29A660-30E3-11d0-9E69-00C04FD7C15B}\IID]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaInterfaces\{EC529B00-1A1F-11D1-BAD9-00609744111A}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaInterfaces\{EC529B00-1A1F-11D1-BAD9-00609744111A}\IID]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Services\eventlog\Application\MEProv\CategoryCount]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,35,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,36,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Services\eventlog\Application\MEProv\CategoryMessageFile]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,35,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,36,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Services\eventlog\Application\MEProv\EventMessageFile]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,35,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,36,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Services\eventlog\Application\MEProv\MaxSize]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,35,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,36,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Services\eventlog\Application\MEProv\TypesSupported]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,35,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,36,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\Tablet PC]
+【修改】"IsTabletPC"-DWORD-00000ac5
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\drivers.desc]
+【创建】"rtvcvfw32.dll"-SZ-RivaTuner Video Codec
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32]
+【创建】"VIDC.RTV1"-SZ-rtvcvfw32.dll
+【创建】"aux2"-SZ-wdmaud.drv
+【创建】"midi4"-SZ-wdmaud.drv
+【创建】"mixer4"-SZ-wdmaud.drv
+【创建】"wave4"-SZ-wdmaud.drv
+【删除】"midi3"
+【删除】"mixer3"
+【删除】"wave3"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\FontDPI]
+【修改】"LogPixels"-DWORD-00000060
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Fonts]
+【创建】"Unispace-Bold (TrueType)"-SZ-unispace bd.ttf
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\ACE-Tray.exe\PerfOptions]
+【创建】"CpuPriorityClass"-DWORD-00000005
+【创建】"GpuPriorityClass"-DWORD-00000000
+【创建】"IoPriority"-DWORD-00000001
+【创建】"DisableThreadThrottling"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\BEService.exe\PerfOptions]
+【创建】"CpuPriorityClass"-DWORD-00000001
+【创建】"GpuPriorityClass"-DWORD-00000000
+【创建】"IoPriority"-DWORD-00000001
+【创建】"DisableThreadThrottling"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\crossfire.exe]
+【创建】"MitigationOptions"-DWORD-00000000
+【创建】"PerfOptions"-DWORD-00000001
+【创建】"Priority"-DWORD-00000006
+【创建】"CpuPriorityClass"-DWORD-00000003
+【创建】"IoPriority"-DWORD-00000003
+【创建】"GpuPriorityClass"-DWORD-00000003
+【创建】"DisableThreadThrottling"-DWORD-00000001
+【创建】"MaxPreRenderedFrames"-DWORD-00000002
+【创建】"CPUPriorityOffset"-DWORD-00000001
+【创建】"PagePriority"-DWORD-00000005
+【创建】"EnablePriorityBoost"-DWORD-00000000
+【创建】"DisableExceptionChainValidation"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\crossfire.exe\PerfOptions]
+【创建】"MitigationOptions"-DWORD-00000000
+【创建】"PerfOptions"-DWORD-00000001
+【创建】"Priority"-DWORD-00000006
+【创建】"CpuPriorityClass"-DWORD-00000003
+【创建】"IoPriority"-DWORD-00000003
+【创建】"GpuPriorityClass"-DWORD-00000003
+【创建】"DisableThreadThrottling"-DWORD-00000001
+【创建】"MaxPreRenderedFrames"-DWORD-00000002
+【创建】"CPUPriorityOffset"-DWORD-00000001
+【创建】"PagePriority"-DWORD-00000005
+【创建】"EnablePriorityBoost"-DWORD-00000000
+【创建】"DisableExceptionChainValidation"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\crossproxy.exe\PerfOptions]
+【创建】"CpuPriorityClass"-DWORD-00000001
+【创建】"GpuPriorityClass"-DWORD-00000000
+【创建】"DisableThreadThrottling"-DWORD-00000000
+【创建】"IoPriority"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\deltaforceclient-win64-shipping.exe]
+【创建】"MitigationOptions"-DWORD-00000000
+【创建】"PerfOptions"-DWORD-00000001
+【创建】"Priority"-DWORD-00000006
+【创建】"CpuPriorityClass"-DWORD-00000003
+【创建】"IoPriority"-DWORD-00000003
+【创建】"GpuPriorityClass"-DWORD-00000003
+【创建】"DisableThreadThrottling"-DWORD-00000001
+【创建】"MaxPreRenderedFrames"-DWORD-00000002
+【创建】"CPUPriorityOffset"-DWORD-00000001
+【创建】"PagePriority"-DWORD-00000005
+【创建】"EnablePriorityBoost"-DWORD-00000000
+【创建】"DisableExceptionChainValidation"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\deltaforceclient-win64-shipping.exe\PerfOptions]
+【创建】"MitigationOptions"-DWORD-00000000
+【创建】"PerfOptions"-DWORD-00000001
+【创建】"Priority"-DWORD-00000006
+【创建】"CpuPriorityClass"-DWORD-00000003
+【创建】"IoPriority"-DWORD-00000003
+【创建】"GpuPriorityClass"-DWORD-00000003
+【创建】"DisableThreadThrottling"-DWORD-00000001
+【创建】"MaxPreRenderedFrames"-DWORD-00000002
+【创建】"CPUPriorityOffset"-DWORD-00000001
+【创建】"PagePriority"-DWORD-00000005
+【创建】"EnablePriorityBoost"-DWORD-00000000
+【创建】"DisableExceptionChainValidation"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\hwmonitor64.exe\PerfOptions]
+【创建】"CpuPriorityClass"-DWORD-00000001
+【创建】"GpuPriorityClass"-DWORD-00000000
+【创建】"DisableThreadThrottling"-DWORD-00000000
+【创建】"IoPriority"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\League of Legends.exe]
+【创建】"MitigationOptions"-DWORD-00000000
+【创建】"PerfOptions"-DWORD-00000001
+【创建】"Priority"-DWORD-00000006
+【创建】"CpuPriorityClass"-DWORD-00000003
+【创建】"IoPriority"-DWORD-00000003
+【创建】"GpuPriorityClass"-DWORD-00000003
+【创建】"DisableThreadThrottling"-DWORD-00000001
+【创建】"MaxPreRenderedFrames"-DWORD-00000002
+【创建】"CPUPriorityOffset"-DWORD-00000001
+【创建】"PagePriority"-DWORD-00000005
+【创建】"EnablePriorityBoost"-DWORD-00000000
+【创建】"DisableExceptionChainValidation"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\League of Legends.exe\PerfOptions]
+【创建】"MitigationOptions"-DWORD-00000000
+【创建】"PerfOptions"-DWORD-00000001
+【创建】"Priority"-DWORD-00000006
+【创建】"CpuPriorityClass"-DWORD-00000003
+【创建】"IoPriority"-DWORD-00000003
+【创建】"GpuPriorityClass"-DWORD-00000003
+【创建】"DisableThreadThrottling"-DWORD-00000001
+【创建】"MaxPreRenderedFrames"-DWORD-00000002
+【创建】"CPUPriorityOffset"-DWORD-00000001
+【创建】"PagePriority"-DWORD-00000005
+【创建】"EnablePriorityBoost"-DWORD-00000000
+【创建】"DisableExceptionChainValidation"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\NarakaBladepoint.exe]
+【创建】"MitigationOptions"-DWORD-00000000
+【创建】"PerfOptions"-DWORD-00000001
+【创建】"Priority"-DWORD-00000006
+【创建】"CpuPriorityClass"-DWORD-00000003
+【创建】"IoPriority"-DWORD-00000003
+【创建】"GpuPriorityClass"-DWORD-00000003
+【创建】"DisableThreadThrottling"-DWORD-00000001
+【创建】"MaxPreRenderedFrames"-DWORD-00000002
+【创建】"CPUPriorityOffset"-DWORD-00000001
+【创建】"PagePriority"-DWORD-00000005
+【创建】"EnablePriorityBoost"-DWORD-00000000
+【创建】"DisableExceptionChainValidation"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\NarakaBladepoint.exe\PerfOptions]
+【创建】"MitigationOptions"-DWORD-00000000
+【创建】"PerfOptions"-DWORD-00000001
+【创建】"Priority"-DWORD-00000006
+【创建】"CpuPriorityClass"-DWORD-00000003
+【创建】"IoPriority"-DWORD-00000003
+【创建】"GpuPriorityClass"-DWORD-00000003
+【创建】"DisableThreadThrottling"-DWORD-00000001
+【创建】"MaxPreRenderedFrames"-DWORD-00000002
+【创建】"CPUPriorityOffset"-DWORD-00000001
+【创建】"PagePriority"-DWORD-00000005
+【创建】"EnablePriorityBoost"-DWORD-00000000
+【创建】"DisableExceptionChainValidation"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\rail.exe\PerfOptions]
+【创建】"CpuPriorityClass"-DWORD-00000001
+【创建】"GpuPriorityClass"-DWORD-00000000
+【创建】"DisableThreadThrottling"-DWORD-00000000
+【创建】"IoPriority"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\riotclientservices.exe\PerfOptions]
+【创建】"CpuPriorityClass"-DWORD-00000001
+【创建】"GpuPriorityClass"-DWORD-00000000
+【创建】"IoPriority"-DWORD-00000001
+【创建】"DisableThreadThrottling"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\searchapp.exe\PerfOptions]
+【创建】"CpuPriorityClass"-DWORD-00000001
+【创建】"GpuPriorityClass"-DWORD-00000000
+【创建】"DisableThreadThrottling"-DWORD-00000000
+【创建】"IoPriority"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sguard64.exe\PerfOptions]
+【创建】"CpuPriorityClass"-DWORD-00000005
+【创建】"GpuPriorityClass"-DWORD-00000000
+【创建】"IoPriority"-DWORD-00000001
+【创建】"DisableThreadThrottling"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sguardsvc64.exe\PerfOptions]
+【创建】"CpuPriorityClass"-DWORD-00000005
+【创建】"GpuPriorityClass"-DWORD-00000000
+【创建】"IoPriority"-DWORD-00000001
+【创建】"DisableThreadThrottling"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\tcls_core.exe\PerfOptions]
+【创建】"CpuPriorityClass"-DWORD-00000001
+【创建】"GpuPriorityClass"-DWORD-00000000
+【创建】"DisableThreadThrottling"-DWORD-00000000
+【创建】"IoPriority"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TslGame.exe]
+【创建】"MitigationOptions"-DWORD-00000000
+【创建】"PerfOptions"-DWORD-00000001
+【创建】"Priority"-DWORD-00000006
+【创建】"CpuPriorityClass"-DWORD-00000003
+【创建】"IoPriority"-DWORD-00000003
+【创建】"GpuPriorityClass"-DWORD-00000003
+【创建】"DisableThreadThrottling"-DWORD-00000001
+【创建】"MaxPreRenderedFrames"-DWORD-00000002
+【创建】"CPUPriorityOffset"-DWORD-00000001
+【创建】"PagePriority"-DWORD-00000005
+【创建】"EnablePriorityBoost"-DWORD-00000000
+【创建】"DisableExceptionChainValidation"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TslGame.exe\PerfOptions]
+【创建】"MitigationOptions"-DWORD-00000000
+【创建】"PerfOptions"-DWORD-00000001
+【创建】"Priority"-DWORD-00000006
+【创建】"CpuPriorityClass"-DWORD-00000003
+【创建】"IoPriority"-DWORD-00000003
+【创建】"GpuPriorityClass"-DWORD-00000003
+【创建】"DisableThreadThrottling"-DWORD-00000001
+【创建】"MaxPreRenderedFrames"-DWORD-00000002
+【创建】"CPUPriorityOffset"-DWORD-00000001
+【创建】"PagePriority"-DWORD-00000005
+【创建】"EnablePriorityBoost"-DWORD-00000000
+【创建】"DisableExceptionChainValidation"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TslGame_BE.exe\PerfOptions]
+【创建】"CpuPriorityClass"-DWORD-00000001
+【创建】"GpuPriorityClass"-DWORD-00000000
+【创建】"IoPriority"-DWORD-00000001
+【创建】"DisableThreadThrottling"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\valorant-win64-shipping.exe]
+【创建】"MitigationOptions"-DWORD-00000000
+【创建】"PerfOptions"-DWORD-00000001
+【创建】"Priority"-DWORD-00000006
+【创建】"CpuPriorityClass"-DWORD-00000003
+【创建】"IoPriority"-DWORD-00000003
+【创建】"GpuPriorityClass"-DWORD-00000003
+【创建】"DisableThreadThrottling"-DWORD-00000001
+【创建】"MaxPreRenderedFrames"-DWORD-00000002
+【创建】"CPUPriorityOffset"-DWORD-00000001
+【创建】"PagePriority"-DWORD-00000005
+【创建】"EnablePriorityBoost"-DWORD-00000000
+【创建】"DisableExceptionChainValidation"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\valorant-win64-shipping.exe\PerfOptions]
+【创建】"MitigationOptions"-DWORD-00000000
+【创建】"PerfOptions"-DWORD-00000001
+【创建】"Priority"-DWORD-00000006
+【创建】"CpuPriorityClass"-DWORD-00000003
+【创建】"IoPriority"-DWORD-00000003
+【创建】"GpuPriorityClass"-DWORD-00000003
+【创建】"DisableThreadThrottling"-DWORD-00000001
+【创建】"MaxPreRenderedFrames"-DWORD-00000002
+【创建】"CPUPriorityOffset"-DWORD-00000001
+【创建】"PagePriority"-DWORD-00000005
+【创建】"EnablePriorityBoost"-DWORD-00000000
+【创建】"DisableExceptionChainValidation"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\zksvc.exe\PerfOptions]
+【创建】"CpuPriorityClass"-DWORD-00000001
+【创建】"GpuPriorityClass"-DWORD-00000000
+【创建】"DisableThreadThrottling"-DWORD-00000000
+【创建】"IoPriority"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\ProfileList\S-1-5-21-1705975881-1584435405-3073042883-500]
+【修改】"LocalProfileLoadTimeLow"-DWORD-2bc2ee4e
+【修改】"LocalProfileLoadTimeHigh"-DWORD-01dcc3a3
+【修改】"LocalProfileUnloadTimeLow"-DWORD-3a52e4d5
+【修改】"LocalProfileUnloadTimeHigh"-DWORD-01dcc3a2
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Input\Settings\ControllerProcessor\CursorMagnetism]
+【修改】"MagnetismDelayInMilliseconds"-DWORD-00000000
+【修改】"MagnetismUpdateIntervalInMilliseconds"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Input\Settings\ControllerProcessor\CursorSpeed]
+【修改】"CursorSensitivity"-DWORD-ffffffff
+【修改】"CursorUpdateInterval"-DWORD-00000000
+【修改】"IRRemoteNavigationDelta"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSMQ\Parameters]
+【创建】"TCPNoDelay"-DWORD-00000001
+【创建】"TcpAckFrequency"-DWORD-00000001
+【创建】"TcpDelAckTicks"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SecurityManager\CapAuthz\ApplicationsEx\33C30B79.NGENUITY_2.35.0.0_x64__922sw8z9z7n5w]
+【创建】"AppPackageType"-DWORD-00000000
+【创建】"PackageSid"-SZ-S-1-15-2-1645388363-404619328-360087125-1007343988-3461008092-911297654-3498836292
+【创建】"EnterpriseID"-DWORD-00000000
+【创建】"CapSids"-BINARY-09,00,00,00,01,02,00,00,00,00,00,0f,03,00,00,00,02,00,00,00,01,02,00,00,00,00,00,0f,03,00,00,00,01,00,00,00,01,0a,00,00,00,00,00,0f,03,00,00,00,00,04,00,00,93,4d,68,51,18,3d,c3,a6,28,92,37,66,c7,b1,fd,1e,62,11,b0,8d,54,ad,40,41,38,b7,6c,eb,76,c0,56,d6,01,0a,00,00,00,00,00,0f,03,00,00,00,00,04,00,00,c7,db,e8,2a,cb,46,45,fc,80,18,41,d1,d6,0b,c3,f9,b1,6f,46,4d,51,1f,67,17,3f,9b,15,ee,b0,76,1d,ba,01,0a,00,00,00,00,00,0f,03,00,00,00,00,04,00,00,a8,6b,30,be,b2,7a,60,f4,f1,b8,ac,e6,15,52,00,b1,2a,25,3f,a8,96,33,67,5f,99,77,2e,d5,a8,9c,f8,9b,01,0a,00,00,00,00,00,0f,03,00,00,00,00,04,00,00,81,5c,3d,f6,a2,93,47,fe,bd,ef,21,eb,f8,0e,15,aa,a1,a5,0c,c9,ca,22,8f,f0,3e,84,8a,9e,6e,bb,34,d6,01,0a,00,00,00,00,00,0f,03,00,00,00,00,04,00,00,af,37,e5,a2,58,ad,48,66,53,e6,1f,53,b9,42,0e,ea,34,9c,e5,b6,48,3a,db,78,9f,5c,a7,33,fe,7e,97,1a,01,0a,00,00,00,00,00,0f,03,00,00,00,00,04,00,00,04,e8,89,3a,64,f6,03,45,f8,e6,57,7a,12,cb,55,f1,b5,4a,6d,10,af,ec,0c,92,c1,63,f5,50,dc,4d,ec,c7,01,08,00,00,00,00,00,0f,03,00,00,00,4b,a2,12,62,40,00,1e,18,55,7e,76,15,74,d9,0a,3c,dc,ca,4a,ce,76,4c,51,36,44,01,8c,d0,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+【创建】"DeviceCapSids"-BINARY-02,00,00,00,01,05,00,00,00,00,00,0f,03,00,00,00,d7,52,e5,24,23,65,f7,47,a6,47,d3,46,5b,f1,f5,ca,01,05,00,00,00,00,00,0f,03,00,00,00,77,37,32,e5,76,f9,5b,4f,9b,55,b9,46,99,c4,6e,44,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+【创建】"ApplicationFlags"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SystemCertificates\AuthRoot\AutoUpdate]
+【修改】"DisallowedCertLastSyncTime"-BINARY-34,a6,6e,8a,94,c3,dc,01
+【修改】"LastSyncTime"-BINARY-82,da,71,8a,94,c3,dc,01
+【修改】"PinRulesLastSyncTime"-BINARY-5d,54,5b,de,9a,c3,dc,01
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SystemCertificates\AuthRoot\Certificates\07E032E020B72C3F192F0628A2593A19A70F069E]
+【修改】"Blob"-BINARY-5c,00,00,00,01,00,00,00,04,00,00,00,00,08,00,00,19,00,00,00,01,00,00,00,10,00,00,00,1f,7e,75,0b,56,6b,12,8a,c0,b8,d6,57,6d,2a,70,a5,0f,00,00,00,01,00,00,00,14,00,00,00,a8,56,9c,cd,21,ef,9c,c5,73,7c,7a,12,df,60,8c,2c,bc,54,5d,f1,53,00,00,00,01,00,00,00,65,00,00,00,30,63,30,21,06,0b,2a,84,68,01,86,f6,77,02,05,01,01,30,12,30,10,06,0a,2b,06,01,04,01,82,37,3c,01,01,03,02,00,c0,30,21,06,0b,2a,84,68,01,86,f6,77,02,05,01,07,30,12,30,10,06,0a,2b,06,01,04,01,82,37,3c,01,01,03,02,00,c0,30,1b,06,05,67,81,0c,01,03,30,12,30,10,06,0a,2b,06,01,04,01,82,37,3c,01,01,03,02,00,c0,09,00,00,00,01,00,00,00,54,00,00,00,30,52,06,08,2b,06,01,05,05,07,03,02,06,08,2b,06,01,05,05,07,03,03,06,0a,2b,06,01,04,01,82,37,0a,03,04,06,08,2b,06,01,05,05,07,03,04,06,08,2b,06,01,05,05,07,03,06,06,08,2b,06,01,05,05,07,03,07,06,08,2b,06,01,05,05,07,03,01,06,08,2b,06,01,05,05,07,03,08,0b,00,00,00,01,00,00,00,34,00,00,00,43,00,65,00,72,00,74,00,75,00,6d,00,20,00,54,00,72,00,75,00,73,00,74,00,65,00,64,00,20,00,4e,00,65,00,74,00,77,00,6f,00,72,00,6b,00,20,00,43,00,41,00,00,00,62,00,00,00,01,00,00,00,20,00,00,00,5c,58,46,8d,55,f5,8e,49,7e,74,39,82,d2,b5,00,10,b6,d1,65,37,4a,cf,83,a7,d4,a3,2d,b7,68,c4,40,8e,14,00,00,00,01,00,00,00,14,00,00,00,08,76,cd,cb,07,ff,24,f6,c5,cd,ed,bb,90,bc,e2,84,37,46,75,f7,1d,00,00,00,01,00,00,00,10,00,00,00,e3,f9,af,95,2c,6d,f2,aa,a4,17,06,a7,7a,44,c2,03,03,00,00,00,01,00,00,00,14,00,00,00,07,e0,32,e0,20,b7,2c,3f,19,2f,06,28,a2,59,3a,19,a7,0f,06,9e,04,00,00,00,01,00,00,00,10,00,00,00,d5,e9,81,40,c5,18,69,fc,46,2c,89,75,62,0f,aa,78,20,00,00,00,01,00,00,00,bf,03,00,00,30,82,03,bb,30,82,02,a3,a0,03,02,01,02,02,03,04,44,c0,30,0d,06,09,2a,86,48,86,f7,0d,01,01,05,05,00,30,7e,31,0b,30,09,06,03,55,04,06,13,02,50,4c,31,22,30,20,06,03,55,04,0a,13,19,55,6e,69,7a,65,74,6f,20,54,65,63,68,6e,6f,6c,6f,67,69,65,73,20,53,2e,41,2e,31,27,30,25,06,03,55,04,0b,13,1e,43,65,72,74,75,6d,20,43,65,72,74,69,66,69,63,61,74,69,6f,6e,20,41,75,74,68,6f,72,69,74,79,31,22,30,20,06,03,55,04,03,13,19,43,65,72,74,75,6d,20,54,72,75,73,74,65,64,20,4e,65,74,77,6f,72,6b,20,43,41,30,1e,17,0d,30,38,31,30,32,32,31,32,30,37,33,37,5a,17,0d,32,39,31,32,33,31,31,32,30,37,33,37,5a,30,7e,31,0b,30,09,06,03,55,04,06,13,02,50,4c,31,22,30,20,06,03,55,04,0a,13,19,55,6e,69,7a,65,74,6f,20,54,65,63,68,6e,6f,6c,6f,67,69,65,73,20,53,2e,41,2e,31,27,30,25,06,03,55,04,0b,13,1e,43,65,72,74,75,6d,20,43,65,72,74,69,66,69,63,61,74,69,6f,6e,20,41,75,74,68,6f,72,69,74,79,31,22,30,20,06,03,55,04,03,13,19,43,65,72,74,75,6d,20,54,72,75,73,74,65,64,20,4e,65,74,77,6f,72,6b,20,43,41,30,82,01,22,30,0d,06,09,2a,86,48,86,f7,0d,01,01,01,05,00,03,82,01,0f,00,30,82,01,0a,02,82,01,01,00,e3,fb,7d,a3,72,ba,c2,f0,c9,14,87,f5,6b,01,4e,e1,6e,40,07,ba,6d,27,5d,7f,f7,5b,2d,b3,5a,c7,51,5f,ab,a4,32,a6,61,87,b6,6e,0f,86,d2,30,02,97,f8,d7,69,57,a1,18,39,5d,6a,64,79,c6,01,59,ac,3c,31,4a,38,7c,d2,04,d2,4b,28,e8,20,5f,3b,07,a2,cc,4d,73,db,f3,ae,4f,c7,56,d5,5a,a7,96,89,fa,f3,ab,68,d4,23,86,59,27,cf,09,27,bc,ac,6e,72,83,1c,30,72,df,e0,a2,e9,d2,e1,74,75,19,bd,2a,9e,7b,15,54,04,1b,d7,43,39,ad,55,28,c5,e2,1a,bb,f4,c0,e4,ae,38,49,33,cc,76,85,9f,39,45,d2,a4,9e,f2,12,8c,51,f8,7c,e4,2d,7f,f5,ac,5f,eb,16,9f,b1,2d,d1,ba,cc,91,42,77,4c,25,c9,90,38,6f,db,f0,cc,fb,8e,1e,97,59,3e,d5,60,4e,e6,05,28,ed,49,79,13,4b,ba,48,db,2f,f9,72,d3,39,ca,fe,1f,d8,34,72,f5,b4,40,cf,31,01,c3,ec,de,11,2d,17,5d,1f,b8,50,d1,5e,19,a7,69,de,07,33,28,ca,50,95,f9,a7,54,cb,54,86,50,45,a9,f9,49,02,03,01,00,01,a3,42,30,40,30,0f,06,03,55,1d,13,01,01,ff,04,05,30,03,01,01,ff,30,1d,06,03,55,1d,0e,04,16,04,14,08,76,cd,cb,07,ff,24,f6,c5,cd,ed,bb,90,bc,e2,84,37,46,75,f7,30,0e,06,03,55,1d,0f,01,01,ff,04,04,03,02,01,06,30,0d,06,09,2a,86,48,86,f7,0d,01,01,05,05,00,03,82,01,01,00,a6,a8,ad,22,ce,01,3d,a6,a3,ff,62,d0,48,9d,8b,5e,72,b0,78,44,e3,dc,1c,af,09,fd,23,48,fa,bd,2a,c4,b9,55,04,b5,10,a3,8d,27,de,0b,82,63,d0,ee,de,0c,37,79,41,5b,22,b2,b0,9a,41,5c,a6,70,e0,d4,d0,77,cb,23,d3,00,e0,6c,56,2f,e1,69,0d,0d,d9,aa,bf,21,81,50,d9,06,a5,a8,ff,95,37,d0,aa,fe,e2,b3,f5,99,2d,45,84,8a,e5,42,09,d7,74,02,2f,f7,89,d8,99,e9,bc,27,d4,47,8d,ba,0d,46,1c,77,cf,14,a4,1c,b9,a4,31,c4,9c,28,74,03,34,ff,33,19,26,a5,e9,0d,74,b7,3e,97,c6,76,e8,27,96,a3,66,dd,e1,ae,f2,41,5b,ca,98,56,83,73,70,e4,86,1a,d2,31,41,ba,2f,be,2d,13,5a,76,6f,4e,e8,4e,81,0e,3f,5b,03,22,a0,12,be,66,58,11,4a,cb,03,c4,b4,2a,2a,2d,96,17,e0,39,54,bc,48,d3,76,27,9d,9a,2d,06,a6,c9,ec,39,d2,ab,db,9f,9a,0b,27,02,35,29,b1,40,95,e7,f9,e8,9c,55,88,19,46,d6,b7,34,f5,7e,ce,39,9a,d9,38,f1,51,f7,4f,2c
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SystemCertificates\AuthRoot\Certificates\2B8F1B57330DBBA2D07A6C51F70EE90DDAB9AD8E]
+【创建】"Blob"-BINARY-5c,00,00,00,01,00,00,00,04,00,00,00,00,10,00,00,19,00,00,00,01,00,00,00,10,00,00,00,ea,60,89,05,52,18,05,3d,d0,1e,37,e1,d8,06,ee,df,03,00,00,00,01,00,00,00,14,00,00,00,2b,8f,1b,57,33,0d,bb,a2,d0,7a,6c,51,f7,0e,e9,0d,da,b9,ad,8e,0b,00,00,00,01,00,00,00,10,00,00,00,53,00,65,00,63,00,74,00,69,00,67,00,6f,00,00,00,1d,00,00,00,01,00,00,00,10,00,00,00,88,50,10,35,8d,29,a3,8f,05,9b,02,85,59,c9,5f,90,14,00,00,00,01,00,00,00,14,00,00,00,53,79,bf,5a,aa,2b,4a,cf,54,80,e1,d8,9b,c0,9d,f2,b2,03,66,cb,62,00,00,00,01,00,00,00,20,00,00,00,e7,93,c9,b0,2f,d8,aa,13,e2,1c,31,22,8a,cc,b0,81,19,64,3b,74,9c,89,89,64,b1,74,6d,46,c3,d4,cb,d2,53,00,00,00,01,00,00,00,43,00,00,00,30,41,30,22,06,0c,2b,06,01,04,01,b2,31,01,02,01,05,01,30,12,30,10,06,0a,2b,06,01,04,01,82,37,3c,01,01,03,02,00,c0,30,1b,06,05,67,81,0c,01,03,30,12,30,10,06,0a,2b,06,01,04,01,82,37,3c,01,01,03,02,00,c0,09,00,00,00,01,00,00,00,54,00,00,00,30,52,06,08,2b,06,01,05,05,07,03,02,06,08,2b,06,01,05,05,07,03,03,06,0a,2b,06,01,04,01,82,37,0a,03,04,06,08,2b,06,01,05,05,07,03,04,06,08,2b,06,01,05,05,07,03,06,06,08,2b,06,01,05,05,07,03,07,06,08,2b,06,01,05,05,07,03,01,06,08,2b,06,01,05,05,07,03,08,0f,00,00,00,01,00,00,00,30,00,00,00,66,b7,64,a9,65,81,12,81,68,cf,20,8e,37,4d,da,47,9d,54,e3,11,f3,24,57,f4,ae,e0,db,d2,a6,c8,d1,71,d5,31,28,9e,1c,d2,2b,fd,bb,d4,cf,d9,79,62,54,83,04,00,00,00,01,00,00,00,10,00,00,00,1b,fe,69,d1,91,b7,19,33,a3,72,a8,0f,e1,55,e5,b5,20,00,00,00,01,00,00,00,e2,05,00,00,30,82,05,de,30,82,03,c6,a0,03,02,01,02,02,10,01,fd,6d,30,fc,a3,ca,51,a8,1b,bc,64,0e,35,03,2d,30,0d,06,09,2a,86,48,86,f7,0d,01,01,0c,05,00,30,81,88,31,0b,30,09,06,03,55,04,06,13,02,55,53,31,13,30,11,06,03,55,04,08,13,0a,4e,65,77,20,4a,65,72,73,65,79,31,14,30,12,06,03,55,04,07,13,0b,4a,65,72,73,65,79,20,43,69,74,79,31,1e,30,1c,06,03,55,04,0a,13,15,54,68,65,20,55,53,45,52,54,52,55,53,54,20,4e,65,74,77,6f,72,6b,31,2e,30,2c,06,03,55,04,03,13,25,55,53,45,52,54,72,75,73,74,20,52,53,41,20,43,65,72,74,69,66,69,63,61,74,69,6f,6e,20,41,75,74,68,6f,72,69,74,79,30,1e,17,0d,31,30,30,32,30,31,30,30,30,30,30,30,5a,17,0d,33,38,30,31,31,38,32,33,35,39,35,39,5a,30,81,88,31,0b,30,09,06,03,55,04,06,13,02,55,53,31,13,30,11,06,03,55,04,08,13,0a,4e,65,77,20,4a,65,72,73,65,79,31,14,30,12,06,03,55,04,07,13,0b,4a,65,72,73,65,79,20,43,69,74,79,31,1e,30,1c,06,03,55,04,0a,13,15,54,68,65,20,55,53,45,52,54,52,55,53,54,20,4e,65,74,77,6f,72,6b,31,2e,30,2c,06,03,55,04,03,13,25,55,53,45,52,54,72,75,73,74,20,52,53,41,20,43,65,72,74,69,66,69,63,61,74,69,6f,6e,20,41,75,74,68,6f,72,69,74,79,30,82,02,22,30,0d,06,09,2a,86,48,86,f7,0d,01,01,01,05,00,03,82,02,0f,00,30,82,02,0a,02,82,02,01,00,80,12,65,17,36,0e,c3,db,08,b3,d0,ac,57,0d,76,ed,cd,27,d3,4c,ad,50,83,61,e2,aa,20,4d,09,2d,64,09,dc,ce,89,9f,cc,3d,a9,ec,f6,cf,c1,dc,f1,d3,b1,d6,7b,37,28,11,2b,47,da,39,c6,bc,3a,19,b4,5f,a6,bd,7d,9d,a3,63,42,b6,76,f2,a9,3b,2b,91,f8,e2,6f,d0,ec,16,20,90,09,3e,e2,e8,74,c9,18,b4,91,d4,62,64,db,7f,a3,06,f1,88,18,6a,90,22,3c,bc,fe,13,f0,87,14,7b,f6,e4,1f,8e,d4,e4,51,c6,11,67,46,08,51,cb,86,14,54,3f,bc,33,fe,7e,6c,9c,ff,16,9d,18,bd,51,8e,35,a6,a7,66,c8,72,67,db,21,66,b1,d4,9b,78,03,c0,50,3a,e8,cc,f0,dc,bc,9e,4c,fe,af,05,96,35,1f,57,5a,b7,ff,ce,f9,3d,b7,2c,b6,f6,54,dd,c8,e7,12,3a,4d,ae,4c,8a,b7,5c,9a,b4,b7,20,3d,ca,7f,22,34,ae,7e,3b,68,66,01,44,e7,01,4e,46,53,9b,33,60,f7,94,be,53,37,90,73,43,f3,32,c3,53,ef,db,aa,fe,74,4e,69,c7,6b,8c,60,93,de,c4,c7,0c,df,e1,32,ae,cc,93,3b,51,78,95,67,8b,ee,3d,56,fe,0c,d0,69,0f,1b,0f,f3,25,26,6b,33,6d,f7,6e,47,fa,73,43,e5,7e,0e,a5,66,b1,29,7c,32,84,63,55,89,c4,0d,c1,93,54,30,19,13,ac,d3,7d,37,a7,eb,5d,3a,6c,35,5c,db,41,d7,12,da,a9,49,0b,df,d8,80,8a,09,93,62,8e,b5,66,cf,25,88,cd,84,b8,b1,3f,a4,39,0f,d9,02,9e,eb,12,4c,95,7c,f3,6b,05,a9,5e,16,83,cc,b8,67,e2,e8,13,9d,cc,5b,82,d3,4c,b3,ed,5b,ff,de,e5,73,ac,23,3b,2d,00,bf,35,55,74,09,49,d8,49,58,1a,7f,92,36,e6,51,92,0e,f3,26,7d,1c,4d,17,bc,c9,ec,43,26,d0,bf,41,5f,40,a9,44,44,f4,99,e7,57,87,9e,50,1f,57,54,a8,3e,fd,74,63,2f,b1,50,65,09,e6,58,42,2e,43,1a,4c,b4,f0,25,47,59,fa,04,1e,93,d4,26,46,4a,50,81,b2,de,be,78,b7,fc,67,15,e1,c9,57,84,1e,0f,63,d6,e9,62,ba,d6,5f,55,2e,ea,5c,c6,28,08,04,25,39,b8,0e,2b,a9,f2,4c,97,1c,07,3f,0d,52,f5,ed,ef,2f,82,0f,02,03,01,00,01,a3,42,30,40,30,1d,06,03,55,1d,0e,04,16,04,14,53,79,bf,5a,aa,2b,4a,cf,54,80,e1,d8,9b,c0,9d,f2,b2,03,66,cb,30,0e,06,03,55,1d,0f,01,01,ff,04,04,03,02,01,06,30,0f,06,03,55,1d,13,01,01,ff,04,05,30,03,01,01,ff,30,0d,06,09,2a,86,48,86,f7,0d,01,01,0c,05,00,03,82,02,01,00,5c,d4,7c,0d,cf,f7,01,7d,41,99,65,0c,73,c5,52,9f,cb,f8,cf,99,06,7f,1b,da,43,15,9f,9e,02,55,57,96,14,f1,52,3c,27,87,94,28,ed,1f,3a,01,37,a2,76,fc,53,50,c0,84,9b,c6,6b,4e,ba,8c,21,4f,a2,8e,55,62,91,f3,69,15,d8,bc,88,e3,c4,aa,0b,fd,ef,a8,e9,4b,55,2a,06,20,6d,55,78,29,19,ee,5f,30,5c,4b,24,11,55,ff,24,9a,6e,5e,2a,2b,ee,0b,4d,9f,7f,f7,01,38,94,14,95,43,07,09,fb,60,a9,ee,1c,ab,12,8c,a0,9a,5e,a7,98,6a,59,6d,8b,3f,08,fb,c8,d1,45,af,18,15,64,90,12,0f,73,28,2e,c5,e2,24,4e,fc,58,ec,f0,f4,45,fe,22,b3,eb,2f,8e,d2,d9,45,61,05,c1,97,6f,a8,76,72,8f,8b,8c,36,af,bf,0d,05,ce,71,8d,e6,a6,6f,1f,6c,a6,71,62,c5,d8,d0,83,72,0c,f1,67,11,89,0c,9c,13,4c,72,34,df,bc,d5,71,df,aa,71,dd,e1,b9,6c,8c,3c,12,5d,65,da,bd,57,12,b6,43,6b,ff,e5,de,4d,66,11,51,cf,99,ae,ec,17,b6,e8,71,91,8c,de,49,fe,dd,35,71,a2,15,27,94,1c,cf,61,e3,26,bb,6f,a3,67,25,21,5d,e6,dd,1d,0b,2e,68,1b,3b,82,af,ec,83,67,85,d4,98,51,74,b1,b9,99,80,89,ff,7f,78,19,5c,79,4a,60,2e,92,40,ae,4c,37,2a,2c,c9,c7,62,c8,0e,5d,f7,36,5b,ca,e0,25,25,01,b4,dd,1a,07,9c,77,00,3f,d0,dc,d5,ec,3d,d4,fa,bb,3f,cc,85,d6,6f,7f,a9,2d,df,b9,02,f7,f5,97,9a,b5,35,da,c3,67,b0,87,4a,a9,28,9e,23,8e,ff,5c,27,6b,e1,b0,4f,f3,07,ee,00,2e,d4,59,87,cb,52,41,95,ea,f4,47,d7,ee,64,41,55,7c,8d,59,02,95,dd,62,9d,c2,b9,ee,5a,28,74,84,a5,9b,b7,90,c7,0c,07,df,f5,89,36,74,32,d6,28,c1,b0,b0,0b,e0,9c,4c,c3,1c,d6,fc,e3,69,b5,47,46,81,2f,a2,82,ab,d3,63,44,70,c4,8d,ff,2d,33,ba,ad,8f,7b,b5,70,88,ae,3e,19,cf,40,28,d8,fc,c8,90,bb,5d,99,22,f5,52,e6,58,c5,1f,88,31,43,ee,88,1d,d7,c6,8e,3c,43,6a,1d,a7,18,de,7d,3d,16,f1,62,f9,ca,90,a8,fd
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SystemCertificates\AuthRoot\Certificates\4EB6D578499B1CCF5F581EAD56BE3D9B6744A5E5]
+【创建】"Blob"-BINARY-5c,00,00,00,01,00,00,00,04,00,00,00,00,08,00,00,19,00,00,00,01,00,00,00,10,00,00,00,d8,b5,fb,36,84,68,62,02,75,d1,42,ff,d2,aa,de,37,03,00,00,00,01,00,00,00,14,00,00,00,4e,b6,d5,78,49,9b,1c,cf,5f,58,1e,ad,56,be,3d,9b,67,44,a5,e5,68,00,00,00,01,00,00,00,00,00,00,00,7e,00,00,00,01,00,00,00,08,00,00,00,00,c0,03,2f,2d,f8,d6,01,1d,00,00,00,01,00,00,00,10,00,00,00,c6,cb,ca,fa,17,95,5c,4c,fd,41,ec,a0,c6,54,c3,61,0b,00,00,00,01,00,00,00,12,00,00,00,56,00,65,00,72,00,69,00,53,00,69,00,67,00,6e,00,00,00,14,00,00,00,01,00,00,00,14,00,00,00,7f,d3,65,a7,c2,dd,ec,bb,f0,30,09,f3,43,39,fa,02,af,33,31,33,62,00,00,00,01,00,00,00,20,00,00,00,9a,cf,ab,7e,43,c8,d8,80,d0,6b,26,2a,94,de,ee,e4,b4,65,99,89,c3,d0,ca,f1,9b,af,64,05,e4,1a,b7,df,09,00,00,00,01,00,00,00,2a,00,00,00,30,28,06,08,2b,06,01,05,05,07,03,02,06,08,2b,06,01,05,05,07,03,03,06,08,2b,06,01,05,05,07,03,04,06,08,2b,06,01,05,05,07,03,01,7f,00,00,00,01,00,00,00,2a,00,00,00,30,28,06,08,2b,06,01,05,05,07,03,02,06,08,2b,06,01,05,05,07,03,03,06,08,2b,06,01,05,05,07,03,04,06,08,2b,06,01,05,05,07,03,01,53,00,00,00,01,00,00,00,63,00,00,00,30,61,30,21,06,0b,60,86,48,01,86,f8,45,01,07,17,06,30,12,30,10,06,0a,2b,06,01,04,01,82,37,3c,01,01,03,02,00,c0,30,1f,06,09,60,86,48,01,86,fd,6c,02,01,30,12,30,10,06,0a,2b,06,01,04,01,82,37,3c,01,01,03,02,00,c0,30,1b,06,05,67,81,0c,01,03,30,12,30,10,06,0a,2b,06,01,04,01,82,37,3c,01,01,03,02,00,c0,0f,00,00,00,01,00,00,00,14,00,00,00,e9,1e,1e,97,2b,8f,46,7a,b4,e0,59,8f,a9,22,85,38,7d,ee,94,c9,04,00,00,00,01,00,00,00,10,00,00,00,cb,17,e4,31,67,3e,e2,09,fe,45,57,93,f3,0a,fa,1c,20,00,00,00,01,00,00,00,d7,04,00,00,30,82,04,d3,30,82,03,bb,a0,03,02,01,02,02,10,18,da,d1,9e,26,7d,e8,bb,4a,21,58,cd,cc,6b,3b,4a,30,0d,06,09,2a,86,48,86,f7,0d,01,01,05,05,00,30,81,ca,31,0b,30,09,06,03,55,04,06,13,02,55,53,31,17,30,15,06,03,55,04,0a,13,0e,56,65,72,69,53,69,67,6e,2c,20,49,6e,63,2e,31,1f,30,1d,06,03,55,04,0b,13,16,56,65,72,69,53,69,67,6e,20,54,72,75,73,74,20,4e,65,74,77,6f,72,6b,31,3a,30,38,06,03,55,04,0b,13,31,28,63,29,20,32,30,30,36,20,56,65,72,69,53,69,67,6e,2c,20,49,6e,63,2e,20,2d,20,46,6f,72,20,61,75,74,68,6f,72,69,7a,65,64,20,75,73,65,20,6f,6e,6c,79,31,45,30,43,06,03,55,04,03,13,3c,56,65,72,69,53,69,67,6e,20,43,6c,61,73,73,20,33,20,50,75,62,6c,69,63,20,50,72,69,6d,61,72,79,20,43,65,72,74,69,66,69,63,61,74,69,6f,6e,20,41,75,74,68,6f,72,69,74,79,20,2d,20,47,35,30,1e,17,0d,30,36,31,31,30,38,30,30,30,30,30,30,5a,17,0d,33,36,30,37,31,36,32,33,35,39,35,39,5a,30,81,ca,31,0b,30,09,06,03,55,04,06,13,02,55,53,31,17,30,15,06,03,55,04,0a,13,0e,56,65,72,69,53,69,67,6e,2c,20,49,6e,63,2e,31,1f,30,1d,06,03,55,04,0b,13,16,56,65,72,69,53,69,67,6e,20,54,72,75,73,74,20,4e,65,74,77,6f,72,6b,31,3a,30,38,06,03,55,04,0b,13,31,28,63,29,20,32,30,30,36,20,56,65,72,69,53,69,67,6e,2c,20,49,6e,63,2e,20,2d,20,46,6f,72,20,61,75,74,68,6f,72,69,7a,65,64,20,75,73,65,20,6f,6e,6c,79,31,45,30,43,06,03,55,04,03,13,3c,56,65,72,69,53,69,67,6e,20,43,6c,61,73,73,20,33,20,50,75,62,6c,69,63,20,50,72,69,6d,61,72,79,20,43,65,72,74,69,66,69,63,61,74,69,6f,6e,20,41,75,74,68,6f,72,69,74,79,20,2d,20,47,35,30,82,01,22,30,0d,06,09,2a,86,48,86,f7,0d,01,01,01,05,00,03,82,01,0f,00,30,82,01,0a,02,82,01,01,00,af,24,08,08,29,7a,35,9e,60,0c,aa,e7,4b,3b,4e,dc,7c,bc,3c,45,1c,bb,2b,e0,fe,29,02,f9,57,08,a3,64,85,15,27,f5,f1,ad,c8,31,89,5d,22,e8,2a,aa,a6,42,b3,8f,f8,b9,55,b7,b1,b7,4b,b3,fe,8f,7e,07,57,ec,ef,43,db,66,62,15,61,cf,60,0d,a4,d8,de,f8,e0,c3,62,08,3d,54,13,eb,49,ca,59,54,85,26,e5,2b,8f,1b,9f,eb,f5,a1,91,c2,33,49,d8,43,63,6a,52,4b,d2,8f,e8,70,51,4d,d1,89,69,7b,c7,70,f6,b3,dc,12,74,db,7b,5d,4b,56,d3,96,bf,15,77,a1,b0,f4,a2,25,f2,af,1c,92,67,18,e5,f4,06,04,ef,90,b9,e4,00,e4,dd,3a,b5,19,ff,02,ba,f4,3c,ee,e0,8b,eb,37,8b,ec,f4,d7,ac,f2,f6,f0,3d,af,dd,75,91,33,19,1d,1c,40,cb,74,24,19,21,93,d9,14,fe,ac,2a,52,c7,8f,d5,04,49,e4,8d,63,47,88,3c,69,83,cb,fe,47,bd,2b,7e,4f,c5,95,ae,0e,9d,d4,d1,43,c0,67,73,e3,14,08,7e,e5,3f,9f,73,b8,33,0a,cf,5d,3f,34,87,96,8a,ee,53,e8,25,15,02,03,01,00,01,a3,81,b2,30,81,af,30,0f,06,03,55,1d,13,01,01,ff,04,05,30,03,01,01,ff,30,0e,06,03,55,1d,0f,01,01,ff,04,04,03,02,01,06,30,6d,06,08,2b,06,01,05,05,07,01,0c,04,61,30,5f,a1,5d,a0,5b,30,59,30,57,30,55,16,09,69,6d,61,67,65,2f,67,69,66,30,21,30,1f,30,07,06,05,2b,0e,03,02,1a,04,14,8f,e5,d3,1a,86,ac,8d,8e,6b,c3,cf,80,6a,d4,48,18,2c,7b,19,2e,30,25,16,23,68,74,74,70,3a,2f,2f,6c,6f,67,6f,2e,76,65,72,69,73,69,67,6e,2e,63,6f,6d,2f,76,73,6c,6f,67,6f,2e,67,69,66,30,1d,06,03,55,1d,0e,04,16,04,14,7f,d3,65,a7,c2,dd,ec,bb,f0,30,09,f3,43,39,fa,02,af,33,31,33,30,0d,06,09,2a,86,48,86,f7,0d,01,01,05,05,00,03,82,01,01,00,93,24,4a,30,5f,62,cf,d8,1a,98,2f,3d,ea,dc,99,2d,bd,77,f6,a5,79,22,38,ec,c4,a7,a0,78,12,ad,62,0e,45,70,64,c5,e7,97,66,2d,98,09,7e,5f,af,d6,cc,28,65,f2,01,aa,08,1a,47,de,f9,f9,7c,92,5a,08,69,20,0d,d9,3e,6d,6e,3c,0d,6e,d8,e6,06,91,40,18,b9,f8,c1,ed,df,db,41,aa,e0,96,20,c9,cd,64,15,38,81,c9,94,ee,a2,84,29,0b,13,6f,8e,db,0c,dd,25,02,db,a4,8b,19,44,d2,41,7a,05,69,4a,58,4f,60,ca,7e,82,6a,0b,02,aa,25,17,39,b5,db,7f,e7,84,65,2a,95,8a,bd,86,de,5e,81,16,83,2d,10,cc,de,fd,a8,82,2a,6d,28,1f,0d,0b,c4,e5,e7,1a,26,19,e1,f4,11,6f,10,b5,95,fc,e7,42,05,32,db,ce,9d,51,5e,28,b6,9e,85,d3,5b,ef,a5,7d,45,40,72,8e,b7,0e,6b,0e,06,fb,33,35,48,71,b8,9d,27,8b,c4,65,5f,0d,86,76,9c,44,7a,f6,95,5c,f6,5d,32,08,33,a4,54,b6,18,3f,68,5c,f2,42,4a,85,38,54,83,5f,d1,e8,2c,f2,ac,11,d6,a8,ed,63,6a
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SystemCertificates\AuthRoot\Certificates\CABD2A79A1076A31F21D253635CB039D4329A5E8]
+【创建】"Blob"-BINARY-19,00,00,00,01,00,00,00,10,00,00,00,2f,e1,f7,0b,b0,5d,7c,92,33,5b,c5,e0,5b,98,4d,a6,0f,00,00,00,01,00,00,00,20,00,00,00,3f,04,11,ed,e9,c4,47,70,57,d5,7e,57,88,3b,1f,20,5b,20,cd,c0,f3,26,31,29,b1,ee,02,69,a2,67,8f,63,03,00,00,00,01,00,00,00,14,00,00,00,ca,bd,2a,79,a1,07,6a,31,f2,1d,25,36,35,cb,03,9d,43,29,a5,e8,1d,00,00,00,01,00,00,00,10,00,00,00,73,b6,87,61,95,f5,d1,8e,04,85,10,42,2a,ef,04,e3,14,00,00,00,01,00,00,00,14,00,00,00,79,b4,59,e6,7b,b6,e5,e4,01,73,80,08,88,c8,1a,58,f6,e9,9b,6e,09,00,00,00,01,00,00,00,16,00,00,00,30,14,06,08,2b,06,01,05,05,07,03,02,06,08,2b,06,01,05,05,07,03,01,0b,00,00,00,01,00,00,00,1a,00,00,00,49,00,53,00,52,00,47,00,20,00,52,00,6f,00,6f,00,74,00,20,00,58,00,31,00,00,00,62,00,00,00,01,00,00,00,20,00,00,00,96,bc,ec,06,26,49,76,f3,74,60,77,9a,cf,28,c5,a7,cf,e8,a3,c0,aa,e1,1a,8f,fc,ee,05,c0,bd,df,08,c6,5c,00,00,00,01,00,00,00,04,00,00,00,00,10,00,00,04,00,00,00,01,00,00,00,10,00,00,00,0c,d2,f9,e0,da,17,73,e9,ed,86,4d,a5,e3,70,e7,4e,20,00,00,00,01,00,00,00,6f,05,00,00,30,82,05,6b,30,82,03,53,a0,03,02,01,02,02,11,00,82,10,cf,b0,d2,40,e3,59,44,63,e0,bb,63,82,8b,00,30,0d,06,09,2a,86,48,86,f7,0d,01,01,0b,05,00,30,4f,31,0b,30,09,06,03,55,04,06,13,02,55,53,31,29,30,27,06,03,55,04,0a,13,20,49,6e,74,65,72,6e,65,74,20,53,65,63,75,72,69,74,79,20,52,65,73,65,61,72,63,68,20,47,72,6f,75,70,31,15,30,13,06,03,55,04,03,13,0c,49,53,52,47,20,52,6f,6f,74,20,58,31,30,1e,17,0d,31,35,30,36,30,34,31,31,30,34,33,38,5a,17,0d,33,35,30,36,30,34,31,31,30,34,33,38,5a,30,4f,31,0b,30,09,06,03,55,04,06,13,02,55,53,31,29,30,27,06,03,55,04,0a,13,20,49,6e,74,65,72,6e,65,74,20,53,65,63,75,72,69,74,79,20,52,65,73,65,61,72,63,68,20,47,72,6f,75,70,31,15,30,13,06,03,55,04,03,13,0c,49,53,52,47,20,52,6f,6f,74,20,58,31,30,82,02,22,30,0d,06,09,2a,86,48,86,f7,0d,01,01,01,05,00,03,82,02,0f,00,30,82,02,0a,02,82,02,01,00,ad,e8,24,73,f4,14,37,f3,9b,9e,2b,57,28,1c,87,be,dc,b7,df,38,90,8c,6e,3c,e6,57,a0,78,f7,75,c2,a2,fe,f5,6a,6e,f6,00,4f,28,db,de,68,86,6c,44,93,b6,b1,63,fd,14,12,6b,bf,1f,d2,ea,31,9b,21,7e,d1,33,3c,ba,48,f5,dd,79,df,b3,b8,ff,12,f1,21,9a,4b,c1,8a,86,71,69,4a,66,66,6c,8f,7e,3c,70,bf,ad,29,22,06,f3,e4,c0,e6,80,ae,e2,4b,8f,b7,99,7e,94,03,9f,d3,47,97,7c,99,48,23,53,e8,38,ae,4f,0a,6f,83,2e,d1,49,57,8c,80,74,b6,da,2f,d0,38,8d,7b,03,70,21,1b,75,f2,30,3c,fa,8f,ae,dd,da,63,ab,eb,16,4f,c2,8e,11,4b,7e,cf,0b,e8,ff,b5,77,2e,f4,b2,7b,4a,e0,4c,12,25,0c,70,8d,03,29,a0,e1,53,24,ec,13,d9,ee,19,bf,10,b3,4a,8c,3f,89,a3,61,51,de,ac,87,07,94,f4,63,71,ec,2e,e2,6f,5b,98,81,e1,89,5c,34,79,6c,76,ef,3b,90,62,79,e6,db,a4,9a,2f,26,c5,d0,10,e1,0e,de,d9,10,8e,16,fb,b7,f7,a8,f7,c7,e5,02,07,98,8f,36,08,95,e7,e2,37,96,0d,36,75,9e,fb,0e,72,b1,1d,9b,bc,03,f9,49,05,d8,81,dd,05,b4,2a,d6,41,e9,ac,01,76,95,0a,0f,d8,df,d5,bd,12,1f,35,2f,28,17,6c,d2,98,c1,a8,09,64,77,6e,47,37,ba,ce,ac,59,5e,68,9d,7f,72,d6,89,c5,06,41,29,3e,59,3e,dd,26,f5,24,c9,11,a7,5a,a3,4c,40,1f,46,a1,99,b5,a7,3a,51,6e,86,3b,9e,7d,72,a7,12,05,78,59,ed,3e,51,78,15,0b,03,8f,8d,d0,2f,05,b2,3e,7b,4a,1c,4b,73,05,12,fc,c6,ea,e0,50,13,7c,43,93,74,b3,ca,74,e7,8e,1f,01,08,d0,30,d4,5b,71,36,b4,07,ba,c1,30,30,5c,48,b7,82,3b,98,a6,7d,60,8a,a2,a3,29,82,cc,ba,bd,83,04,1b,a2,83,03,41,a1,d6,05,f1,1b,c2,b6,f0,a8,7c,86,3b,46,a8,48,2a,88,dc,76,9a,76,bf,1f,6a,a5,3d,19,8f,eb,38,f3,64,de,c8,2b,0d,0a,28,ff,f7,db,e2,15,42,d4,22,d0,27,5d,e1,79,fe,18,e7,70,88,ad,4e,e6,d9,8b,3a,c6,dd,27,51,6e,ff,bc,64,f5,33,43,4f,02,03,01,00,01,a3,42,30,40,30,0e,06,03,55,1d,0f,01,01,ff,04,04,03,02,01,06,30,0f,06,03,55,1d,13,01,01,ff,04,05,30,03,01,01,ff,30,1d,06,03,55,1d,0e,04,16,04,14,79,b4,59,e6,7b,b6,e5,e4,01,73,80,08,88,c8,1a,58,f6,e9,9b,6e,30,0d,06,09,2a,86,48,86,f7,0d,01,01,0b,05,00,03,82,02,01,00,55,1f,58,a9,bc,b2,a8,50,d0,0c,b1,d8,1a,69,20,27,29,08,ac,61,75,5c,8a,6e,f8,82,e5,69,2f,d5,f6,56,4b,b9,b8,73,10,59,d3,21,97,7e,e7,4c,71,fb,b2,d2,60,ad,39,a8,0b,ea,17,21,56,85,f1,50,0e,59,eb,ce,e0,59,e9,ba,c9,15,ef,86,9d,8f,84,80,f6,e4,e9,91,90,dc,17,9b,62,1b,45,f0,66,95,d2,7c,6f,c2,ea,3b,ef,1f,cf,cb,d6,ae,27,f1,a9,b0,c8,ae,fd,7d,7e,9a,fa,22,04,eb,ff,d9,7f,ea,91,2b,22,b1,17,0e,8f,f2,8a,34,5b,58,d8,fc,01,c9,54,b9,b8,26,cc,8a,88,33,89,4c,2d,84,3c,82,df,ee,96,57,05,ba,2c,bb,f7,c4,b7,c7,4e,3b,82,be,31,c8,22,73,73,92,d1,c2,80,a4,39,39,10,33,23,82,4c,3c,9f,86,b2,55,98,1d,be,29,86,8c,22,9b,9e,e2,6b,3b,57,3a,82,70,4d,dc,09,c7,89,cb,0a,07,4d,6c,e8,5d,8e,c9,ef,ce,ab,c7,bb,b5,2b,4e,45,d6,4a,d0,26,cc,e5,72,ca,08,6a,a5,95,e3,15,a1,f7,a4,ed,c9,2c,5f,a5,fb,ff,ac,28,02,2e,be,d7,7b,bb,e3,71,7b,90,16,d3,07,5e,46,53,7c,37,07,42,8c,d3,c4,96,9c,d5,99,b5,2a,e0,95,1a,80,48,ae,4c,39,07,ce,cc,47,a4,52,95,2b,ba,b8,fb,ad,d2,33,53,7d,e5,1d,4d,6d,d5,a1,b1,c7,42,6f,e6,40,27,35,5c,a3,28,b7,07,8d,e7,8d,33,90,e7,23,9f,fb,50,9c,79,6c,46,d5,b4,15,b3,96,6e,7e,9b,0c,96,3a,b8,52,2d,3f,d6,5b,e1,fb,08,c2,84,fe,24,a8,a3,89,da,ac,6a,e1,18,2a,b1,a8,43,61,5b,d3,1f,dc,3b,8d,76,f2,2d,e8,8d,75,df,17,33,6c,3d,53,fb,7b,cb,41,5f,ff,dc,a2,d0,61,38,e1,96,b8,ac,5d,8b,37,d7,75,d5,33,c0,99,11,ae,9d,41,c1,72,75,84,be,02,41,42,5f,67,24,48,94,d1,9b,27,be,07,3f,b9,b8,4f,81,74,51,e1,7a,b7,ed,9d,23,e2,be,e0,d5,28,04,13,3c,31,03,9e,dd,7a,6c,8f,c6,07,18,c6,7f,de,47,8e,3f,28,9e,04,06,cf,a5,54,34,77,bd,ec,89,9b,e9,17,43,df,5b,db,5f,fe,8e,1e,57,a2,cd,40,9d,7e,62,22,da,de,18,27
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SystemCertificates\AuthRoot\Certificates\D69B561148F01C77C54578C10926DF5B856976AD]
+【创建】"Blob"-BINARY-5c,00,00,00,01,00,00,00,04,00,00,00,00,08,00,00,19,00,00,00,01,00,00,00,10,00,00,00,d0,fd,3c,9c,38,0d,7b,65,e2,6b,9a,3f,ed,d3,9b,8f,03,00,00,00,01,00,00,00,14,00,00,00,d6,9b,56,11,48,f0,1c,77,c5,45,78,c1,09,26,df,5b,85,69,76,ad,1d,00,00,00,01,00,00,00,10,00,00,00,01,72,8e,1e,cf,7a,9d,86,fb,3c,ec,89,48,ab,a9,53,14,00,00,00,01,00,00,00,14,00,00,00,8f,f0,4b,7f,a8,2e,45,24,ae,4d,50,fa,63,9a,8b,de,e2,dd,1b,bc,62,00,00,00,01,00,00,00,20,00,00,00,cb,b5,22,d7,b7,f1,27,ad,6a,01,13,86,5b,df,1c,d4,10,2e,7d,07,59,af,63,5a,7c,f4,72,0d,c9,63,c5,3b,0b,00,00,00,01,00,00,00,30,00,00,00,47,00,6c,00,6f,00,62,00,61,00,6c,00,53,00,69,00,67,00,6e,00,20,00,52,00,6f,00,6f,00,74,00,20,00,43,00,41,00,20,00,2d,00,20,00,52,00,33,00,00,00,53,00,00,00,01,00,00,00,40,00,00,00,30,3e,30,1f,06,09,2b,06,01,04,01,a0,32,01,01,30,12,30,10,06,0a,2b,06,01,04,01,82,37,3c,01,01,03,02,00,c0,30,1b,06,05,67,81,0c,01,03,30,12,30,10,06,0a,2b,06,01,04,01,82,37,3c,01,01,03,02,00,c0,09,00,00,00,01,00,00,00,54,00,00,00,30,52,06,08,2b,06,01,05,05,07,03,02,06,08,2b,06,01,05,05,07,03,03,06,0a,2b,06,01,04,01,82,37,0a,03,04,06,08,2b,06,01,05,05,07,03,04,06,08,2b,06,01,05,05,07,03,06,06,08,2b,06,01,05,05,07,03,07,06,08,2b,06,01,05,05,07,03,01,06,08,2b,06,01,05,05,07,03,08,0f,00,00,00,01,00,00,00,20,00,00,00,52,29,ba,15,b3,1b,0c,6f,4c,ca,89,c2,98,51,77,97,43,27,d1,b6,89,a3,b9,35,a0,bd,97,55,32,af,22,ab,04,00,00,00,01,00,00,00,10,00,00,00,c5,df,b8,49,ca,05,13,55,ee,2d,ba,1a,c3,3e,b0,28,20,00,00,00,01,00,00,00,63,03,00,00,30,82,03,5f,30,82,02,47,a0,03,02,01,02,02,0b,04,00,00,00,00,01,21,58,53,08,a2,30,0d,06,09,2a,86,48,86,f7,0d,01,01,0b,05,00,30,4c,31,20,30,1e,06,03,55,04,0b,13,17,47,6c,6f,62,61,6c,53,69,67,6e,20,52,6f,6f,74,20,43,41,20,2d,20,52,33,31,13,30,11,06,03,55,04,0a,13,0a,47,6c,6f,62,61,6c,53,69,67,6e,31,13,30,11,06,03,55,04,03,13,0a,47,6c,6f,62,61,6c,53,69,67,6e,30,1e,17,0d,30,39,30,33,31,38,31,30,30,30,30,30,5a,17,0d,32,39,30,33,31,38,31,30,30,30,30,30,5a,30,4c,31,20,30,1e,06,03,55,04,0b,13,17,47,6c,6f,62,61,6c,53,69,67,6e,20,52,6f,6f,74,20,43,41,20,2d,20,52,33,31,13,30,11,06,03,55,04,0a,13,0a,47,6c,6f,62,61,6c,53,69,67,6e,31,13,30,11,06,03,55,04,03,13,0a,47,6c,6f,62,61,6c,53,69,67,6e,30,82,01,22,30,0d,06,09,2a,86,48,86,f7,0d,01,01,01,05,00,03,82,01,0f,00,30,82,01,0a,02,82,01,01,00,cc,25,76,90,79,06,78,22,16,f5,c0,83,b6,84,ca,28,9e,fd,05,76,11,c5,ad,88,72,fc,46,02,43,c7,b2,8a,9d,04,5f,24,cb,2e,4b,e1,60,82,46,e1,52,ab,0c,81,47,70,6c,dd,64,d1,eb,f5,2c,a3,0f,82,3d,0c,2b,ae,97,d7,b6,14,86,10,79,bb,3b,13,80,77,8c,08,e1,49,d2,6a,62,2f,1f,5e,fa,96,68,df,89,27,95,38,9f,06,d7,3e,c9,cb,26,59,0d,73,de,b0,c8,e9,26,0e,83,15,c6,ef,5b,8b,d2,04,60,ca,49,a6,28,f6,69,3b,f6,cb,c8,28,91,e5,9d,8a,61,57,37,ac,74,14,dc,74,e0,3a,ee,72,2f,2e,9c,fb,d0,bb,bf,f5,3d,00,e1,06,33,e8,82,2b,ae,53,a6,3a,16,73,8c,dd,41,0e,20,3a,c0,b4,a7,a1,e9,b2,4f,90,2e,32,60,e9,57,cb,b9,04,92,68,68,e5,38,26,60,75,b2,9f,77,ff,91,14,ef,ae,20,49,fc,ad,40,15,48,d1,02,31,61,19,5e,b8,97,ef,ad,77,b7,64,9a,7a,bf,5f,c1,13,ef,9b,62,fb,0d,6c,e0,54,69,16,a9,03,da,6e,e9,83,93,71,76,c6,69,85,82,17,02,03,01,00,01,a3,42,30,40,30,0e,06,03,55,1d,0f,01,01,ff,04,04,03,02,01,06,30,0f,06,03,55,1d,13,01,01,ff,04,05,30,03,01,01,ff,30,1d,06,03,55,1d,0e,04,16,04,14,8f,f0,4b,7f,a8,2e,45,24,ae,4d,50,fa,63,9a,8b,de,e2,dd,1b,bc,30,0d,06,09,2a,86,48,86,f7,0d,01,01,0b,05,00,03,82,01,01,00,4b,40,db,c0,50,aa,fe,c8,0c,ef,f7,96,54,45,49,bb,96,00,09,41,ac,b3,13,86,86,28,07,33,ca,6b,e6,74,b9,ba,00,2d,ae,a4,0a,d3,f5,f1,f1,0f,8a,bf,73,67,4a,83,c7,44,7b,78,e0,af,6e,6c,6f,03,29,8e,33,39,45,c3,8e,e4,b9,57,6c,aa,fc,12,96,ec,53,c6,2d,e4,24,6c,b9,94,63,fb,dc,53,68,67,56,3e,83,b8,cf,35,21,c3,c9,68,fe,ce,da,c2,53,aa,cc,90,8a,e9,f0,5d,46,8c,95,dd,7a,58,28,1a,2f,1d,de,cd,00,37,41,8f,ed,44,6d,d7,53,28,97,7e,f3,67,04,1e,15,d7,8a,96,b4,d3,de,4c,27,a4,4c,1b,73,73,76,f4,17,99,c2,1f,7a,0e,e3,2d,08,ad,0a,1c,2c,ff,3c,ab,55,0e,0f,91,7e,36,eb,c3,57,49,be,e1,2e,2d,7c,60,8b,c3,41,51,13,23,9d,ce,f7,32,6b,94,01,a8,99,e7,2c,33,1f,3a,3b,25,d2,86,40,ce,3b,2c,86,78,c9,61,2f,14,ba,ee,db,55,6f,df,84,ee,05,09,4d,bd,28,d8,72,ce,d3,62,50,65,1e,eb,92,97,83,31,d9,b3,b5,ca,47,58,3f,5f
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SystemCertificates\ROOT\Certificates\48ECA28A4DE24B33669F3393AF68971CBDC9FFBC]
+【创建】"Blob"-BINARY-03,00,00,00,01,00,00,00,14,00,00,00,48,ec,a2,8a,4d,e2,4b,33,66,9f,33,93,af,68,97,1c,bd,c9,ff,bc,04,00,00,00,01,00,00,00,10,00,00,00,ac,ab,64,46,26,bb,93,e6,ea,a2,67,30,06,63,1e,4c,0f,00,00,00,01,00,00,00,20,00,00,00,48,93,00,67,7f,29,5e,fc,93,be,48,73,ba,b9,99,05,bf,d7,88,60,ed,75,d2,2a,ff,74,6a,0c,ba,1a,d6,56,14,00,00,00,01,00,00,00,14,00,00,00,83,36,fe,1c,1f,a5,e9,e3,4b,87,c5,cc,60,9f,57,7d,18,ed,d9,df,19,00,00,00,01,00,00,00,10,00,00,00,a5,1e,83,1d,0b,c4,3b,d3,f5,27,7f,9a,f2,57,1d,11,5c,00,00,00,01,00,00,00,04,00,00,00,00,08,00,00,18,00,00,00,01,00,00,00,10,00,00,00,bf,a0,e0,89,71,1d,92,69,d4,db,05,2a,96,89,b3,1f,20,00,00,00,01,00,00,00,7d,06,00,00,30,82,06,79,30,82,04,61,a0,03,02,01,02,02,13,33,00,05,e5,62,9b,92,f8,ca,33,06,72,01,00,00,00,05,e5,62,30,0d,06,09,2a,86,48,86,f7,0d,01,01,0b,05,00,30,81,8b,31,0b,30,09,06,03,55,04,06,13,02,55,53,31,13,30,11,06,03,55,04,08,13,0a,57,61,73,68,69,6e,67,74,6f,6e,31,10,30,0e,06,03,55,04,07,13,07,52,65,64,6d,6f,6e,64,31,1e,30,1c,06,03,55,04,0a,13,15,4d,69,63,72,6f,73,6f,66,74,20,43,6f,72,70,6f,72,61,74,69,6f,6e,31,0c,30,0a,06,03,55,04,0b,13,03,45,4f,43,31,27,30,25,06,03,55,04,03,13,1e,4d,69,63,72,6f,73,6f,66,74,20,4d,61,72,6b,65,74,70,6c,61,63,65,20,43,41,20,47,20,30,32,38,30,1e,17,0d,32,30,31,31,31,32,31,39,33,36,31,30,5a,17,0d,32,30,31,31,31,35,31,39,33,36,31,30,5a,30,74,31,0b,30,09,06,03,55,04,06,13,02,55,53,31,13,30,11,06,03,55,04,08,13,0a,57,61,73,68,69,6e,67,74,6f,6e,31,10,30,0e,06,03,55,04,07,13,07,52,65,64,6d,6f,6e,64,31,1e,30,1c,06,03,55,04,0a,13,15,4d,69,63,72,6f,73,6f,66,74,20,43,6f,72,70,6f,72,61,74,69,6f,6e,31,1e,30,1c,06,03,55,04,03,13,15,4d,69,63,72,6f,73,6f,66,74,20,43,6f,72,70,6f,72,61,74,69,6f,6e,30,82,01,22,30,0d,06,09,2a,86,48,86,f7,0d,01,01,01,05,00,03,82,01,0f,00,30,82,01,0a,02,82,01,01,00,9a,0e,04,e0,69,f6,dc,a6,45,12,55,3e,5b,52,80,d1,bf,d1,bf,b7,23,d5,93,c1,e4,f5,9c,f4,c2,0b,3a,9f,a4,0e,f7,b3,db,3a,dc,3e,8e,39,46,36,99,2b,53,71,c8,38,0c,26,5b,ab,ef,ba,5d,b5,ce,1a,d2,7d,cc,2f,aa,ca,93,6e,5d,1e,67,d6,19,4d,e1,3e,74,41,ab,f8,a7,bf,19,85,97,46,98,98,78,7d,73,45,56,7e,52,68,e9,2c,73,fb,0f,78,8e,33,63,8e,d3,c3,01,89,42,e8,34,50,b6,4f,d6,1d,cc,ca,e3,75,20,3a,ce,7d,7d,5f,55,3d,ac,2b,d6,53,6f,71,1a,a3,3c,8a,09,75,5d,e5,18,5e,79,58,47,d0,67,ac,a2,93,27,81,b9,3d,27,54,d6,47,44,b6,3b,52,bc,50,42,09,ab,23,47,65,62,a0,f0,ed,2f,2d,8e,a1,18,07,56,67,7e,23,b4,6e,fa,e8,b6,7e,28,90,e6,23,c7,d0,7a,9d,ed,3e,1b,88,56,be,82,a4,79,05,59,e0,7b,ac,88,ef,d4,3f,97,46,27,84,94,18,97,54,74,01,20,39,d2,81,0d,37,f6,bc,49,04,80,19,3f,2a,0c,dd,e0,a3,5e,00,26,94,13,38,8a,d5,02,03,01,00,01,a3,82,01,ea,30,82,01,e6,30,2e,06,03,55,1d,25,01,01,ff,04,24,30,22,06,08,2b,06,01,05,05,07,03,03,06,0a,2b,06,01,04,01,82,37,4c,03,01,06,0a,2b,06,01,04,01,82,37,4c,05,64,30,1d,06,03,55,1d,0e,04,16,04,14,83,36,fe,1c,1f,a5,e9,e3,4b,87,c5,cc,60,9f,57,7d,18,ed,d9,df,30,0d,06,03,55,1d,11,04,06,30,04,82,02,55,53,30,1f,06,03,55,1d,23,04,18,30,16,80,14,a5,f6,95,52,b1,22,83,35,7f,47,90,c3,1a,07,1c,7d,25,b7,ac,a9,30,5f,06,03,55,1d,1f,04,58,30,56,30,54,a0,52,a0,50,86,4e,68,74,74,70,3a,2f,2f,77,77,77,2e,6d,69,63,72,6f,73,6f,66,74,2e,63,6f,6d,2f,70,6b,69,6f,70,73,2f,63,72,6c,2f,4d,69,63,72,6f,73,6f,66,74,25,32,30,4d,61,72,6b,65,74,70,6c,61,63,65,25,32,30,43,41,25,32,30,47,25,32,30,30,32,38,2e,63,72,6c,30,6c,06,08,2b,06,01,05,05,07,01,01,04,60,30,5e,30,5c,06,08,2b,06,01,05,05,07,30,02,86,50,68,74,74,70,3a,2f,2f,77,77,77,2e,6d,69,63,72,6f,73,6f,66,74,2e,63,6f,6d,2f,70,6b,69,6f,70,73,2f,63,65,72,74,73,2f,4d,69,63,72,6f,73,6f,66,74,25,32,30,4d,61,72,6b,65,74,70,6c,61,63,65,25,32,30,43,41,25,32,30,47,25,32,30,30,32,38,2e,63,72,74,30,0c,06,03,55,1d,13,01,01,ff,04,02,30,00,30,0e,06,03,55,1d,0f,01,01,ff,04,04,03,02,05,e0,30,3c,06,09,2b,06,01,04,01,82,37,15,07,04,2f,30,2d,06,25,2b,06,01,04,01,82,37,15,08,83,92,f6,44,ea,af,10,83,91,8d,30,82,ac,e0,2c,82,a2,9c,31,34,81,87,82,03,83,a8,b6,4e,02,01,64,02,01,1b,30,3a,06,09,2b,06,01,04,01,82,37,15,0a,01,01,ff,04,2a,30,28,30,0a,06,08,2b,06,01,05,05,07,03,03,30,0c,06,0a,2b,06,01,04,01,82,37,4c,03,01,30,0c,06,0a,2b,06,01,04,01,82,37,4c,05,64,30,0d,06,09,2a,86,48,86,f7,0d,01,01,0b,05,00,03,82,02,01,00,6a,b1,57,aa,b6,0e,bc,f3,22,f1,f6,5a,bc,0f,ea,99,32,d5,b1,94,83,95,cc,45,7b,ab,42,05,0c,37,2d,51,89,8f,30,9b,c9,4b,ac,75,b7,4e,b5,a6,6b,b8,e7,b7,21,15,37,26,dd,9c,78,b3,0d,72,b1,5e,e7,7e,1a,fe,6d,33,ec,c4,45,5e,92,11,67,2e,0c,cd,f5,c4,84,8e,3e,88,44,a9,fb,06,08,49,e7,56,49,55,73,d2,54,c3,5c,09,cb,36,9b,ee,99,d7,b0,7e,fa,77,54,8e,ea,cc,fb,15,d9,0b,ac,e1,dc,f1,8e,f9,d8,58,b3,7b,be,7e,30,4c,1c,a7,bf,6b,4a,21,5d,56,0f,98,cb,b3,5c,a1,d5,70,38,a9,b8,22,36,09,a8,b7,33,1a,02,60,9a,b9,a0,55,bd,e4,4e,fc,57,88,3e,7f,91,7f,ef,81,04,6a,cf,9e,5a,a8,25,9a,de,cf,be,0e,6e,c2,1a,33,be,2e,7d,9f,b8,ce,5c,77,4c,ce,31,a7,a6,89,ae,df,2a,b2,0d,61,d0,c7,0e,d7,33,b1,c2,76,57,4f,ef,86,19,e4,3d,75,7f,44,01,ac,09,62,e3,64,1f,ce,9a,7f,b9,38,8c,b9,dd,4e,57,98,72,d1,44,4e,c5,61,3a,74,1c,d3,88,b2,d1,5a,9a,71,fe,54,11,e2,11,6d,f7,d3,6c,ac,dc,0d,8d,81,97,e4,55,5d,17,8c,48,d6,d1,1b,08,c3,4b,df,b8,79,5f,6b,df,af,b3,13,22,c0,da,5a,c7,4d,61,37,9f,bb,b5,78,ec,dc,cc,c4,b1,33,d8,59,ca,4c,11,ca,6b,d4,8b,29,f6,2b,29,ff,c8,6b,3a,b9,75,02,fb,ec,96,23,03,fd,7f,b5,3f,14,5e,99,e3,50,60,df,b1,ea,6e,32,05,53,81,bc,ef,8e,77,93,a1,b6,13,c6,9a,1c,31,cf,06,22,a4,f1,2c,cf,f5,f2,03,ca,7c,e9,45,51,b3,92,63,c6,84,59,3f,51,f2,15,44,2e,85,72,66,28,34,13,d1,b7,42,42,9e,91,37,a3,c0,74,67,6d,66,23,55,04,e9,e1,72,1a,81,55,6f,fb,75,19,e7,4c,3f,9a,47,ce,50,25,42,8f,dd,85,9c,38,08,cc,b8,a6,44,07,94,2e,12,92,35,e9,0a,fd,96,52,4a,18,91,06,d6,75,5b,5c,66,7b,f9,c1,a1,9b,86,7b,90,9b,42,87,85,a8,cf,4d,68,63,b1,a0,04,4d,56,4a,bb,fb,a5,f2,a0,1f,de,d6,1f,96,04,34,5f,26,d8,f3,c2,61,19,9f
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SystemCertificates\ROOT\Certificates\581DE89212E0650E6EFF99C7210B3C64700BBE1F]
+【创建】"Blob"-BINARY-03,00,00,00,01,00,00,00,14,00,00,00,58,1d,e8,92,12,e0,65,0e,6e,ff,99,c7,21,0b,3c,64,70,0b,be,1f,04,00,00,00,01,00,00,00,10,00,00,00,31,04,eb,2b,99,e8,4d,60,7e,2b,5a,38,9c,a1,3a,4a,0f,00,00,00,01,00,00,00,20,00,00,00,fb,fe,22,d0,d1,91,af,5e,99,aa,93,df,79,4a,32,19,b0,dd,ea,19,ce,23,3f,88,5f,dc,a7,8c,ed,36,f5,7c,14,00,00,00,01,00,00,00,14,00,00,00,86,41,90,a4,8f,99,50,b3,98,d1,da,33,2d,6d,ca,d6,ef,10,9f,6a,19,00,00,00,01,00,00,00,10,00,00,00,12,ae,bd,d1,c1,ed,b6,33,90,40,ee,2c,c2,82,64,30,5c,00,00,00,01,00,00,00,04,00,00,00,00,08,00,00,18,00,00,00,01,00,00,00,10,00,00,00,1a,e3,0f,2a,cc,74,dd,a0,44,20,e2,5d,8e,05,2e,cf,20,00,00,00,01,00,00,00,85,06,00,00,30,82,06,81,30,82,04,69,a0,03,02,01,02,02,13,33,00,00,61,47,45,da,d2,76,b9,82,4b,a4,00,00,00,00,61,47,30,0d,06,09,2a,86,48,86,f7,0d,01,01,0b,05,00,30,81,8b,31,0b,30,09,06,03,55,04,06,13,02,55,53,31,13,30,11,06,03,55,04,08,13,0a,57,61,73,68,69,6e,67,74,6f,6e,31,10,30,0e,06,03,55,04,07,13,07,52,65,64,6d,6f,6e,64,31,1e,30,1c,06,03,55,04,0a,13,15,4d,69,63,72,6f,73,6f,66,74,20,43,6f,72,70,6f,72,61,74,69,6f,6e,31,0c,30,0a,06,03,55,04,0b,13,03,45,4f,43,31,27,30,25,06,03,55,04,03,13,1e,4d,69,63,72,6f,73,6f,66,74,20,4d,61,72,6b,65,74,70,6c,61,63,65,20,43,41,20,47,20,30,32,36,30,1e,17,0d,32,30,30,32,30,34,30,38,31,32,32,34,5a,17,0d,32,30,30,32,30,37,30,38,31,32,32,34,5a,30,74,31,0b,30,09,06,03,55,04,06,13,02,55,53,31,13,30,11,06,03,55,04,08,13,0a,57,61,73,68,69,6e,67,74,6f,6e,31,10,30,0e,06,03,55,04,07,13,07,52,65,64,6d,6f,6e,64,31,1e,30,1c,06,03,55,04,0a,13,15,4d,69,63,72,6f,73,6f,66,74,20,43,6f,72,70,6f,72,61,74,69,6f,6e,31,1e,30,1c,06,03,55,04,03,13,15,4d,69,63,72,6f,73,6f,66,74,20,43,6f,72,70,6f,72,61,74,69,6f,6e,30,82,01,22,30,0d,06,09,2a,86,48,86,f7,0d,01,01,01,05,00,03,82,01,0f,00,30,82,01,0a,02,82,01,01,00,c2,d8,e4,12,49,8c,a5,ed,b0,2c,d4,3e,b1,2e,ad,7b,a6,8d,f1,c5,6e,b4,8a,f7,21,27,3a,3c,9e,93,bf,d4,22,ca,7a,50,cc,85,a7,32,77,87,e7,da,58,f6,68,eb,e8,0b,54,6e,1a,bc,1b,c8,e5,39,da,c7,1a,6f,74,23,3a,67,57,45,e0,65,7f,a4,4f,91,d2,6f,f0,29,d1,47,e4,4b,98,01,f3,77,c2,df,58,f1,41,6f,00,98,d9,06,ca,46,d0,48,43,df,86,a2,f7,cd,58,5c,24,0e,bc,f2,ef,41,b9,79,25,57,00,07,50,fa,73,be,c1,7f,f5,38,18,bf,e9,f3,8e,01,20,cc,7d,fb,25,9f,00,f7,53,ac,88,95,6c,00,d3,3e,c2,a0,de,52,bd,17,b2,9a,6d,88,de,21,1e,31,ab,64,bd,5b,ab,62,ac,32,9b,c1,eb,92,a7,6f,4e,a3,32,8f,07,96,33,28,67,36,7e,53,fa,70,4e,98,61,aa,50,da,c1,22,8e,ce,88,98,4e,f7,cf,7e,0c,99,17,b8,c5,52,fb,17,fa,15,3a,3f,c4,c7,ea,04,24,4e,af,fd,06,6c,98,d9,55,74,f3,41,e0,b2,83,79,8d,a6,2c,92,cc,e7,5f,5b,96,8c,32,e2,e4,5f,86,5b,02,03,01,00,01,a3,82,01,f2,30,82,01,ee,30,2e,06,03,55,1d,25,01,01,ff,04,24,30,22,06,08,2b,06,01,05,05,07,03,03,06,0a,2b,06,01,04,01,82,37,4c,03,01,06,0a,2b,06,01,04,01,82,37,4c,05,64,30,1d,06,03,55,1d,0e,04,16,04,14,86,41,90,a4,8f,99,50,b3,98,d1,da,33,2d,6d,ca,d6,ef,10,9f,6a,30,15,06,03,55,1d,11,04,0e,30,0c,82,0a,50,75,65,72,74,6f,52,69,63,6f,30,1f,06,03,55,1d,23,04,18,30,16,80,14,dd,b9,cd,50,ea,b4,af,6a,96,64,77,fb,b1,25,82,46,5b,bb,a3,72,30,5f,06,03,55,1d,1f,04,58,30,56,30,54,a0,52,a0,50,86,4e,68,74,74,70,3a,2f,2f,77,77,77,2e,6d,69,63,72,6f,73,6f,66,74,2e,63,6f,6d,2f,70,6b,69,6f,70,73,2f,63,72,6c,2f,4d,69,63,72,6f,73,6f,66,74,25,32,30,4d,61,72,6b,65,74,70,6c,61,63,65,25,32,30,43,41,25,32,30,47,25,32,30,30,32,36,2e,63,72,6c,30,6c,06,08,2b,06,01,05,05,07,01,01,04,60,30,5e,30,5c,06,08,2b,06,01,05,05,07,30,02,86,50,68,74,74,70,3a,2f,2f,77,77,77,2e,6d,69,63,72,6f,73,6f,66,74,2e,63,6f,6d,2f,70,6b,69,6f,70,73,2f,63,65,72,74,73,2f,4d,69,63,72,6f,73,6f,66,74,25,32,30,4d,61,72,6b,65,74,70,6c,61,63,65,25,32,30,43,41,25,32,30,47,25,32,30,30,32,36,2e,63,72,74,30,0c,06,03,55,1d,13,01,01,ff,04,02,30,00,30,0e,06,03,55,1d,0f,01,01,ff,04,04,03,02,05,e0,30,3c,06,09,2b,06,01,04,01,82,37,15,07,04,2f,30,2d,06,25,2b,06,01,04,01,82,37,15,08,83,92,f6,44,ea,af,10,83,91,8d,30,82,ac,e0,2c,82,a2,9c,31,34,81,87,82,03,83,a8,b6,4e,02,01,64,02,01,1b,30,3a,06,09,2b,06,01,04,01,82,37,15,0a,01,01,ff,04,2a,30,28,30,0a,06,08,2b,06,01,05,05,07,03,03,30,0c,06,0a,2b,06,01,04,01,82,37,4c,03,01,30,0c,06,0a,2b,06,01,04,01,82,37,4c,05,64,30,0d,06,09,2a,86,48,86,f7,0d,01,01,0b,05,00,03,82,02,01,00,cf,d6,fe,f7,01,a6,c8,9f,25,8d,e7,d2,bd,df,dd,25,f0,b6,79,54,47,aa,27,76,62,a7,48,0a,2c,76,bc,cf,0c,86,a0,f7,65,49,14,2d,22,78,47,1d,ce,7b,35,2e,cc,62,7a,42,c7,3e,e5,ee,8f,ce,62,30,e3,5b,82,ea,40,01,44,49,25,0a,cb,ca,d4,5a,4d,10,82,6d,4e,07,c1,f1,b1,17,cd,77,1c,b6,10,20,3e,e0,2d,2e,c5,02,e6,50,fd,42,2f,fa,0b,ea,4a,fa,56,e7,75,b3,a5,1d,02,dc,93,7c,d7,2a,f2,99,5d,2d,10,82,28,fa,28,dd,64,8e,41,e9,fa,30,55,74,77,d7,45,e9,89,37,7d,e9,99,89,28,92,49,38,85,47,71,0f,14,2f,14,62,93,31,30,d5,ae,54,67,f5,ac,04,46,84,1d,00,1a,8c,50,0e,45,30,f5,33,8f,4f,cb,c0,3a,8b,a2,c0,68,7c,a5,64,32,5d,13,3a,28,e0,f0,51,7e,c8,68,28,1b,f1,4c,97,7e,0c,49,b8,c6,e6,2e,6d,5b,49,de,e1,4b,13,1f,08,a8,f2,d5,52,7e,06,d8,78,b0,50,9c,37,4d,cb,1e,ff,30,87,f9,93,8f,a9,5b,2d,8c,91,09,42,ec,1a,d6,fe,bb,ce,8d,b1,ab,c3,32,90,2c,81,e4,2e,97,ac,63,ab,45,b0,20,d6,f0,33,5c,98,23,31,2c,7d,e3,1c,ae,dc,ca,ab,20,c9,6b,cd,e0,d7,32,02,ec,9e,5b,95,bc,e5,a5,2c,f0,32,2e,35,91,af,82,43,d8,c5,a4,33,6e,6b,79,93,e4,3e,90,98,46,4e,4f,7d,a3,de,f9,00,37,16,db,be,0a,2a,25,92,57,e0,f0,29,b6,2d,6e,8b,ab,74,f5,42,8f,b6,d7,ef,c7,23,4b,e0,33,10,67,fa,77,5b,ba,11,87,7c,1d,15,ab,2f,6e,c5,9c,f4,26,3d,98,82,33,bc,27,f2,2b,cc,e5,85,69,71,0f,98,e4,dc,18,02,b5,66,2e,52,99,d7,8e,63,10,12,6a,37,eb,24,2c,41,b1,5c,d8,4a,eb,4d,6d,b9,25,28,2a,39,48,e2,04,dc,d7,d9,20,26,04,22,b2,f6,13,c5,44,c0,b4,b9,47,5d,d4,fb,39,18,7d,00,68,ea,15,19,8d,c6,f8,b4,58,24,db,fd,85,dd,36,78,5e,f6,d4,81,dd,60,9b,f5,33,51,ce,38,d2,9a,03,d9,37,05,45,4a,86,74,f5,e4,32,f2,9d,08,bd,15,85,ed,63,37,bf,0b,65,4b,99,d7,61,5e
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SystemCertificates\ROOT\Certificates\5E56A63F29AB04EEC8AED3B9B57416BE0CCEC0D0]
+【创建】"Blob"-BINARY-03,00,00,00,01,00,00,00,14,00,00,00,5e,56,a6,3f,29,ab,04,ee,c8,ae,d3,b9,b5,74,16,be,0c,ce,c0,d0,04,00,00,00,01,00,00,00,10,00,00,00,81,8f,95,5b,4d,97,05,9f,29,20,de,b7,29,2d,4e,b6,0f,00,00,00,01,00,00,00,20,00,00,00,56,b9,fa,d6,e0,8b,53,42,a5,60,42,da,44,46,0c,e7,e2,e7,9e,5c,0c,79,9b,ef,d2,19,59,5e,c6,8c,85,58,14,00,00,00,01,00,00,00,14,00,00,00,2e,79,42,12,66,4f,13,40,f8,55,65,f8,cd,ab,7f,cf,00,b9,d9,b5,19,00,00,00,01,00,00,00,10,00,00,00,53,05,c7,24,5e,c6,7c,c6,66,97,8e,89,23,72,63,55,5c,00,00,00,01,00,00,00,04,00,00,00,00,08,00,00,18,00,00,00,01,00,00,00,10,00,00,00,bf,a0,e0,89,71,1d,92,69,d4,db,05,2a,96,89,b3,1f,20,00,00,00,01,00,00,00,7d,06,00,00,30,82,06,79,30,82,04,61,a0,03,02,01,02,02,13,33,00,38,bc,c2,d9,81,73,55,2f,2f,7a,70,00,00,00,38,bc,c2,30,0d,06,09,2a,86,48,86,f7,0d,01,01,0b,05,00,30,81,8b,31,0b,30,09,06,03,55,04,06,13,02,55,53,31,13,30,11,06,03,55,04,08,13,0a,57,61,73,68,69,6e,67,74,6f,6e,31,10,30,0e,06,03,55,04,07,13,07,52,65,64,6d,6f,6e,64,31,1e,30,1c,06,03,55,04,0a,13,15,4d,69,63,72,6f,73,6f,66,74,20,43,6f,72,70,6f,72,61,74,69,6f,6e,31,0c,30,0a,06,03,55,04,0b,13,03,45,4f,43,31,27,30,25,06,03,55,04,03,13,1e,4d,69,63,72,6f,73,6f,66,74,20,4d,61,72,6b,65,74,70,6c,61,63,65,20,43,41,20,47,20,30,32,38,30,1e,17,0d,32,34,30,31,32,39,31,39,31,39,34,37,5a,17,0d,32,34,30,32,30,31,31,39,31,39,34,37,5a,30,74,31,0b,30,09,06,03,55,04,06,13,02,55,53,31,13,30,11,06,03,55,04,08,13,0a,57,61,73,68,69,6e,67,74,6f,6e,31,10,30,0e,06,03,55,04,07,13,07,52,65,64,6d,6f,6e,64,31,1e,30,1c,06,03,55,04,0a,13,15,4d,69,63,72,6f,73,6f,66,74,20,43,6f,72,70,6f,72,61,74,69,6f,6e,31,1e,30,1c,06,03,55,04,03,13,15,4d,69,63,72,6f,73,6f,66,74,20,43,6f,72,70,6f,72,61,74,69,6f,6e,30,82,01,22,30,0d,06,09,2a,86,48,86,f7,0d,01,01,01,05,00,03,82,01,0f,00,30,82,01,0a,02,82,01,01,00,d0,c9,05,07,16,6f,e7,bb,bd,65,91,f2,d8,de,e0,67,7a,6c,61,81,4e,3d,ec,46,4e,f1,c7,e5,ed,22,87,a5,cd,87,c9,49,17,e6,4d,ed,68,a9,9d,79,fb,24,1d,c4,24,56,ab,06,48,3c,2b,59,6c,90,80,e4,58,ed,6a,58,85,99,eb,1f,82,3b,1a,1b,dd,a1,81,da,dc,a8,7d,da,59,6a,37,4f,eb,ff,17,69,fc,d6,17,73,23,c6,39,47,2a,94,f2,bb,00,36,ed,a5,75,46,44,ef,4f,81,4f,d7,c8,aa,64,43,78,c4,75,39,23,5b,db,7b,9a,d9,c4,b1,0f,7d,27,83,b6,56,89,c2,6a,0c,67,2e,d6,c3,01,2d,0f,81,f7,3d,82,4d,ea,e4,d4,77,d3,21,8c,dd,ba,04,d0,f6,b9,34,22,8e,8d,8d,a1,4c,d1,66,f1,65,42,94,f7,7d,60,c9,42,39,19,67,46,f4,7c,17,ac,dc,92,f6,d7,24,fb,c0,a3,a1,dc,57,ea,5b,93,ad,ac,21,ae,ea,fe,ac,f2,fc,8f,03,89,91,50,21,dc,6c,94,ab,d5,8f,b7,98,74,d8,10,a9,5e,f8,a3,d1,a4,d5,d0,82,d8,52,bf,65,42,8c,9a,2b,bd,fb,c0,d0,0c,f7,97,72,12,89,02,03,01,00,01,a3,82,01,ea,30,82,01,e6,30,2e,06,03,55,1d,25,01,01,ff,04,24,30,22,06,08,2b,06,01,05,05,07,03,03,06,0a,2b,06,01,04,01,82,37,4c,03,01,06,0a,2b,06,01,04,01,82,37,4c,05,64,30,1d,06,03,55,1d,0e,04,16,04,14,2e,79,42,12,66,4f,13,40,f8,55,65,f8,cd,ab,7f,cf,00,b9,d9,b5,30,0d,06,03,55,1d,11,04,06,30,04,82,02,55,53,30,1f,06,03,55,1d,23,04,18,30,16,80,14,a5,f6,95,52,b1,22,83,35,7f,47,90,c3,1a,07,1c,7d,25,b7,ac,a9,30,5f,06,03,55,1d,1f,04,58,30,56,30,54,a0,52,a0,50,86,4e,68,74,74,70,3a,2f,2f,77,77,77,2e,6d,69,63,72,6f,73,6f,66,74,2e,63,6f,6d,2f,70,6b,69,6f,70,73,2f,63,72,6c,2f,4d,69,63,72,6f,73,6f,66,74,25,32,30,4d,61,72,6b,65,74,70,6c,61,63,65,25,32,30,43,41,25,32,30,47,25,32,30,30,32,38,2e,63,72,6c,30,6c,06,08,2b,06,01,05,05,07,01,01,04,60,30,5e,30,5c,06,08,2b,06,01,05,05,07,30,02,86,50,68,74,74,70,3a,2f,2f,77,77,77,2e,6d,69,63,72,6f,73,6f,66,74,2e,63,6f,6d,2f,70,6b,69,6f,70,73,2f,63,65,72,74,73,2f,4d,69,63,72,6f,73,6f,66,74,25,32,30,4d,61,72,6b,65,74,70,6c,61,63,65,25,32,30,43,41,25,32,30,47,25,32,30,30,32,38,2e,63,72,74,30,0c,06,03,55,1d,13,01,01,ff,04,02,30,00,30,0e,06,03,55,1d,0f,01,01,ff,04,04,03,02,05,e0,30,3c,06,09,2b,06,01,04,01,82,37,15,07,04,2f,30,2d,06,25,2b,06,01,04,01,82,37,15,08,83,92,f6,44,ea,af,10,83,91,8d,30,82,ac,e0,2c,82,a2,9c,31,34,81,87,82,03,83,a8,b6,4e,02,01,64,02,01,1b,30,3a,06,09,2b,06,01,04,01,82,37,15,0a,01,01,ff,04,2a,30,28,30,0a,06,08,2b,06,01,05,05,07,03,03,30,0c,06,0a,2b,06,01,04,01,82,37,4c,03,01,30,0c,06,0a,2b,06,01,04,01,82,37,4c,05,64,30,0d,06,09,2a,86,48,86,f7,0d,01,01,0b,05,00,03,82,02,01,00,71,a1,73,d3,d3,ab,9a,5b,43,c1,fd,19,87,5b,7d,97,33,1f,4c,42,1e,f4,dc,2a,74,08,35,f2,0d,3d,9c,1f,4f,8e,0b,7b,ad,a9,67,75,d0,ac,e5,72,4a,2b,63,b9,c0,28,ca,0d,2e,0f,8f,32,04,3a,b9,87,47,f0,c0,17,95,cd,34,4a,a3,96,62,18,f6,94,92,83,9f,fe,0c,d8,d2,a0,30,07,8d,8c,a4,68,b1,83,7e,df,15,f4,6c,74,79,d4,b8,ec,8e,f2,d2,c9,2a,29,7e,85,ad,cf,bc,9e,21,ca,d7,5f,38,d3,45,13,0c,53,57,93,b4,c2,22,fb,2d,46,22,4d,6b,29,14,10,3e,b1,5d,4b,72,77,d3,bd,9c,1b,89,ed,dc,0c,44,e5,78,f6,d5,2a,34,80,66,7d,ac,32,b5,84,a5,0e,35,f0,3d,cc,f4,08,5e,67,7d,52,bf,e3,90,55,54,3b,41,58,45,4b,c8,11,8c,12,82,50,9e,b9,7c,8a,f4,de,e2,5d,01,fd,8b,e8,a5,e9,70,23,0f,e9,54,76,09,1f,81,0d,14,f3,c6,ff,56,f4,fb,76,c4,c6,84,33,d4,f0,69,72,b0,7b,98,83,40,12,ca,5c,3b,96,ed,df,83,20,50,f2,43,a0,a0,aa,14,48,16,90,bd,87,63,cc,89,04,f2,59,80,49,70,30,7f,8c,bc,7d,39,10,c9,3d,ee,53,ae,c5,3f,db,3b,3f,07,74,e7,67,09,ae,e3,bf,84,35,b0,12,b4,45,2d,60,9b,52,d3,5b,bd,96,35,34,d8,c7,97,6c,86,44,29,8a,cc,52,f0,cb,19,fd,a5,cb,38,23,d4,9c,f1,4d,88,a3,7c,45,3e,98,f3,51,56,91,0d,08,52,6f,1b,e6,7d,47,9b,4a,e0,89,e6,53,58,41,15,bf,60,4c,68,19,dc,d9,c1,6e,9b,2e,84,eb,73,ba,6e,6d,4f,9e,c0,2a,bc,cd,b3,b4,bd,a5,e5,bb,d1,9b,54,e9,06,14,9b,e8,68,10,f2,af,3f,79,3a,6d,05,f9,23,0a,c6,75,7c,f2,ec,6c,c7,81,be,64,94,7d,c3,e1,b2,e0,04,48,7f,b3,f4,82,92,31,8d,59,63,d6,5d,e0,2b,a6,3b,11,2f,5f,18,45,6b,a7,29,77,9e,ac,c7,e1,1b,43,e9,d2,dc,ee,27,c8,c1,43,bd,14,30,e3,2a,13,b1,fc,75,1d,bd,ca,87,6a,b9,7f,bc,62,87,aa,59,99,b0,e9,e5,48,c1,dd,15,e1,09,f2,38,1a,5b,7f,5f,59,3c,e5,78,20,b2,93,57,9b,7e,c2,ac,6b
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SystemCertificates\ROOT\Certificates\A43489159A520F0D93D032CCAF37E7FE20A8B419]
+【修改】"Blob"-BINARY-5c,00,00,00,01,00,00,00,04,00,00,00,00,08,00,00,19,00,00,00,01,00,00,00,10,00,00,00,3f,c8,cb,0b,c0,52,41,e5,8d,65,e9,44,8b,2d,07,c2,0f,00,00,00,01,00,00,00,10,00,00,00,8b,3c,30,87,b7,05,6f,5e,c5,dd,ba,91,a1,b9,01,f0,69,00,00,00,01,00,00,00,0e,00,00,00,30,0c,06,0a,2b,06,01,04,01,82,37,3c,03,02,0b,00,00,00,01,00,00,00,32,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,52,00,6f,00,6f,00,74,00,20,00,41,00,75,00,74,00,68,00,6f,00,72,00,69,00,74,00,79,00,00,00,03,00,00,00,01,00,00,00,14,00,00,00,a4,34,89,15,9a,52,0f,0d,93,d0,32,cc,af,37,e7,fe,20,a8,b4,19,14,00,00,00,01,00,00,00,14,00,00,00,4a,5c,75,22,aa,46,bf,a4,08,9d,39,97,4e,bd,b4,a3,60,f7,a0,1d,04,00,00,00,01,00,00,00,10,00,00,00,2a,95,4e,ca,79,b2,87,45,73,d9,2d,90,ba,f9,9f,b6,20,00,00,00,01,00,00,00,16,04,00,00,30,82,04,12,30,82,02,fa,a0,03,02,01,02,02,0f,00,c1,00,8b,3c,3c,88,11,d1,3e,f6,63,ec,df,40,30,0d,06,09,2a,86,48,86,f7,0d,01,01,04,05,00,30,70,31,2b,30,29,06,03,55,04,0b,13,22,43,6f,70,79,72,69,67,68,74,20,28,63,29,20,31,39,39,37,20,4d,69,63,72,6f,73,6f,66,74,20,43,6f,72,70,2e,31,1e,30,1c,06,03,55,04,0b,13,15,4d,69,63,72,6f,73,6f,66,74,20,43,6f,72,70,6f,72,61,74,69,6f,6e,31,21,30,1f,06,03,55,04,03,13,18,4d,69,63,72,6f,73,6f,66,74,20,52,6f,6f,74,20,41,75,74,68,6f,72,69,74,79,30,1e,17,0d,39,37,30,31,31,30,30,37,30,30,30,30,5a,17,0d,32,30,31,32,33,31,30,37,30,30,30,30,5a,30,70,31,2b,30,29,06,03,55,04,0b,13,22,43,6f,70,79,72,69,67,68,74,20,28,63,29,20,31,39,39,37,20,4d,69,63,72,6f,73,6f,66,74,20,43,6f,72,70,2e,31,1e,30,1c,06,03,55,04,0b,13,15,4d,69,63,72,6f,73,6f,66,74,20,43,6f,72,70,6f,72,61,74,69,6f,6e,31,21,30,1f,06,03,55,04,03,13,18,4d,69,63,72,6f,73,6f,66,74,20,52,6f,6f,74,20,41,75,74,68,6f,72,69,74,79,30,82,01,22,30,0d,06,09,2a,86,48,86,f7,0d,01,01,01,05,00,03,82,01,0f,00,30,82,01,0a,02,82,01,01,00,a9,02,bd,c1,70,e6,3b,f2,4e,1b,28,9f,97,78,5e,30,ea,a2,a9,8d,25,5f,f8,fe,95,4c,a3,b7,fe,9d,a2,20,3e,7c,51,a2,9b,a2,8f,60,32,6b,d1,42,64,79,ee,ac,76,c9,54,da,f2,eb,9c,86,1c,8f,9f,84,66,b3,c5,6b,7a,62,23,d6,1d,3c,de,0f,01,92,e8,96,c4,bf,2d,66,9a,9a,68,26,99,d0,3a,2c,bf,0c,b5,58,26,c1,46,e7,0a,3e,38,96,2c,a9,28,39,a8,ec,49,83,42,e3,84,0f,bb,9a,6c,55,61,ac,82,7c,a1,60,2d,77,4c,e9,99,b4,64,3b,9a,50,1c,31,08,24,14,9f,a9,e7,91,2b,18,e6,3d,98,63,14,60,58,05,65,9f,1d,37,52,87,f7,a7,ef,94,02,c6,1b,d3,bf,55,45,b3,89,80,bf,3a,ec,54,94,4e,ae,fd,a7,7a,6d,74,4e,af,18,cc,96,09,28,21,00,57,90,60,69,37,bb,4b,12,07,3c,56,ff,5b,fb,a4,66,0a,08,a6,d2,81,56,57,ef,b6,3b,5e,16,81,77,04,da,f6,be,ae,80,95,fe,b0,cd,7f,d6,a7,1a,72,5c,3c,ca,bc,f0,08,a3,22,30,b3,06,85,c9,b3,20,77,13,85,df,02,03,01,00,01,a3,81,a8,30,81,a5,30,81,a2,06,03,55,1d,01,04,81,9a,30,81,97,80,10,5b,d0,70,ef,69,72,9e,23,51,7e,14,b2,4d,8e,ff,cb,a1,72,30,70,31,2b,30,29,06,03,55,04,0b,13,22,43,6f,70,79,72,69,67,68,74,20,28,63,29,20,31,39,39,37,20,4d,69,63,72,6f,73,6f,66,74,20,43,6f,72,70,2e,31,1e,30,1c,06,03,55,04,0b,13,15,4d,69,63,72,6f,73,6f,66,74,20,43,6f,72,70,6f,72,61,74,69,6f,6e,31,21,30,1f,06,03,55,04,03,13,18,4d,69,63,72,6f,73,6f,66,74,20,52,6f,6f,74,20,41,75,74,68,6f,72,69,74,79,82,0f,00,c1,00,8b,3c,3c,88,11,d1,3e,f6,63,ec,df,40,30,0d,06,09,2a,86,48,86,f7,0d,01,01,04,05,00,03,82,01,01,00,95,e8,0b,c0,8d,f3,97,18,35,ed,b8,01,24,d8,77,11,f3,5c,60,32,9f,9e,0b,cb,3e,05,91,88,8f,c9,3a,e6,21,f2,f0,57,93,2c,b5,a0,47,c8,62,ef,fc,d7,cc,3b,3b,5a,a9,36,54,69,fe,24,6d,3f,c9,cc,aa,de,05,7c,dd,31,8d,3d,9f,10,70,6a,bb,fe,12,4f,18,69,c0,fc,d0,43,e3,11,5a,20,4f,ea,62,7b,af,aa,19,c8,2b,37,25,2d,be,65,a1,12,8a,25,0f,63,a3,f7,54,1c,f9,21,c9,d6,15,f3,52,ac,6e,43,32,07,fd,82,17,f8,e5,67,6c,0d,51,f6,bd,f1,52,c7,bd,e7,c4,30,fc,20,31,09,88,1d,95,29,1a,4d,d5,1d,02,a5,f1,80,e0,03,b4,5b,f4,b1,dd,c8,57,ee,65,49,c7,52,54,b6,b4,03,28,12,ff,90,d6,f0,08,8f,7e,b8,97,c5,ab,37,2c,e4,7a,e4,a8,77,e3,76,a0,00,d0,6a,3f,c1,d2,36,8a,e0,41,12,a8,35,6a,1b,6a,db,35,e1,d4,1c,04,e4,a8,45,04,c8,5a,33,38,6e,4d,1c,0d,62,b7,0a,a2,8c,d3,d5,54,3f,46,cd,1c,55,a6,70,db,12,3a,87,93,75,9f,a7,d2,a0
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CatalogNames\Windows\SystemIndex]
+【修改】"pkm:catalog:LastCatalogCrawlEndTime"-BINARY-fd,36,a4,09,92,c3,dc,01
+【修改】"pkm:catalog:LastCatalogCrawlId"-DWORD-00000005
+【修改】"pkm:catalog:LastCatalogCrawlModified"-DWORD-00000001
+【修改】"pkm:catalog:LastCatalogCrawlExcludes"-DWORD-00000000
+【修改】"pkm:catalog:LastCatalogCrawlKBytes"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules]
+【修改】"ItemCount"-DWORD-00000016
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\10]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Windows\\*\\temp\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\11]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Windows\\CSC\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\12]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\ProgramData\\
+【修改】"Include"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\13]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Users\\
+【修改】"Include"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\14]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Windows\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\15]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Windows.*\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\16]
+【修改】"URL"-SZ-file:///*\\$RECYCLE.BIN\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\17]
+【修改】"URL"-SZ-file:///*\\DfsrPrivate\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\18]
+【修改】"URL"-SZ-file:///*\\System Volume Information\\
+【修改】"Include"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\19]
+【修改】"URL"-SZ-csc://{S-1-5-21-1705975881-1584435405-3073042883-500}/
+【修改】"Suppress"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\20]
+【创建】"URL"-SZ-iehistory://{S-1-5-21-1705975881-1584435405-3073042883-500}/
+【创建】"Include"-DWORD-00000001
+【创建】"Suppress"-DWORD-00000000
+【创建】"Default"-DWORD-00000001
+【创建】"Policy"-DWORD-00000000
+【创建】"NoContent"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\21]
+【创建】"URL"-SZ-winrt://{S-1-5-21-1705975881-1584435405-3073042883-500}/
+【创建】"Include"-DWORD-00000001
+【创建】"Suppress"-DWORD-00000002
+【创建】"Default"-DWORD-00000001
+【创建】"Policy"-DWORD-00000000
+【创建】"NoContent"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\5]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Users\\Administrator\\Favorites\\
+【修改】"Include"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\6]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Users\\Administrator\\MicrosoftEdgeBackups\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\7]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Users\\Administrator\\.*\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\8]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Users\\Default\\AppData\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\9]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Users\\*\\AppData\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\SearchRoots]
+【修改】"ItemCount"-DWORD-00000005
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\SearchRoots\3]
+【修改】"URL"-SZ-iehistory://{S-1-5-21-1705975881-1584435405-3073042883-500}/
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\SearchRoots\4]
+【创建】"URL"-SZ-winrt://{S-1-5-21-1705975881-1584435405-3073042883-500}/
+【创建】"ProvidesNotifications"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules]
+【修改】"ItemCount"-DWORD-00000016
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\10]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Windows\\*\\temp\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\11]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Windows\\CSC\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\12]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\ProgramData\\
+【修改】"Include"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\13]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Users\\
+【修改】"Include"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\14]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Windows\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\15]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Windows.*\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\16]
+【修改】"URL"-SZ-file:///*\\$RECYCLE.BIN\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\17]
+【修改】"URL"-SZ-file:///*\\DfsrPrivate\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\18]
+【修改】"URL"-SZ-file:///*\\System Volume Information\\
+【修改】"Include"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\19]
+【修改】"URL"-SZ-csc://{S-1-5-21-1705975881-1584435405-3073042883-500}/
+【修改】"Suppress"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\20]
+【创建】"URL"-SZ-iehistory://{S-1-5-21-1705975881-1584435405-3073042883-500}/
+【创建】"Include"-DWORD-00000001
+【创建】"Suppress"-DWORD-00000000
+【创建】"Default"-DWORD-00000001
+【创建】"Policy"-DWORD-00000000
+【创建】"NoContent"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\21]
+【创建】"URL"-SZ-winrt://{S-1-5-21-1705975881-1584435405-3073042883-500}/
+【创建】"Include"-DWORD-00000001
+【创建】"Suppress"-DWORD-00000002
+【创建】"Default"-DWORD-00000001
+【创建】"Policy"-DWORD-00000000
+【创建】"NoContent"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\5]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Users\\Administrator\\Favorites\\
+【修改】"Include"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\6]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Users\\Administrator\\MicrosoftEdgeBackups\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\7]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Users\\Administrator\\.*\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\8]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Users\\Default\\AppData\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\9]
+【修改】"URL"-SZ-file:///C:\\[6bbf9248-5957-4dba-8700-9a2662b729b2]\\Users\\*\\AppData\\
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\FileChangeClientConfigs\{5B8A4E77-3A02-4093-BDDC-B46FAB03AEF5}]
+【修改】"ScopeToMonitor"-SZ-C:\\Users\\Administrator\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\TargetedContentCache\\v3\\88000165
+【修改】"VolumeIndex"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\Gather\Windows\SystemIndex]
+【修改】"NewCrawlNumber"-DWORD-00000006
+【修改】"NewClientID"-DWORD-00000010
+【修改】"ElapsedRunTime"-DWORD-0000323f
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\{S-1-5-21-1705975881-1584435405-3073042883-500}\Paths\1]
+【修改】"Path"-SZ-iehistory://{S-1-5-21-1705975881-1584435405-3073042883-500}/
+【修改】"SuppressIndex"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\{S-1-5-21-1705975881-1584435405-3073042883-500}\Paths\2]
+【创建】"Path"-SZ-winrt://{S-1-5-21-1705975881-1584435405-3073042883-500}/
+【创建】"Included"-DWORD-00000001
+【创建】"EvaluationOrder"-DWORD-00000002
+【创建】"IncludeSubdirs"-DWORD-00000001
+【创建】"SuppressIndex"-DWORD-00000001
+【创建】"SearchPropertyMappingUrl"-SZ-
+【创建】"FollowComplexUrls"-DWORD-00000000
+【创建】"ApplyToDavHref"-DWORD-00000001
+【创建】"Default"-DWORD-00000001
+【创建】"Pattern"-DWORD-00000000
+【创建】"Hierarchical"-DWORD-00000001
+【创建】"NoContent"-DWORD-00000000
+【创建】"AccessControl"-BINARY-99,ca,ba,de,03,00,00,00,02,00,00,00,00,00,00,00,00,00,00,00,07,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,07,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,07,00,00,00,06,00,00,00,2d,00,00,00,53,00,2d,00,31,00,2d,00,35,00,2d,00,32,00,31,00,2d,00,31,00,37,00,30,00,35,00,39,00,37,00,35,00,38,00,38,00,31,00,2d,00,31,00,35,00,38,00,34,00,34,00,33,00,35,00,34,00,30,00,35,00,2d,00,33,00,30,00,37,00,33,00,30,00,34,00,32,00,38,00,38,00,33,00,2d,00,35,00,30,00,30,00,00,00,1c,00,00,00,01,05,00,00,00,00,00,05,15,00,00,00,49,20,af,65,cd,90,70,5e,c3,e9,2a,b7,f4,01,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\Gather\Windows\SystemIndex\StartPages]
+【修改】"NewStartPageIdentifier"-DWORD-00000005
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\Gather\Windows\SystemIndex\StartPages\0]
+【修改】"LastCrawlSuccesses"-DWORD-00000055
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\Gather\Windows\SystemIndex\StartPages\1]
+【修改】"LastCrawlSuccesses"-DWORD-0000234d
+【修改】"LastCrawlExcluded"-DWORD-00007ebd
+【修改】"LastCrawlNotFound"-DWORD-00000002
+【修改】"LastCrawlUncategorizedErrors"-DWORD-00000038
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\Gather\Windows\SystemIndex\StartPages\4]
+【创建】"URL"-SZ-iehistory://{S-1-5-21-1705975881-1584435405-3073042883-500}/
+【创建】"HostDepth"-DWORD-00000000
+【创建】"EnumerationDepth"-DWORD-ffffffff
+【创建】"FollowDirectories"-DWORD-00000001
+【创建】"StartPageIdentifier"-DWORD-00000004
+【创建】"CrawlNumberInProgress"-DWORD-ffffffff
+【创建】"CrawlNumberScheduled"-DWORD-ffffffff
+【创建】"ForceFullCrawl"-DWORD-00000000
+【创建】"ForceFullCrawlExternal"-DWORD-00000000
+【创建】"LastCrawlStopped"-DWORD-00000000
+【创建】"Type"-DWORD-00000000
+【创建】"CrawlControl"-DWORD-00000000
+【创建】"LastCrawlType"-DWORD-00000001
+【创建】"IncludeInProjectCrawls"-DWORD-00000001
+【创建】"LastCrawlTime"-BINARY-fd,36,a4,09,92,c3,dc,01
+【创建】"LastStartCrawlTime"-BINARY-d5,6f,28,07,92,c3,dc,01
+【创建】"LastOnlineTime"-BINARY-00,00,00,00,00,00,00,00
+【创建】"AccessControl"-BINARY-99,ca,ba,de,03,00,00,00,02,00,00,00,00,00,00,00,00,00,00,00,07,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,07,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,07,00,00,00,06,00,00,00,2d,00,00,00,53,00,2d,00,31,00,2d,00,35,00,2d,00,32,00,31,00,2d,00,31,00,37,00,30,00,35,00,39,00,37,00,35,00,38,00,38,00,31,00,2d,00,31,00,35,00,38,00,34,00,34,00,33,00,35,00,34,00,30,00,35,00,2d,00,33,00,30,00,37,00,33,00,30,00,34,00,32,00,38,00,38,00,33,00,2d,00,35,00,30,00,30,00,00,00,1c,00,00,00,01,05,00,00,00,00,00,05,15,00,00,00,49,20,af,65,cd,90,70,5e,c3,e9,2a,b7,f4,01,00,00
+【创建】"NotificationHRes"-DWORD-00000000
+【创建】"NumberOfUrls"-DWORD-00000000
+【创建】"LastCrawlSuccesses"-DWORD-00000002
+【创建】"LastCrawlExcluded"-DWORD-00000000
+【创建】"LastCrawlAccessDenied"-DWORD-00000000
+【创建】"LastCrawlNotFound"-DWORD-00000000
+【创建】"LastCrawlUncategorizedErrors"-DWORD-00000000
+【创建】"LastCrawlSeedStatus"-DWORD-00000000
+【创建】"LastCrawlId"-DWORD-00000005
+【创建】"CsType"-DWORD-00000004
+【创建】"Created"-DWORD-00000000
+【创建】"Modified"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\Gathering Manager\Applications\Windows]
+【修改】"CrawlScopeVersion"-DWORD-00000008
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\Tracing\EventThrottleState]
+【修改】"000003f5"-BINARY-01,00,00,00,bf,cd,76,85,34,0c,00,00,05,00,00,00,00,00,00,00
+【修改】"000003eb"-BINARY-01,00,00,00,a9,90,85,85,34,0c,00,00,04,00,00,00,00,00,00,00
+【删除】"000003f0"
+【删除】"000003f2"
+【删除】"000003ec"
+【删除】"000003ed"
+【删除】"00000005"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Search\UsnNotifier\Windows\Catalogs\SystemIndex]
+【修改】"{8F8471B1-1481-47A5-8FB2-8C6476F335BC}"-SZ-84382000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\MSI\Afterburner]
+【创建】"InstallPath"-SZ-C:\\Program Files (x86)\\MSI Afterburner\\MSIAfterburner.exe
+【创建】"InstallDir"-SZ-C:\\Program Files (x86)\\MSI Afterburner
+【创建】"InstallerLanguage"-SZ-2052
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Realtek Semiconductor Corp.\Realtek Card Reader]
+【创建】"Install"-SZ-success
+【创建】"version"-SZ-10.0.26100.31287
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\SysCeo\DrvCeo]
+【创建】"abshow"-SZ-1
+【修改】"Counter"-SZ-20260404
+【修改】"IndexDown"-SZ-20260404
+【修改】"DriveDown"-SZ-20260404
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Unwinder\RTSS]
+【创建】"InstallDir"-SZ-C:\\Program Files (x86)\\RivaTuner Statistics Server
+【创建】"InstallPath"-SZ-C:\\Program Files (x86)\\RivaTuner Statistics Server\\RTSS.exe
+【创建】"ProductVersion"-SZ-7.3.7
+【创建】"ProductBetaVersion"-DWORD-00000000
+【创建】"InstallerLanguage"-SZ-1033
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Classes\CLSID\{0002DF01-0000-0000-C000-000000000046}\LocalServer32]
+【修改】@-SZ-\"C:\\Program Files\\360\\360chromeX\\360chromex.exe\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Classes\CLSID\{73C0325A-D3BF-48AF-9F37-1589CC58E788}\InprocServer32]
+【修改】@-EXP_SZ-25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,44,00,72,00,69,00,76,00,65,00,72,00,53,00,74,00,6f,00,72,00,65,00,5c,00,46,00,69,00,6c,00,65,00,52,00,65,00,70,00,6f,00,73,00,69,00,74,00,6f,00,72,00,79,00,5c,00,6d,00,65,00,77,00,6d,00,69,00,70,00,72,00,6f,00,76,00,2e,00,69,00,6e,00,66,00,5f,00,61,00,6d,00,64,00,36,00,34,00,5f,00,35,00,38,00,61,00,30,00,65,00,61,00,32,00,64,00,65,00,30,00,36,00,39,00,31,00,36,00,66,00,37,00,5c,00,4d,00,45,00,50,00,72,00,6f,00,76,00,2e,00,64,00,6c,00,6c,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Classes\CLSID\{D5E8041D-920F-45e9-B8FB-B1DEB82C6E5E}\TreatAs]
+【创建】@-SZ-{0002DF01-0000-0000-C000-000000000046}
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\AppV\CEIP]
+【创建】"CEIPEnable"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\DirectAccessConnectivityAssistant]
+【创建】"NamePreferenceAllowed"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Edge]
+【创建】"MetricsReportingEnabled"-DWORD-00000000
+【创建】"DiagnosticData"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Messenger\Client]
+【修改】"CEIP"-DWORD-00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\AppCompat]
+【创建】"DisableEngine"-DWORD-00000001
+【创建】"DisableUAR"-DWORD-00000001
+【创建】"SbEnable"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\AppPrivacy]
+【创建】"LetAppsAccessMessaging"-DWORD-00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\CloudContent]
+【创建】"DisableCloudOptimizedContent"-DWORD-00000001
+【创建】"DisableSoftDownload"-DWORD-00000001
+【创建】"DisableWindowsSpotlight"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\DataCollection]
+【创建】"MaxTelemetryAllowed"-DWORD-00000000
+【创建】"DoNotShowFeedbackNotifications"-DWORD-00000001
+【创建】"AllowCommercialDataPipeline"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\DeliveryOptimization]
+【创建】"DODownloadMode"-DWORD-00000000
+【创建】"DownloadMode"-DWORD-00000000
+【创建】"DODisallowCacheServerDownloadsOnVPN"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\DeviceGuard]
+【创建】"HVCIMATRequired"-DWORD-00000000
+【创建】@-SZ-
+【删除】"EnableVirtualizationBasedSecurity"
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\Diagnostics\Performance]
+【创建】"DisableDiagTrack"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\DWM]
+【创建】"DisallowFlip3d"-DWORD-00000001
+【创建】"DisallowColorizationColorChanges"-DWORD-00000001
+【创建】"DisableAccentGradient"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\FindMyDevice]
+【创建】"AllowFindMyDevice"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\GameDVR]
+【创建】"AllowGameDVR"-DWORD-00000000
+【创建】"AppGamingModeEnabled"-DWORD-00000000
+【创建】"GlobalGamingModeEnabled"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\HelloForBusiness]
+【创建】"DisablePinSignin"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\LocationAndSensors]
+【创建】"DisableLocation"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\NvCache]
+【创建】"EnablePowerModeState"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\PreviewBuilds]
+【创建】"DisablePreviewBuilds"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\Psched]
+【创建】"NonBestEffortLimit"-DWORD-00000000
+【创建】"MaxOutstandingSends"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\QoS]
+【创建】"Tcp Autotuning Level"-SZ-Normal
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\ScheduledDiagnostics]
+【创建】"EnabledExecution"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\SpeechRecognition]
+【创建】"DisableSpeechRecognition"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\WcmSvc\GroupPolicy]
+【创建】"DisablePowerManagement"-DWORD-00000001
+【创建】"fDisablePowerManagement"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\Windows Error Reporting]
+【创建】"AutoApproveOSDumps"-DWORD-00000000
+【创建】"LoggingDisabled"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\Windows Error Reporting\Consent]
+【创建】@-SZ-0
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\Windows Feeds]
+【创建】"EnableFeeds"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\Windows Search]
+【创建】"AllowIndexingEncryptedStoresOrItems"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\WindowsErrorReporting]
+【创建】"Disabled"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\WindowsUpdate]
+【创建】"DisableOSUpdate"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows Defender]
+【创建】"DisableRealtimeMonitoring"-DWORD-00000001
+【创建】"DisableSpecialRunningModes"-DWORD-00000001
+【创建】"DisableRoutinelyTakingAction"-DWORD-00000001
+【创建】"ServiceKeepAlive"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows Defender\Real-Time]
+【创建】"DisableBehaviorMonitoring"-DWORD-00000001
+【创建】"DisableOnAccessProtection"-DWORD-00000001
+【创建】"DisableRealtimeMonitoring"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows Defender\Real-Time Protection]
+【创建】"DisableBehaviorMonitoring"-DWORD-00000001
+【创建】"DisableOnAccessProtection"-DWORD-00000001
+【创建】"DisableScanOnRealtimeEnable"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows Defender\Signature Updates]
+【创建】"ForceUpdateFromMU"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows Defender\Spynet]
+【创建】"DisableBlockAtFirstSeen"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows NT\DNSClient]
+【创建】"DisableSmartNameResolution"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\WindowsMediaPlayer]
+【创建】"DisableLibraryContentSharing"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\WindowsStore]
+【创建】"AutoDownload"-DWORD-00000002
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Packages\Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Packages\Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\Deployment\AppExtension\windowsudk.storage.registerschema\S-1-5-21-1705975881-1584435405-3073042883-500\{9974F52E-EF74-4143-A136-C8DB19079873}]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\Deployment\Package\*\AllUsers\{0FA6F4F4-B2D2-4B60-8854-D768C2D411B8}]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\Deployment\Package\*\AllUsers\{85D8D3C5-E299-4210-896C-EA1E3BEACE7C}]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\Deployment\Package\*\S-1-5-21-1705975881-1584435405-3073042883-500\{6FDA0929-4F9B-4A88-9CE0-862A901109F1}]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\Deployment\Package\*\S-1-5-21-1705975881-1584435405-3073042883-500\{CD2D7B82-9EFF-44F6-8C82-2E88D8BCFA33}]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\IdentityCRL\NegativeCache]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\IdentityCRL\NegativeCache\00180018D28AD19B_S-1-5-18]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\IdentityCRL\NegativeCache\00180018D28AD19B_S-1-5-18\{0CB4A94A-6E8C-477B-88C8-A3799FC97414}]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\IdentityCRL\NegativeCache\00180018D28AD19B_S-1-5-18\{0CB4A94A-6E8C-477B-88C8-A3799FC97414}\prod.client.wosc.services.microsoft.com_MBI_SSL]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\IdentityCRL\NegativeCache\00180018D28AD19B_S-1-5-18\{0CB4A94A-6E8C-477B-88C8-A3799FC97414}\settings-win.data.microsoft.com_MBI_SSL]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\IdentityCRL\NegativeCache\00180018D28AD19B_S-1-5-18\{D80D1001-5B38-49E9-9D34-EC9B84779189}]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\IdentityCRL\NegativeCache\00180018D28AD19B_S-1-5-18\{D80D1001-5B38-49E9-9D34-EC9B84779189}\wns.windows.com_MBI_SSL]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\IdentityCRL\NegativeCache\1]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\IdentityCRL\NegativeCache\1\wlidsvc]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\IdentityCRL\NegativeCache\1\wlidsvc\4]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\IdentityCRL\ThrottleCache]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\IdentityCRL\ThrottleCache\S-1-5-18_{0CB4A94A-6E8C-477B-88C8-A3799FC97414}]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\IdentityCRL\ThrottleCache\S-1-5-18_{D80D1001-5B38-49E9-9D34-EC9B84779189}]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\IdentityCRL\ThrottleCache\WLIDSVC_HWID_HardwareUpdate]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Wbem\Transports\Decoupled\Client]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Wbem\Transports\Decoupled\Client\{2033227E-33AE-486C-B36D-C02AD115F56E}]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Wbem\Transports\Decoupled\Client\{439538D3-1DAC-4862-8703-A6DDA473396D}]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Wbem\Transports\Decoupled\Client\{8E5DA349-14EF-4814-B417-BE1E8CE42FE7}]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Wbem\Transports\Decoupled\Client\{ABB5EBBC-402F-406F-BF49-602EAC770B75}]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\1\2e]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\10\3b]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\11\3c]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\12\3d]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\13\3e]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\14\3f]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\15\40]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\16\41]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\17\51]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\18\54]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\19\55]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\1a\56]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\1b\57]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\1c\58]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\1d\59]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\1e\5a]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\1f\42]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\2\2f]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\20\43]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\21\44]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\22\45]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\23\46]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\24\52]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\25\47]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\26\48]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\27\49]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\28\4a]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\29\4b]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\2a\4c]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\2c\4d]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\2d\4e]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\2e\4f]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\3\30]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\4\31]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\5\32]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\6\33]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\7\34]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\8\50]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\9\53]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\a\35]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\b\36]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\c\37]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\d\38]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\e\39]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\Application\f\3a]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\UserAndApplication\2^1\2e]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\UserAndApplication\2^10\3b]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\UserAndApplication\2^11\3c]
+
+【删除】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\ApplicationUser\Index\UserAndApplication\2^12\3d]

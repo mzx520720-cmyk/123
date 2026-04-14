@@ -1,0 +1,1000 @@
+【创建】"SymbolicName"-SZ-\\??\\USB#VID_0000&PID_0002#5&2114718&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+【创建】"EnumerationFailureCode"-DWORD-40010000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_0000&PID_0002\5&2114718&0&2\Device Parameters\Ceip]
+【创建】"DeviceInformation"-DWORD-00000008
+【创建】"PortInterconnectType"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_0000&PID_0002\5&2114718&0&2\Device Parameters\WDF\Restart]
+【创建】"StartTime"-BINARY-9a,06,00,00,00,00,00,00
+【创建】"Count"-DWORD-00000001
+【创建】"StartAchieved"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_03F0&PID_089D\000000000000]
+【创建】"DeviceDesc"-SZ-@usb.inf,%usb\\composite.devicedesc%;USB Composite Device
+【创建】"LocationInformation"-SZ-Port_#0002.Hub_#0001
+【创建】"Capabilities"-DWORD-00000094
+【创建】"Address"-DWORD-00000002
+【创建】"ContainerID"-SZ-{8e9539ed-87ea-54df-a698-ece740b57781}
+【创建】"HardwareID"-MLT_SZ-55,00,53,00,42,00,5c,00,56,00,49,00,44,00,5f,00,30,00,33,00,46,00,30,00,26,00,50,00,49,00,44,00,5f,00,30,00,38,00,39,00,44,00,26,00,52,00,45,00,56,00,5f,00,34,00,31,00,31,00,30,00,00,00,55,00,53,00,42,00,5c,00,56,00,49,00,44,00,5f,00,30,00,33,00,46,00,30,00,26,00,50,00,49,00,44,00,5f,00,30,00,38,00,39,00,44,00,00,00,00,00
+【创建】"CompatibleIDs"-MLT_SZ-55,00,53,00,42,00,5c,00,44,00,65,00,76,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,30,00,26,00,53,00,75,00,62,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,30,00,26,00,50,00,72,00,6f,00,74,00,5f,00,30,00,30,00,00,00,55,00,53,00,42,00,5c,00,44,00,65,00,76,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,30,00,26,00,53,00,75,00,62,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,30,00,00,00,55,00,53,00,42,00,5c,00,44,00,65,00,76,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,30,00,00,00,55,00,53,00,42,00,5c,00,43,00,4f,00,4d,00,50,00,4f,00,53,00,49,00,54,00,45,00,00,00,00,00
+【创建】"ClassGUID"-SZ-{36fc9e60-c465-11cf-8056-444553540000}
+【创建】"Service"-SZ-usbccgp
+【创建】"Driver"-SZ-{36fc9e60-c465-11cf-8056-444553540000}\\0032
+【创建】"Mfg"-SZ-@usb.inf,%generic.mfg%;(标准 USB 主控制器)
+【创建】"ConfigFlags"-DWORD-00000000
+【创建】"ParentIdPrefix"-SZ-6&2afd919&0
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_03F0&PID_089D\000000000000\Device Parameters]
+【创建】"EnumerationRetryCount"-DWORD-00000000
+【创建】"SymbolicName"-SZ-\\??\\USB#VID_03F0&PID_089D#000000000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_03F0&PID_089D\000000000000\Device Parameters\Ceip]
+【创建】"DeviceInformation"-DWORD-00000008
+【创建】"PortInterconnectType"-DWORD-00000000
+【创建】"DescriptorValidationInfo0"-DWORD-00000000
+【创建】"DescriptorValidationInfo1"-DWORD-00000000
+【创建】"DescriptorValidationInfo2"-DWORD-00010000
+【创建】"DescriptorValidationInfo3"-DWORD-00000000
+【创建】"DescriptorValidationInfo4"-DWORD-00000000
+【创建】"DescriptorValidationInfo5"-DWORD-00000000
+【创建】"DescriptorValidationInfo6"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_03F0&PID_089D&MI_00\6&2afd919&0&0000]
+【创建】"DeviceDesc"-SZ-@wdma_usb.inf,%usb\\class_01.devicedesc%;USB Audio Device
+【创建】"LocationInformation"-SZ-0000.0014.0000.002.000.000.000.000.000
+【创建】"Capabilities"-DWORD-000000a0
+【创建】"Address"-DWORD-00000002
+【创建】"ContainerID"-SZ-{8e9539ed-87ea-54df-a698-ece740b57781}
+【创建】"HardwareID"-MLT_SZ-55,00,53,00,42,00,5c,00,56,00,49,00,44,00,5f,00,30,00,33,00,46,00,30,00,26,00,50,00,49,00,44,00,5f,00,30,00,38,00,39,00,44,00,26,00,52,00,45,00,56,00,5f,00,34,00,31,00,31,00,30,00,26,00,4d,00,49,00,5f,00,30,00,30,00,00,00,55,00,53,00,42,00,5c,00,56,00,49,00,44,00,5f,00,30,00,33,00,46,00,30,00,26,00,50,00,49,00,44,00,5f,00,30,00,38,00,39,00,44,00,26,00,4d,00,49,00,5f,00,30,00,30,00,00,00,00,00
+【创建】"CompatibleIDs"-MLT_SZ-55,00,53,00,42,00,5c,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,31,00,26,00,53,00,75,00,62,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,31,00,26,00,50,00,72,00,6f,00,74,00,5f,00,30,00,30,00,00,00,55,00,53,00,42,00,5c,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,31,00,26,00,53,00,75,00,62,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,31,00,00,00,55,00,53,00,42,00,5c,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,31,00,00,00,00,00
+【创建】"ClassGUID"-SZ-{4d36e96c-e325-11ce-bfc1-08002be10318}
+【创建】"Driver"-SZ-{4d36e96c-e325-11ce-bfc1-08002be10318}\\0003
+【创建】"Mfg"-SZ-@wdma_usb.inf,%mfgname%;Microsoft
+【创建】"ConfigFlags"-DWORD-00000000
+【创建】"Service"-SZ-usbaudio
+【创建】"FriendlyName"-SZ-HyperX Cloud III
+【创建】"ParentIdPrefix"-SZ-7&33c49b61&0
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_03F0&PID_089D&MI_00\6&2afd919&0&0000\Device Parameters]
+【创建】"VendorRevision"-DWORD-00000000
+【创建】"RevisionId"-DWORD-00004110
+【创建】"ExtPropDescSemaphore"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_03F0&PID_089D&MI_00\6&2afd919&0&0000\Devices\{8543bd9f-97fb-4b28-8316-e0347af74dea}#DTSAPO]
+【创建】"CompatibleIds"-MLT_SZ-53,00,57,00,43,00,5c,00,47,00,65,00,6e,00,65,00,72,00,69,00,63,00,00,00,00,00
+【创建】"HardwareIds"-MLT_SZ-53,00,57,00,43,00,5c,00,56,00,45,00,4e,00,5f,00,44,00,54,00,53,00,49,00,26,00,41,00,49,00,44,00,5f,00,44,00,54,00,53,00,49,00,48,00,50,00,58,00,56,00,32,00,41,00,50,00,4f,00,00,00,00,00
+【创建】"Description"-SZ-DTS HPXV2 Audio Effects Component
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_03F0&PID_089D&MI_00\6&2afd919&0&0000\Devices\{8543bd9f-97fb-4b28-8316-e0347af74dea}#DTSService]
+【创建】"CompatibleIds"-MLT_SZ-53,00,57,00,43,00,5c,00,47,00,65,00,6e,00,65,00,72,00,69,00,63,00,00,00,00,00
+【创建】"HardwareIds"-MLT_SZ-53,00,57,00,43,00,5c,00,56,00,45,00,4e,00,5f,00,44,00,54,00,53,00,49,00,26,00,48,00,49,00,44,00,5f,00,44,00,54,00,53,00,49,00,48,00,50,00,58,00,56,00,32,00,53,00,45,00,52,00,56,00,49,00,43,00,45,00,00,00,00,00
+【创建】"Description"-SZ-DTS HPXV2 APO4x Service Component
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_03F0&PID_089D&MI_03\6&2afd919&0&0003]
+【创建】"DeviceDesc"-SZ-@input.inf,%hid.devicedesc%;USB Input Device
+【创建】"LocationInformation"-SZ-0000.0014.0000.002.000.000.000.000.000
+【创建】"Capabilities"-DWORD-00000080
+【创建】"Address"-DWORD-00000005
+【创建】"ContainerID"-SZ-{8e9539ed-87ea-54df-a698-ece740b57781}
+【创建】"HardwareID"-MLT_SZ-55,00,53,00,42,00,5c,00,56,00,49,00,44,00,5f,00,30,00,33,00,46,00,30,00,26,00,50,00,49,00,44,00,5f,00,30,00,38,00,39,00,44,00,26,00,52,00,45,00,56,00,5f,00,34,00,31,00,31,00,30,00,26,00,4d,00,49,00,5f,00,30,00,33,00,00,00,55,00,53,00,42,00,5c,00,56,00,49,00,44,00,5f,00,30,00,33,00,46,00,30,00,26,00,50,00,49,00,44,00,5f,00,30,00,38,00,39,00,44,00,26,00,4d,00,49,00,5f,00,30,00,33,00,00,00,00,00
+【创建】"CompatibleIDs"-MLT_SZ-55,00,53,00,42,00,5c,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,33,00,26,00,53,00,75,00,62,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,30,00,26,00,50,00,72,00,6f,00,74,00,5f,00,30,00,30,00,00,00,55,00,53,00,42,00,5c,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,33,00,26,00,53,00,75,00,62,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,30,00,00,00,55,00,53,00,42,00,5c,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,33,00,00,00,00,00
+【创建】"ClassGUID"-SZ-{745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+【创建】"Service"-SZ-HidUsb
+【创建】"Driver"-SZ-{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0049
+【创建】"Mfg"-SZ-@input.inf,%stdmfg%;(Standard system devices)
+【创建】"ConfigFlags"-DWORD-00000000
+【创建】"ParentIdPrefix"-SZ-7&5cbb959&0
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_03F0&PID_089D&MI_03\6&2afd919&0&0003\Device Parameters]
+【创建】"SelectiveSuspendEnabled"-BINARY-00
+【创建】"EnhancedPowerManagementEnabled"-DWORD-00000001
+【创建】"AllowIdleIrpInD3"-DWORD-00000001
+【创建】"LegacyTouchScaling"-DWORD-00000000
+【创建】"WriteReportExSupported"-DWORD-00000001
+【创建】"DeviceResetNotificationEnabled"-DWORD-00000001
+【创建】"VendorRevision"-DWORD-00000000
+【创建】"RevisionId"-DWORD-00004110
+【创建】"ExtPropDescSemaphore"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_0416&amp;PID_0110\0000000000000000\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+【创建】"SelectiveSuspendEnabled"-BINARY-00
+【创建】"EnhancedPowerManagementEnabled"-DWORD-00000000
+【创建】"AllowIdleIrpInD3"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_0416&amp;PID_0110&amp;MI_00\7&amp;3A24CBEB&amp;0&amp;0000\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+【创建】"SelectiveSuspendEnabled"-BINARY-00
+【创建】"EnhancedPowerManagementEnabled"-DWORD-00000000
+【创建】"AllowIdleIrpInD3"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_0416&amp;PID_0110&amp;MI_01\7&amp;3A24CBEB&amp;0&amp;0001\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+【创建】"SelectiveSuspendEnabled"-BINARY-00
+【创建】"EnhancedPowerManagementEnabled"-DWORD-00000000
+【创建】"AllowIdleIrpInD3"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_0416&PID_0110\0000000000000000\Device Parameters\Interrupt Management\Affinity Policy]
+【创建】"DevicePolicy"-DWORD-00000002
+【创建】"DevicePriority"-DWORD-00000003
+【创建】"AssignmentSetOverride"-BINARY-00,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_0416&PID_0110&MI_00\7&3a24cbeb&0&0000\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_0416&PID_0110&MI_01\7&3a24cbeb&0&0001\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_046D&amp;PID_C54D\325B39653234\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+【创建】"SelectiveSuspendEnabled"-BINARY-00
+【创建】"EnhancedPowerManagementEnabled"-DWORD-00000000
+【创建】"AllowIdleIrpInD3"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_046D&amp;PID_C54D&amp;MI_00\7&amp;107ABCBB&amp;0&amp;0000\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+【创建】"SelectiveSuspendEnabled"-BINARY-00
+【创建】"EnhancedPowerManagementEnabled"-DWORD-00000000
+【创建】"AllowIdleIrpInD3"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_046D&amp;PID_C54D&amp;MI_01\7&amp;107ABCBB&amp;0&amp;0001\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+【创建】"SelectiveSuspendEnabled"-BINARY-00
+【创建】"EnhancedPowerManagementEnabled"-DWORD-00000000
+【创建】"AllowIdleIrpInD3"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_046D&amp;PID_C54D&amp;MI_02\7&amp;107ABCBB&amp;0&amp;0002\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+【创建】"SelectiveSuspendEnabled"-BINARY-00
+【创建】"EnhancedPowerManagementEnabled"-DWORD-00000000
+【创建】"AllowIdleIrpInD3"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_046D&PID_C54D\325B39653234\Device Parameters\Interrupt Management\Affinity Policy]
+【创建】"DevicePolicy"-DWORD-00000002
+【创建】"DevicePriority"-DWORD-00000003
+【创建】"AssignmentSetOverride"-BINARY-00,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_046D&PID_C54D\6&1c52c6f7&0&1]
+【修改】"ContainerID"-SZ-{7aac311a-2f7f-11f1-98ac-806e6f6e6963}
+【修改】"Driver"-SZ-{36fc9e60-c465-11cf-8056-444553540000}\\0031
+【修改】"ParentIdPrefix"-SZ-7&c451607&1
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_046D&PID_C54D&MI_00\7&107abcbb&0&0000\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_046D&PID_C54D&MI_00\7&c451607&1&0000]
+【创建】"DeviceDesc"-SZ-@input.inf,%hid.devicedesc%;USB Input Device
+【创建】"LocationInformation"-SZ-0000.0014.0000.001.001.000.000.000.000
+【创建】"Capabilities"-DWORD-00000080
+【创建】"Address"-DWORD-00000001
+【创建】"ContainerID"-SZ-{7aac311a-2f7f-11f1-98ac-806e6f6e6963}
+【创建】"HardwareID"-MLT_SZ-55,00,53,00,42,00,5c,00,56,00,49,00,44,00,5f,00,30,00,34,00,36,00,44,00,26,00,50,00,49,00,44,00,5f,00,43,00,35,00,34,00,44,00,26,00,52,00,45,00,56,00,5f,00,31,00,34,00,30,00,33,00,26,00,4d,00,49,00,5f,00,30,00,30,00,00,00,55,00,53,00,42,00,5c,00,56,00,49,00,44,00,5f,00,30,00,34,00,36,00,44,00,26,00,50,00,49,00,44,00,5f,00,43,00,35,00,34,00,44,00,26,00,4d,00,49,00,5f,00,30,00,30,00,00,00,00,00
+【创建】"CompatibleIDs"-MLT_SZ-55,00,53,00,42,00,5c,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,33,00,26,00,53,00,75,00,62,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,31,00,26,00,50,00,72,00,6f,00,74,00,5f,00,30,00,32,00,00,00,55,00,53,00,42,00,5c,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,33,00,26,00,53,00,75,00,62,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,31,00,00,00,55,00,53,00,42,00,5c,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,33,00,00,00,00,00
+【创建】"ClassGUID"-SZ-{745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+【创建】"Service"-SZ-HidUsb
+【创建】"Driver"-SZ-{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0042
+【创建】"Mfg"-SZ-@input.inf,%stdmfg%;(Standard system devices)
+【创建】"ConfigFlags"-DWORD-00000000
+【创建】"ParentIdPrefix"-SZ-8&34ef6784&0
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_046D&PID_C54D&MI_00\7&c451607&1&0000\Device Parameters]
+【创建】"SelectiveSuspendEnabled"-BINARY-00
+【创建】"EnhancedPowerManagementEnabled"-DWORD-00000001
+【创建】"AllowIdleIrpInD3"-DWORD-00000001
+【创建】"LegacyTouchScaling"-DWORD-00000000
+【创建】"WriteReportExSupported"-DWORD-00000001
+【创建】"DeviceResetNotificationEnabled"-DWORD-00000001
+【创建】"VendorRevision"-DWORD-00000000
+【创建】"RevisionId"-DWORD-00001403
+【创建】"ExtPropDescSemaphore"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_046D&PID_C54D&MI_01\7&107abcbb&0&0001\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_046D&PID_C54D&MI_01\7&c451607&1&0001]
+【创建】"DeviceDesc"-SZ-@input.inf,%hid.devicedesc%;USB Input Device
+【创建】"LocationInformation"-SZ-0000.0014.0000.001.001.000.000.000.000
+【创建】"Capabilities"-DWORD-00000080
+【创建】"Address"-DWORD-00000002
+【创建】"ContainerID"-SZ-{7aac311a-2f7f-11f1-98ac-806e6f6e6963}
+【创建】"HardwareID"-MLT_SZ-55,00,53,00,42,00,5c,00,56,00,49,00,44,00,5f,00,30,00,34,00,36,00,44,00,26,00,50,00,49,00,44,00,5f,00,43,00,35,00,34,00,44,00,26,00,52,00,45,00,56,00,5f,00,31,00,34,00,30,00,33,00,26,00,4d,00,49,00,5f,00,30,00,31,00,00,00,55,00,53,00,42,00,5c,00,56,00,49,00,44,00,5f,00,30,00,34,00,36,00,44,00,26,00,50,00,49,00,44,00,5f,00,43,00,35,00,34,00,44,00,26,00,4d,00,49,00,5f,00,30,00,31,00,00,00,00,00
+【创建】"CompatibleIDs"-MLT_SZ-55,00,53,00,42,00,5c,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,33,00,26,00,53,00,75,00,62,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,31,00,26,00,50,00,72,00,6f,00,74,00,5f,00,30,00,31,00,00,00,55,00,53,00,42,00,5c,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,33,00,26,00,53,00,75,00,62,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,31,00,00,00,55,00,53,00,42,00,5c,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,33,00,00,00,00,00
+【创建】"ClassGUID"-SZ-{745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+【创建】"Service"-SZ-HidUsb
+【创建】"Driver"-SZ-{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0043
+【创建】"Mfg"-SZ-@input.inf,%stdmfg%;(Standard system devices)
+【创建】"ConfigFlags"-DWORD-00000000
+【创建】"ParentIdPrefix"-SZ-8&5101e29&0
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_046D&PID_C54D&MI_01\7&c451607&1&0001\Device Parameters]
+【创建】"SelectiveSuspendEnabled"-BINARY-00
+【创建】"EnhancedPowerManagementEnabled"-DWORD-00000001
+【创建】"AllowIdleIrpInD3"-DWORD-00000001
+【创建】"LegacyTouchScaling"-DWORD-00000000
+【创建】"WriteReportExSupported"-DWORD-00000001
+【创建】"DeviceResetNotificationEnabled"-DWORD-00000001
+【创建】"VendorRevision"-DWORD-00000000
+【创建】"RevisionId"-DWORD-00001403
+【创建】"ExtPropDescSemaphore"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_046D&PID_C54D&MI_02\7&107abcbb&0&0002\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_046D&PID_C54D&MI_02\7&c451607&1&0002]
+【创建】"DeviceDesc"-SZ-@input.inf,%hid.devicedesc%;USB Input Device
+【创建】"LocationInformation"-SZ-0000.0014.0000.001.001.000.000.000.000
+【创建】"Capabilities"-DWORD-00000080
+【创建】"Address"-DWORD-00000003
+【创建】"ContainerID"-SZ-{7aac311a-2f7f-11f1-98ac-806e6f6e6963}
+【创建】"HardwareID"-MLT_SZ-55,00,53,00,42,00,5c,00,56,00,49,00,44,00,5f,00,30,00,34,00,36,00,44,00,26,00,50,00,49,00,44,00,5f,00,43,00,35,00,34,00,44,00,26,00,52,00,45,00,56,00,5f,00,31,00,34,00,30,00,33,00,26,00,4d,00,49,00,5f,00,30,00,32,00,00,00,55,00,53,00,42,00,5c,00,56,00,49,00,44,00,5f,00,30,00,34,00,36,00,44,00,26,00,50,00,49,00,44,00,5f,00,43,00,35,00,34,00,44,00,26,00,4d,00,49,00,5f,00,30,00,32,00,00,00,00,00
+【创建】"CompatibleIDs"-MLT_SZ-55,00,53,00,42,00,5c,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,33,00,26,00,53,00,75,00,62,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,30,00,26,00,50,00,72,00,6f,00,74,00,5f,00,30,00,30,00,00,00,55,00,53,00,42,00,5c,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,33,00,26,00,53,00,75,00,62,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,30,00,00,00,55,00,53,00,42,00,5c,00,43,00,6c,00,61,00,73,00,73,00,5f,00,30,00,33,00,00,00,00,00
+【创建】"ClassGUID"-SZ-{745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+【创建】"Service"-SZ-HidUsb
+【创建】"Driver"-SZ-{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0044
+【创建】"Mfg"-SZ-@input.inf,%stdmfg%;(Standard system devices)
+【创建】"ConfigFlags"-DWORD-00000000
+【创建】"ParentIdPrefix"-SZ-8&2d7acbf2&0
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_046D&PID_C54D&MI_02\7&c451607&1&0002\Device Parameters]
+【创建】"SelectiveSuspendEnabled"-BINARY-00
+【创建】"EnhancedPowerManagementEnabled"-DWORD-00000001
+【创建】"AllowIdleIrpInD3"-DWORD-00000001
+【创建】"LegacyTouchScaling"-DWORD-00000000
+【创建】"WriteReportExSupported"-DWORD-00000001
+【创建】"DeviceResetNotificationEnabled"-DWORD-00000001
+【创建】"VendorRevision"-DWORD-00000000
+【创建】"RevisionId"-DWORD-00001403
+【创建】"ExtPropDescSemaphore"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_04F2&amp;PID_B642\5&amp;2114718&amp;0&amp;5\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+【创建】"SelectiveSuspendEnabled"-BINARY-00
+【创建】"EnhancedPowerManagementEnabled"-DWORD-00000000
+【创建】"AllowIdleIrpInD3"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_04F2&amp;PID_B642&amp;MI_00\6&amp;3414FF50&amp;0&amp;0000\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+【创建】"SelectiveSuspendEnabled"-BINARY-00
+【创建】"EnhancedPowerManagementEnabled"-DWORD-00000000
+【创建】"AllowIdleIrpInD3"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_214B&amp;PID_7260\5&amp;2114718&amp;0&amp;1\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+【创建】"SelectiveSuspendEnabled"-BINARY-00
+【创建】"EnhancedPowerManagementEnabled"-DWORD-00000000
+【创建】"AllowIdleIrpInD3"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_214B&PID_7260\5&2114718&0&1\Device Parameters\WDF]
+【修改】"IdleInWorkingState"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_8087&amp;PID_0026\5&amp;2114718&amp;0&amp;14\Device Parameters]
+【创建】"SelectiveSuspendOn"-DWORD-00000000
+【创建】"SelectiveSuspendEnabled"-BINARY-00
+【创建】"EnhancedPowerManagementEnabled"-DWORD-00000000
+【创建】"AllowIdleIrpInD3"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Hardware Profiles\0000\Software\Fonts]
+【修改】"LogPixels"-DWORD-00000060
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Hardware Profiles\0001\Software\Fonts]
+【修改】"LogPixels"-DWORD-00000060
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Hardware Profiles\Current\Software\Fonts]
+【修改】"LogPixels"-DWORD-00000060
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\.NET CLR Data\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\.NET CLR Networking\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\.NET CLR Networking 4.0.0.0\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\.NET Data Provider for Oracle\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\.NET Data Provider for SqlServer\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\.NET Memory Cache 4.0\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\.NETFramework\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\acpiex]
+【修改】"Start"-DWORD-00000003
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD\Parameters]
+【创建】"FastSendDatagramThreshold"-DWORD-00100000
+【创建】"IgnorePushBitOnReceives"-DWORD-00000001
+【创建】"NonBlockingSendSpecialBuffering"-DWORD-00000001
+【创建】"DefaultSendWindow"-DWORD-00100000
+【创建】"DefaultReceiveWindow"-DWORD-00100000
+【创建】"DynamicSendBufferDisable"-DWORD-00000000
+【创建】"DisableRawSecurity"-DWORD-00000001
+【创建】"UdpMaxDataSize"-DWORD-000005aa
+【创建】"LargeBufferSize"-DWORD-00000400
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ALHid]
+【创建】"Type"-DWORD-00000001
+【创建】"Start"-DWORD-00000003
+【创建】"ErrorControl"-DWORD-00000000
+【创建】"ImagePath"-EXP_SZ-5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,64,00,72,00,69,00,76,00,65,00,72,00,73,00,5c,00,41,00,4c,00,48,00,69,00,64,00,2e,00,73,00,79,00,73,00,00,00
+【创建】"DisplayName"-SZ-@oem37.inf,%ALHid%;AL HID A
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,33,00,37,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ALHid\Parameters\Wdf]
+【创建】"KmdfLibraryVersion"-SZ-1.9
+【创建】"WdfMajorVersion"-DWORD-00000001
+【创建】"WdfMinorVersion"-DWORD-00000009
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ALHid\Enum]
+【创建】"0"-SZ-ROOT\\HIDCLASS\\0000
+【创建】"Count"-DWORD-00000001
+【创建】"NextInstance"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ALHidKmdf]
+【创建】"Type"-DWORD-00000001
+【创建】"Start"-DWORD-00000003
+【创建】"ErrorControl"-DWORD-00000001
+【创建】"Tag"-DWORD-0000000c
+【创建】"ImagePath"-EXP_SZ-5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,64,00,72,00,69,00,76,00,65,00,72,00,73,00,5c,00,41,00,4c,00,48,00,69,00,64,00,4b,00,6d,00,64,00,66,00,2e,00,73,00,79,00,73,00,00,00
+【创建】"DisplayName"-SZ-@oem37.inf,%ALHidKmdf.SVCDESC%;ALHid Filter Driver Service for HID-KMDF Interface layer
+【创建】"Group"-SZ-PNP Filter
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,33,00,37,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ALHidKmdf\Enum]
+【创建】"0"-SZ-ROOT\\HIDCLASS\\0000
+【创建】"Count"-DWORD-00000001
+【创建】"NextInstance"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AMD Crash Defender Service]
+【创建】"Start"-DWORD-00000004
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AskLinkService]
+【修改】"ImagePath"-EXP_SZ-22,00,43,00,3a,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,20,00,46,00,69,00,6c,00,65,00,73,00,5c,00,41,00,73,00,6b,00,4c,00,69,00,6e,00,6b,00,5c,00,34,00,2e,00,30,00,2e,00,33,00,37,00,2e,00,30,00,5c,00,41,00,73,00,6b,00,4c,00,69,00,6e,00,6b,00,2e,00,65,00,78,00,65,00,22,00,20,00,20,00,2d,00,2d,00,54,00,59,00,50,00,45,00,3d,00,53,00,45,00,52,00,56,00,49,00,43,00,45,00,20,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ASP.NET\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ASP.NET_2.0.50727\Performance]
+【修改】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ASP.NET_4.0.30319\Names]
+【创建】"fJYvVUqMbph2X76UODAmeAju8n8gAEOllHhf6dOMSSUZiOuR1q4Y1H5Qdm1vrfMg73su0Zvbhw184ky3sCnRTNggsxwg1WAdHPgAVoJ27PchJ2MJYfW10J"-DWORD-000028b0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ASP.NET_4.0.30319\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ASP.NET_64_2.0.50727\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\aspnet_state\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AsusUpdateCheck]
+【创建】"Start"-DWORD-00000004
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-18]
+【修改】"SequenceNumber"-DWORD-0000001b
+【修改】"\\Device\\HarddiskVolume5\\Program Files\\OEM\\机械革命电竞控制台\\AiStoneService\\MyControlCenter\\GCUService.exe"-BINARY-0b,69,57,2e,a3,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-1705975881-1584435405-3073042883-500]
+【创建】"\\Device\\HarddiskVolume5\\Program Files\\360\\360chromeX\\360chromex.exe"-BINARY-58,f8,0f,a2,a1,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume5\\Windows\\System32\\InfDefaultInstall.exe"-BINARY-9b,91,4e,c2,87,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume5\\Windows\\System32\\provtool.exe"-BINARY-5a,c0,bb,da,87,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume5\\Users\\Administrator\\AppData\\Local\\Temp\\360pingbaosetup.exe"-BINARY-36,c1,29,ca,89,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume4\\yj\\Naraka\\program\\NeacClient.exe"-BINARY-99,5a,2d,38,a2,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume4\\yj\\Naraka\\program\\StartGame.exe"-BINARY-15,1f,e9,36,a2,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume3\\SetTimerResolution.exe"-BINARY-3b,08,05,35,a3,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume5\\Program Files\\AskLink\\4.0.37.0\\AskLink.exe"-BINARY-5d,c6,3d,39,a3,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume4\\小飞机\\MSI Afterburner\\MSIAfterburner.exe"-BINARY-f2,b0,a8,94,8c,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume5\\Users\\Administrator\\AppData\\Local\\Temp\\MSI_Afterburner_Installer\\File\\77B8B2E9-593F-45F3-A32E-778730B62B6B\\MSIAfterburnerSetup466\\MSIAfterburnerSetup466.exe"-BINARY-2a,d2,21,bb,8c,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume5\\Program Files (x86)\\MSI Afterburner\\Redist\\RTSSSetup.exe"-BINARY-42,c8,1e,ba,8c,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume5\\Program Files (x86)\\MSI Afterburner\\MSIAfterburner.exe"-BINARY-a2,2a,2a,98,9f,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume5\\Program Files (x86)\\RivaTuner Statistics Server\\RTSSHooksLoader64.exe"-BINARY-ce,51,66,96,9f,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume5\\Program Files (x86)\\RivaTuner Statistics Server\\RTSS.exe"-BINARY-54,34,f3,96,9f,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume5\\Program Files\\Internet Explorer\\iexplore.exe"-BINARY-ba,4c,97,19,92,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"33C30B79.NGENUITY_922sw8z9z7n5w"-BINARY-de,05,5b,35,a3,c3,dc,01,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume5\\Windows\\System32\\Magnify.exe"-BINARY-d9,f6,f5,af,94,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume5\\Program Files\\Realtek\\Audio\\HDA\\RAVCpl64.exe"-BINARY-10,5c,cf,32,a3,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【创建】"\\Device\\HarddiskVolume5\\Windows\\Temp\\{353DB575-9A53-4573-8405-8AA026E79AC6}\\.be\\SetupChipset.exe"-BINARY-e7,e2,4f,a1,a1,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"\\Device\\HarddiskVolume5\\Windows\\explorer.exe"-BINARY-ae,93,e3,2c,a3,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"SequenceNumber"-DWORD-0000000f
+【修改】"\\Device\\HarddiskVolume5\\Windows\\System32\\cmd.exe"-BINARY-0c,68,77,35,a3,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"MicrosoftWindows.Client.CBS_cw5n1h2txyewy"-BINARY-a6,07,0c,2d,a3,c3,dc,01,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00
+【修改】"Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy"-BINARY-65,75,8a,2c,a3,c3,dc,01,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00
+【修改】"Microsoft.Windows.Search_cw5n1h2txyewy"-BINARY-c7,ea,cc,2c,a3,c3,dc,01,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00
+【修改】"28017CharlesMilette.TranslucentTB_v826wp6bftszj"-BINARY-e2,63,4d,33,a3,c3,dc,01,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00
+【修改】"Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy"-BINARY-80,01,1f,09,9c,c3,dc,01,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00
+【修改】"\\Device\\HarddiskVolume5\\Windows\\System32\\rundll32.exe"-BINARY-62,a4,ef,2b,a3,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"\\Device\\HarddiskVolume5\\Program Files\\WinRAR\\WinRAR.exe"-BINARY-99,96,c0,8d,a1,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"\\Device\\HarddiskVolume5\\Program Files (x86)\\SysCeo\\DrvCeo\\Res\\DcCounter.exe"-BINARY-95,1f,e0,b9,86,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"\\Device\\HarddiskVolume5\\Program Files (x86)\\SysCeo\\DrvCeo\\DrvCeo.exe"-BINARY-ec,ae,70,6e,9d,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"\\Device\\HarddiskVolume5\\Windows\\System32\\reg.exe"-BINARY-3a,2c,cb,f2,8b,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"\\Device\\HarddiskVolume5\\Windows\\regedit.exe"-BINARY-6e,80,17,3c,a3,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"\\Device\\HarddiskVolume3\\Program Files\\Tencent\\QQNT\\QQ.exe"-BINARY-f9,2e,6a,41,a3,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"NVIDIACorp.NVIDIAControlPanel_56jybvy8sckqj"-BINARY-c8,85,22,2e,9f,c3,dc,01,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00
+【修改】"\\Device\\HarddiskVolume4\\yj\\Naraka\\program\\NarakaBladepoint.exe"-BINARY-4f,6a,84,35,a2,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"\\Device\\HarddiskVolume5\\Windows\\System32\\ApplicationFrameHost.exe"-BINARY-aa,7e,74,34,a3,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"ControlCenter3_wrbgcf7aesyd8"-BINARY-6c,7e,80,33,a3,c3,dc,01,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00
+【修改】"windows.immersivecontrolpanel_cw5n1h2txyewy"-BINARY-61,aa,03,23,99,c3,dc,01,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00
+【修改】"\\Device\\HarddiskVolume5\\Windows\\System32\\mmc.exe"-BINARY-ae,1a,6b,b1,9b,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"\\Device\\HarddiskVolume5\\Windows\\System32\\OpenWith.exe"-BINARY-4a,a1,ec,52,9d,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"\\Device\\HarddiskVolume5\\Windows\\System32\\notepad.exe"-BINARY-77,ad,28,85,87,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"\\Device\\HarddiskVolume5\\Windows\\System32\\Taskmgr.exe"-BINARY-82,30,75,98,9f,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"\\Device\\HarddiskVolume5\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"-BINARY-8d,7a,76,35,a3,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【删除】"\\Device\\HarddiskVolume5\\Users\\Administrator\\AppData\\Local\\Temp\\is-C0G0D.tmp\\DrvCeonwinstaller.tmp"
+【删除】"\\Device\\HarddiskVolume5\\Program Files\\AskLink\\4.0.30.0\\AskLink.exe"
+【删除】"\\Device\\HarddiskVolume5\\Users\\Administrator\\Desktop\\QQ.exe"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-90-0-1]
+【修改】"\\Device\\HarddiskVolume5\\Windows\\System32\\dwm.exe"-BINARY-6b,2f,e4,2c,a3,c3,dc,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+【修改】"SequenceNumber"-DWORD-00000005
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BcastDVRUserService_4a44f]
+【创建】"Type"-DWORD-000000e0
+【创建】"Start"-DWORD-00000003
+【创建】"ErrorControl"-DWORD-00000001
+【创建】"ImagePath"-EXP_SZ-43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,00,76,00,63,00,68,00,6f,00,73,00,74,00,2e,00,65,00,78,00,65,00,20,00,2d,00,6b,00,20,00,42,00,63,00,61,00,73,00,74,00,44,00,56,00,52,00,55,00,73,00,65,00,72,00,53,00,65,00,72,00,76,00,69,00,63,00,65,00,00,00
+【创建】"DisplayName"-SZ-BcastDVRUserService_4a44f
+【创建】"FailureActions"-BINARY-80,51,01,00,00,00,00,00,00,00,00,00,03,00,00,00,14,00,00,00,01,00,00,00,b8,0b,00,00,01,00,00,00,b8,0b,00,00,00,00,00,00,00,00,00,00
+【创建】"Description"-SZ-@%SystemRoot%\\system32\\BcastDVRUserService.dll,-101
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BcastDVRUserService_4a44f\Security]
+【创建】"Security"-BINARY-01,00,04,80,88,00,00,00,94,00,00,00,00,00,00,00,14,00,00,00,02,00,74,00,05,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,06,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,04,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,0b,00,00,00,00,00,18,00,fd,01,02,00,01,02,00,00,00,00,00,0f,02,00,00,00,01,00,00,00,00,00,18,00,ff,01,0f,00,01,02,00,00,00,00,00,05,20,00,00,00,20,02,00,00,01,01,00,00,00,00,00,05,12,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BITS\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BluetoothUserService_4a44f]
+【创建】"Type"-DWORD-000000e0
+【创建】"Start"-DWORD-00000003
+【创建】"ErrorControl"-DWORD-00000001
+【创建】"ImagePath"-EXP_SZ-43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,00,76,00,63,00,68,00,6f,00,73,00,74,00,2e,00,65,00,78,00,65,00,20,00,2d,00,6b,00,20,00,42,00,74,00,68,00,41,00,70,00,70,00,47,00,72,00,6f,00,75,00,70,00,20,00,2d,00,70,00,00,00
+【创建】"DisplayName"-SZ-BluetoothUserService_4a44f
+【创建】"FailureActions"-BINARY-80,51,01,00,00,00,00,00,00,00,00,00,04,00,00,00,14,00,00,00,01,00,00,00,f4,01,00,00,01,00,00,00,e8,03,00,00,01,00,00,00,10,27,00,00,00,00,00,00,10,27,00,00
+【创建】"Description"-SZ-@%SystemRoot%\\system32\\Microsoft.Bluetooth.UserService.dll,-102
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BluetoothUserService_4a44f\Security]
+【创建】"Security"-BINARY-01,00,14,80,8c,00,00,00,98,00,00,00,14,00,00,00,30,00,00,00,02,00,1c,00,01,00,00,00,02,80,14,00,ff,01,0f,00,01,01,00,00,00,00,00,01,00,00,00,00,02,00,5c,00,04,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,12,00,00,00,00,00,18,00,ff,01,0f,00,01,02,00,00,00,00,00,05,20,00,00,00,20,02,00,00,00,00,14,00,8d,01,02,00,01,01,00,00,00,00,00,05,04,00,00,00,00,00,14,00,8d,01,02,00,01,01,00,00,00,00,00,05,06,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BluetoothUserService_4a44f\TriggerInfo\0]
+【创建】"Type"-DWORD-00000001
+【创建】"Action"-DWORD-00000001
+【创建】"Guid"-BINARY-2a,30,50,08,44,b3,da,4f,9b,e9,90,57,6b,8d,46,f0
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BluetoothUserService_4a44f\TriggerInfo\1]
+【创建】"Type"-DWORD-00000007
+【创建】"Action"-DWORD-00000001
+【创建】"Guid"-BINARY-16,28,7a,2d,5e,0c,fc,45,9c,e7,57,0e,5e,cd,e9,c9
+【创建】"Data0"-BINARY-75,38,bc,a3,2f,02,92,09
+【创建】"DataType0"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BluetoothUserService_4a44f\TriggerInfo\2]
+【创建】"Type"-DWORD-00000007
+【创建】"Action"-DWORD-00000001
+【创建】"Guid"-BINARY-16,28,7a,2d,5e,0c,fc,45,9c,e7,57,0e,5e,cd,e9,c9
+【创建】"Data0"-BINARY-75,48,bc,a3,2f,02,92,09
+【创建】"DataType0"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BluetoothUserService_4a44f\TriggerInfo\3]
+【创建】"Type"-DWORD-00000007
+【创建】"Action"-DWORD-00000001
+【创建】"Guid"-BINARY-16,28,7a,2d,5e,0c,fc,45,9c,e7,57,0e,5e,cd,e9,c9
+【创建】"Data0"-BINARY-75,58,bc,a3,2f,02,92,09
+【创建】"DataType0"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BluetoothUserService_4a44f\TriggerInfo\4]
+【创建】"Type"-DWORD-00000007
+【创建】"Action"-DWORD-00000001
+【创建】"Guid"-BINARY-16,28,7a,2d,5e,0c,fc,45,9c,e7,57,0e,5e,cd,e9,c9
+【创建】"Data0"-BINARY-75,68,bc,a3,2f,02,92,09
+【创建】"DataType0"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CaptureService_4a44f]
+【创建】"Type"-DWORD-000000e0
+【创建】"Start"-DWORD-00000003
+【创建】"ErrorControl"-DWORD-00000001
+【创建】"ImagePath"-EXP_SZ-43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,00,76,00,63,00,68,00,6f,00,73,00,74,00,2e,00,65,00,78,00,65,00,20,00,2d,00,6b,00,20,00,4c,00,6f,00,63,00,61,00,6c,00,53,00,65,00,72,00,76,00,69,00,63,00,65,00,20,00,2d,00,70,00,00,00
+【创建】"DisplayName"-SZ-CaptureService_4a44f
+【创建】"FailureActions"-BINARY-80,51,01,00,00,00,00,00,00,00,00,00,02,00,00,00,14,00,00,00,01,00,00,00,10,27,00,00,00,00,00,00,00,00,00,00
+【创建】"Description"-SZ-@%SystemRoot%\\system32\\CaptureService.dll,-101
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CaptureService_4a44f\Security]
+【创建】"Security"-BINARY-01,00,14,80,8c,00,00,00,98,00,00,00,14,00,00,00,30,00,00,00,02,00,1c,00,01,00,00,00,02,80,14,00,ff,01,0f,00,01,01,00,00,00,00,00,01,00,00,00,00,02,00,5c,00,04,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,12,00,00,00,00,00,18,00,ff,01,0f,00,01,02,00,00,00,00,00,05,20,00,00,00,20,02,00,00,00,00,14,00,8d,01,02,00,01,01,00,00,00,00,00,05,04,00,00,00,00,00,14,00,8d,01,02,00,01,01,00,00,00,00,00,05,06,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\cbdhsvc_4a44f]
+【创建】"Type"-DWORD-000000e0
+【创建】"Start"-DWORD-00000003
+【创建】"ErrorControl"-DWORD-00000001
+【创建】"ImagePath"-EXP_SZ-43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,00,76,00,63,00,68,00,6f,00,73,00,74,00,2e,00,65,00,78,00,65,00,20,00,2d,00,6b,00,20,00,43,00,6c,00,69,00,70,00,62,00,6f,00,61,00,72,00,64,00,53,00,76,00,63,00,47,00,72,00,6f,00,75,00,70,00,20,00,2d,00,70,00,00,00
+【创建】"DisplayName"-SZ-cbdhsvc_4a44f
+【创建】"FailureActions"-BINARY-80,51,01,00,00,00,00,00,00,00,00,00,03,00,00,00,14,00,00,00,01,00,00,00,b8,0b,00,00,01,00,00,00,b8,0b,00,00,00,00,00,00,00,00,00,00
+【创建】"Description"-SZ-@%SystemRoot%\\system32\\cbdhsvc.dll,-101
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\cbdhsvc_4a44f\Security]
+【创建】"Security"-BINARY-01,00,14,80,a0,00,00,00,ac,00,00,00,14,00,00,00,30,00,00,00,02,00,1c,00,01,00,00,00,02,80,14,00,ff,01,0f,00,01,01,00,00,00,00,00,01,00,00,00,00,02,00,70,00,05,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,12,00,00,00,00,00,18,00,ff,01,0f,00,01,02,00,00,00,00,00,05,20,00,00,00,20,02,00,00,00,00,14,00,8d,01,02,00,01,01,00,00,00,00,00,05,04,00,00,00,00,00,14,00,8d,01,02,00,01,01,00,00,00,00,00,05,06,00,00,00,00,00,14,00,00,01,00,00,01,01,00,00,00,00,00,05,0b,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CDPUserSvc]
+【修改】"Start"-DWORD-00000004
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CDPUserSvc_4a44f]
+【创建】"Type"-DWORD-000000e0
+【创建】"Start"-DWORD-00000004
+【创建】"ErrorControl"-DWORD-00000001
+【创建】"ImagePath"-EXP_SZ-43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,00,76,00,63,00,68,00,6f,00,73,00,74,00,2e,00,65,00,78,00,65,00,20,00,2d,00,6b,00,20,00,55,00,6e,00,69,00,73,00,74,00,61,00,63,00,6b,00,53,00,76,00,63,00,47,00,72,00,6f,00,75,00,70,00,00,00
+【创建】"DisplayName"-SZ-CDPUserSvc_4a44f
+【创建】"FailureActions"-BINARY-80,51,01,00,00,00,00,00,00,00,00,00,03,00,00,00,14,00,00,00,01,00,00,00,b8,0b,00,00,01,00,00,00,b8,0b,00,00,00,00,00,00,00,00,00,00
+【创建】"Description"-SZ-@%SystemRoot%\\system32\\cdpusersvc.dll,-101
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CDPUserSvc_4a44f\Security]
+【创建】"Security"-BINARY-01,00,14,80,a0,00,00,00,ac,00,00,00,14,00,00,00,30,00,00,00,02,00,1c,00,01,00,00,00,02,80,14,00,ff,01,0f,00,01,01,00,00,00,00,00,01,00,00,00,00,02,00,70,00,05,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,12,00,00,00,00,00,18,00,ff,01,0f,00,01,02,00,00,00,00,00,05,20,00,00,00,20,02,00,00,00,00,14,00,8d,01,02,00,01,01,00,00,00,00,00,05,04,00,00,00,00,00,14,00,8d,01,02,00,01,01,00,00,00,00,00,05,06,00,00,00,00,00,14,00,00,01,00,00,01,01,00,00,00,00,00,05,0b,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ConsentUxUserSvc_4a44f]
+【创建】"Type"-DWORD-000000e0
+【创建】"Start"-DWORD-00000003
+【创建】"ErrorControl"-DWORD-00000001
+【创建】"ImagePath"-EXP_SZ-43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,00,76,00,63,00,68,00,6f,00,73,00,74,00,2e,00,65,00,78,00,65,00,20,00,2d,00,6b,00,20,00,44,00,65,00,76,00,69,00,63,00,65,00,73,00,46,00,6c,00,6f,00,77,00,00,00
+【创建】"DisplayName"-SZ-ConsentUxUserSvc_4a44f
+【创建】"FailureActions"-BINARY-80,51,01,00,00,00,00,00,00,00,00,00,02,00,00,00,14,00,00,00,01,00,00,00,10,27,00,00,00,00,00,00,00,00,00,00
+【创建】"Description"-SZ-@%SystemRoot%\\system32\\ConsentUxClient.dll,-101
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ConsentUxUserSvc_4a44f\Security]
+【创建】"Security"-BINARY-01,00,04,80,70,00,00,00,7c,00,00,00,00,00,00,00,14,00,00,00,02,00,5c,00,04,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,06,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,04,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,0b,00,00,00,00,00,18,00,ff,01,0f,00,01,02,00,00,00,00,00,05,20,00,00,00,20,02,00,00,01,01,00,00,00,00,00,05,12,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CredentialEnrollmentManagerUserSvc_4a44f]
+【创建】"Type"-DWORD-000000d0
+【创建】"Start"-DWORD-00000003
+【创建】"ErrorControl"-DWORD-00000001
+【创建】"ImagePath"-EXP_SZ-43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,43,00,72,00,65,00,64,00,65,00,6e,00,74,00,69,00,61,00,6c,00,45,00,6e,00,72,00,6f,00,6c,00,6c,00,6d,00,65,00,6e,00,74,00,4d,00,61,00,6e,00,61,00,67,00,65,00,72,00,2e,00,65,00,78,00,65,00,00,00
+【创建】"DisplayName"-SZ-CredentialEnrollmentManagerUserSvc_4a44f
+【创建】"FailureActions"-BINARY-80,51,01,00,00,00,00,00,00,00,00,00,02,00,00,00,14,00,00,00,01,00,00,00,10,27,00,00,00,00,00,00,00,00,00,00
+【创建】"Description"-SZ-@%SystemRoot%\\system32\\CredentialEnrollmentManager.exe,-101
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CredentialEnrollmentManagerUserSvc_4a44f\Security]
+【创建】"Security"-BINARY-01,00,04,80,70,00,00,00,7c,00,00,00,00,00,00,00,14,00,00,00,02,00,5c,00,04,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,06,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,04,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,0b,00,00,00,00,00,18,00,fd,01,02,00,01,02,00,00,00,00,00,0f,02,00,00,00,01,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CryptSvc]
+【修改】"Start"-DWORD-00000003
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DeviceAssociationBrokerSvc_4a44f]
+【创建】"Type"-DWORD-000000e0
+【创建】"Start"-DWORD-00000003
+【创建】"ErrorControl"-DWORD-00000001
+【创建】"ImagePath"-EXP_SZ-43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,00,76,00,63,00,68,00,6f,00,73,00,74,00,2e,00,65,00,78,00,65,00,20,00,2d,00,6b,00,20,00,44,00,65,00,76,00,69,00,63,00,65,00,73,00,46,00,6c,00,6f,00,77,00,20,00,2d,00,70,00,00,00
+【创建】"DisplayName"-SZ-DeviceAssociationBrokerSvc_4a44f
+【创建】"FailureActions"-BINARY-80,51,01,00,00,00,00,00,00,00,00,00,02,00,00,00,14,00,00,00,01,00,00,00,10,27,00,00,00,00,00,00,00,00,00,00
+【创建】"Description"-SZ-@%SystemRoot%\\system32\\deviceaccess.dll,-108
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DeviceAssociationBrokerSvc_4a44f\Security]
+【创建】"Security"-BINARY-01,00,04,80,70,00,00,00,7c,00,00,00,00,00,00,00,14,00,00,00,02,00,5c,00,04,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,06,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,04,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,0b,00,00,00,00,00,18,00,fd,01,02,00,01,02,00,00,00,00,00,0f,02,00,00,00,01,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DevicePickerUserSvc_4a44f]
+【创建】"Type"-DWORD-000000e0
+【创建】"Start"-DWORD-00000003
+【创建】"ErrorControl"-DWORD-00000001
+【创建】"ImagePath"-EXP_SZ-43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,00,76,00,63,00,68,00,6f,00,73,00,74,00,2e,00,65,00,78,00,65,00,20,00,2d,00,6b,00,20,00,44,00,65,00,76,00,69,00,63,00,65,00,73,00,46,00,6c,00,6f,00,77,00,00,00
+【创建】"DisplayName"-SZ-DevicePickerUserSvc_4a44f
+【创建】"FailureActions"-BINARY-80,51,01,00,00,00,00,00,00,00,00,00,02,00,00,00,14,00,00,00,01,00,00,00,10,27,00,00,00,00,00,00,00,00,00,00
+【创建】"Description"-SZ-@%SystemRoot%\\system32\\Windows.Devices.Picker.dll,-1007
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DevicePickerUserSvc_4a44f\Security]
+【创建】"Security"-BINARY-01,00,04,80,ac,00,00,00,b8,00,00,00,00,00,00,00,14,00,00,00,02,00,98,00,06,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,06,00,00,00,00,00,18,00,ff,01,0f,00,01,02,00,00,00,00,00,05,20,00,00,00,20,02,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,04,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,0b,00,00,00,00,00,18,00,fd,01,02,00,01,02,00,00,00,00,00,0f,02,00,00,00,01,00,00,00,00,00,24,00,fd,01,02,00,01,05,00,00,00,00,00,05,15,00,00,00,d1,a7,1a,a1,53,9e,65,2f,4b,7f,77,1a,dd,0a,00,00,01,01,00,00,00,00,00,05,12,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DevicesFlowUserSvc_4a44f]
+【创建】"Type"-DWORD-000000e0
+【创建】"Start"-DWORD-00000003
+【创建】"ErrorControl"-DWORD-00000001
+【创建】"ImagePath"-EXP_SZ-43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,00,76,00,63,00,68,00,6f,00,73,00,74,00,2e,00,65,00,78,00,65,00,20,00,2d,00,6b,00,20,00,44,00,65,00,76,00,69,00,63,00,65,00,73,00,46,00,6c,00,6f,00,77,00,00,00
+【创建】"DisplayName"-SZ-DevicesFlowUserSvc_4a44f
+【创建】"FailureActions"-BINARY-80,51,01,00,00,00,00,00,00,00,00,00,02,00,00,00,14,00,00,00,01,00,00,00,10,27,00,00,00,00,00,00,00,00,00,00
+【创建】"Description"-SZ-@%SystemRoot%\\system32\\DevicesFlowBroker.dll,-104
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DevicesFlowUserSvc_4a44f\Security]
+【创建】"Security"-BINARY-01,00,04,80,ac,00,00,00,b8,00,00,00,00,00,00,00,14,00,00,00,02,00,98,00,06,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,06,00,00,00,00,00,18,00,ff,01,0f,00,01,02,00,00,00,00,00,05,20,00,00,00,20,02,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,04,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,0b,00,00,00,00,00,18,00,fd,01,02,00,01,02,00,00,00,00,00,0f,02,00,00,00,01,00,00,00,00,00,24,00,fd,01,02,00,01,05,00,00,00,00,00,05,15,00,00,00,d1,a7,1a,a1,53,9e,65,2f,4b,7f,77,1a,dd,0a,00,00,01,01,00,00,00,00,00,05,12,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DisplayEnhancementService\State\MSNILAOCB4502RMR9HA020543_26_07E9_4C_1414_008D_FFFFFFFF_FFFFFFFF_0]
+【创建】"RealColorAdaptationStrength"-DWORD-00000032
+【创建】"IsRealColorOn"-DWORD-00000000
+【创建】"AutobrightnessBias"-DWORD-00000000
+【创建】"IsAutobrightnessOn"-DWORD-00000000
+【创建】"UserBrightnessSettingPercent"-DWORD-00000064
+【创建】"SliderBrightnessPercent"-DWORD-00000064
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters\Probe\{80f5c35c-0e36-45ab-921f-95055dead7a6}]
+【修改】"LastProbeTime"-DWORD-69d06406
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DoSvc]
+【修改】"Start"-DWORD-00000004
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\dpclat_driver]
+【创建】"Type"-DWORD-00000001
+【创建】"Start"-DWORD-00000003
+【创建】"ErrorControl"-DWORD-00000000
+【创建】"ImagePath"-EXP_SZ-5c,00,3f,00,3f,00,5c,00,43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,64,00,72,00,69,00,76,00,65,00,72,00,73,00,5c,00,64,00,70,00,63,00,6c,00,61,00,74,00,5f,00,64,00,72,00,69,00,76,00,65,00,72,00,2e,00,73,00,79,00,73,00,00,00
+【创建】"DisplayName"-SZ-dpclat_driver
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DsmSvc\State]
+【修改】"SessionNumber"-BINARY-12,00,00,00
+【修改】"LastActiveTime"-BINARY-4a,ed,d6,20,9d,c3,dc,01
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DtsHPXV2Apo4Service]
+【创建】"Type"-DWORD-00000010
+【创建】"Start"-DWORD-00000002
+【创建】"ErrorControl"-DWORD-00000001
+【创建】"ImagePath"-EXP_SZ-25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,44,00,54,00,53,00,5c,00,48,00,50,00,5c,00,41,00,50,00,4f,00,34,00,78,00,5c,00,44,00,74,00,73,00,48,00,50,00,58,00,56,00,32,00,41,00,70,00,6f,00,34,00,53,00,65,00,72,00,76,00,69,00,63,00,65,00,2e,00,65,00,78,00,65,00,00,00
+【创建】"DisplayName"-SZ-DtsHPXV2Apo4Service
+【创建】"ObjectName"-SZ-LocalSystem
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,33,00,39,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DusmSvc]
+【修改】"Start"-DWORD-00000004
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DXGKrnl]
+【创建】"GpuPriority"-DWORD-00000008
+【创建】"TdrDelay"-DWORD-00000003
+【创建】"TdrDdiDelay"-DWORD-00000003
+【创建】"CreateGdiPrimaryOnSlaveGPU"-DWORD-00000000
+【创建】"DxgkWaitForVerticalBlankEvent"-DWORD-00000000
+【创建】"SwapChainBackBuffer"-DWORD-00000001
+【创建】"MonitorLatencyTolerance"-DWORD-00000000
+【创建】"RenderPreemptionLevel"-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DXGKrnl\Parameters]
+【创建】"ThreadPriority"-DWORD-00000008
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DXGKrnl\Settings]
+【创建】"EnableRss"-DWORD-00000001
+【创建】"RssBaseCpu"-DWORD-00000000
+【创建】"RssNumQueues"-DWORD-00000008
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\edgeupdate]
+【修改】"Start"-DWORD-00000004
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\edgeupdatem]
+【修改】"Start"-DWORD-00000004
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EFS]
+【修改】"Start"-DWORD-00000004
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ESENT\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog\Application\IntelDalJhi]
+【修改】"EventMessageFile"-EXP_SZ-25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,44,00,72,00,69,00,76,00,65,00,72,00,53,00,74,00,6f,00,72,00,65,00,5c,00,46,00,69,00,6c,00,65,00,52,00,65,00,70,00,6f,00,73,00,69,00,74,00,6f,00,72,00,79,00,5c,00,64,00,61,00,6c,00,2e,00,69,00,6e,00,66,00,5f,00,61,00,6d,00,64,00,36,00,34,00,5f,00,38,00,61,00,33,00,66,00,38,00,38,00,65,00,33,00,34,00,66,00,36,00,62,00,38,00,33,00,38,00,35,00,5c,00,6a,00,68,00,69,00,5f,00,73,00,65,00,72,00,76,00,69,00,63,00,65,00,2e,00,65,00,78,00,65,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog\Application\MEProv]
+【修改】"CategoryMessageFile"-EXP_SZ-25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,44,00,72,00,69,00,76,00,65,00,72,00,53,00,74,00,6f,00,72,00,65,00,5c,00,46,00,69,00,6c,00,65,00,52,00,65,00,70,00,6f,00,73,00,69,00,74,00,6f,00,72,00,79,00,5c,00,6d,00,65,00,77,00,6d,00,69,00,70,00,72,00,6f,00,76,00,2e,00,69,00,6e,00,66,00,5f,00,61,00,6d,00,64,00,36,00,34,00,5f,00,35,00,38,00,61,00,30,00,65,00,61,00,32,00,64,00,65,00,30,00,36,00,39,00,31,00,36,00,66,00,37,00,5c,00,4d,00,45,00,50,00,72,00,6f,00,76,00,2e,00,64,00,6c,00,6c,00,00,00
+【修改】"EventMessageFile"-EXP_SZ-25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,44,00,72,00,69,00,76,00,65,00,72,00,53,00,74,00,6f,00,72,00,65,00,5c,00,46,00,69,00,6c,00,65,00,52,00,65,00,70,00,6f,00,73,00,69,00,74,00,6f,00,72,00,79,00,5c,00,6d,00,65,00,77,00,6d,00,69,00,70,00,72,00,6f,00,76,00,2e,00,69,00,6e,00,66,00,5f,00,61,00,6d,00,64,00,36,00,34,00,5f,00,35,00,38,00,61,00,30,00,65,00,61,00,32,00,64,00,65,00,30,00,36,00,39,00,31,00,36,00,66,00,37,00,5c,00,4d,00,45,00,50,00,72,00,6f,00,76,00,2e,00,64,00,6c,00,6c,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog\Application\WMIRegistrationService]
+【修改】"EventMessageFile"-EXP_SZ-25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,44,00,72,00,69,00,76,00,65,00,72,00,53,00,74,00,6f,00,72,00,65,00,5c,00,46,00,69,00,6c,00,65,00,52,00,65,00,70,00,6f,00,73,00,69,00,74,00,6f,00,72,00,79,00,5c,00,6d,00,65,00,77,00,6d,00,69,00,70,00,72,00,6f,00,76,00,2e,00,69,00,6e,00,66,00,5f,00,61,00,6d,00,64,00,36,00,34,00,5f,00,35,00,38,00,61,00,30,00,65,00,61,00,32,00,64,00,65,00,30,00,36,00,39,00,31,00,36,00,66,00,37,00,5c,00,57,00,4d,00,49,00,52,00,65,00,67,00,69,00,73,00,74,00,72,00,61,00,74,00,69,00,6f,00,6e,00,53,00,65,00,72,00,76,00,69,00,63,00,65,00,2e,00,65,00,78,00,65,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog\State]
+【修改】"6005BT"-BINARY-40,33,5d,26,a3,c3,dc,01
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\FDResPub]
+【修改】"Start"-DWORD-00000004
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\FDResPub\ServiceData]
+【修改】"FirstStart"-BINARY-04,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\FileCrypt]
+【修改】"Start"-DWORD-00000004
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\GpuEnergyDrv]
+【修改】"Start"-DWORD-00000004
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\HidUsb\Enum]
+【修改】"0"-SZ-USB\\VID_046D&PID_C54D&MI_00\\7&c451607&1&0000
+【修改】"1"-SZ-USB\\VID_046D&PID_C54D&MI_01\\7&c451607&1&0001
+【修改】"2"-SZ-USB\\VID_046D&PID_C54D&MI_02\\7&c451607&1&0002
+【修改】"3"-SZ-USB\\VID_0416&PID_0110&MI_00\\7&3a24cbeb&0&0000
+【修改】"4"-SZ-USB\\VID_0416&PID_0110&MI_01\\7&3a24cbeb&0&0001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\i8042prt\Parameters]
+【创建】"PollStatusIterations"-DWORD-00000001
+【创建】"PollsBeforeAck"-DWORD-00000001
+【创建】"SampleRate"-DWORD-0000003c
+【创建】"InterruptMask"-DWORD-00000001
+【修改】"ResendIterations"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\iaStorAfsService]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\IntcAzAudAddService]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\jhi_service]
+【创建】"Group"-SZ-
+【修改】"ImagePath"-EXP_SZ-25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,44,00,72,00,69,00,76,00,65,00,72,00,53,00,74,00,6f,00,72,00,65,00,5c,00,46,00,69,00,6c,00,65,00,52,00,65,00,70,00,6f,00,73,00,69,00,74,00,6f,00,72,00,79,00,5c,00,64,00,61,00,6c,00,2e,00,69,00,6e,00,66,00,5f,00,61,00,6d,00,64,00,36,00,34,00,5f,00,38,00,61,00,33,00,66,00,38,00,38,00,65,00,33,00,34,00,66,00,36,00,62,00,38,00,33,00,38,00,35,00,5c,00,6a,00,68,00,69,00,5f,00,73,00,65,00,72,00,76,00,69,00,63,00,65,00,2e,00,65,00,78,00,65,00,00,00
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,33,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+【修改】"JHI_SERVICE_PORT"-DWORD-0000c204
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\jhi_service\Parameters]
+【修改】"FILELOCALE"-EXP_SZ-25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,44,00,72,00,69,00,76,00,65,00,72,00,53,00,74,00,6f,00,72,00,65,00,5c,00,46,00,69,00,6c,00,65,00,52,00,65,00,70,00,6f,00,73,00,69,00,74,00,6f,00,72,00,79,00,5c,00,64,00,61,00,6c,00,2e,00,69,00,6e,00,66,00,5f,00,61,00,6d,00,64,00,36,00,34,00,5f,00,38,00,61,00,33,00,66,00,38,00,38,00,65,00,33,00,34,00,66,00,36,00,62,00,38,00,33,00,38,00,35,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\kbdclass]
+【创建】"Group"-SZ-
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,31,00,33,00,2e,00,69,00,6e,00,66,00,00,00,77,00,68,00,79,00,70,00,65,00,72,00,6b,00,62,00,64,00,2e,00,69,00,6e,00,66,00,00,00,74,00,65,00,72,00,6d,00,6b,00,62,00,64,00,2e,00,69,00,6e,00,66,00,00,00,6b,00,65,00,79,00,62,00,6f,00,61,00,72,00,64,00,2e,00,69,00,6e,00,66,00,00,00,68,00,69,00,64,00,69,00,72,00,6b,00,62,00,64,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\kbdclass\Parameters]
+【创建】"WorkNicely"-DWORD-00000000
+【创建】"ThreadPriority"-DWORD-00000008
+【创建】"PollStatusWait"-DWORD-00000001
+【创建】"KeyboardClassBoostDpc"-DWORD-00000001
+【修改】"KeyboardDataQueueSize"-DWORD-00000100
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\kbdclass\Enum]
+【修改】"2"-SZ-HID\\ALHid&Col04\\1&2d595ca7&1&0003
+【修改】"4"-SZ-HID\\VID_046D&PID_C54D&MI_01&Col01\\8&5101e29&0&0000
+【修改】"5"-SZ-HID\\VID_0416&PID_0110&MI_00&Col01\\8&2f7647da&0&0000
+【修改】"6"-SZ-HID\\VID_0416&PID_0110&MI_00&Col05\\8&2f7647da&0&0004
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\kbdhid\Parameters]
+【创建】"KeyboardDataQueueSize"-DWORD-00000100
+【创建】"ThreadPriority"-DWORD-00000008
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\kbdhid\Enum]
+【修改】"1"-SZ-HID\\ALHid&Col04\\1&2d595ca7&1&0003
+【修改】"3"-SZ-HID\\VID_046D&PID_C54D&MI_01&Col01\\8&5101e29&0&0000
+【修改】"4"-SZ-HID\\VID_0416&PID_0110&MI_00&Col01\\8&2f7647da&0&0000
+【修改】"5"-SZ-HID\\VID_0416&PID_0110&MI_00&Col05\\8&2f7647da&0&0004
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ksthunk\Enum]
+【修改】"0"-SZ-HDAUDIO\\FUNC_01&VEN_10DE&DEV_00A6&SUBSYS_1D051273&REV_1001\\5&35287c6a&0&0001
+【修改】"1"-SZ-HDAUDIO\\FUNC_01&VEN_10EC&DEV_0274&SUBSYS_1D051364&REV_1000\\4&2531c9b6&0&0001
+【修改】"2"-SZ-USB\\VID_04F2&PID_B642&MI_00\\6&3414ff50&0&0000
+【修改】"3"-SZ-SW\\{96E080C7-143C-11D1-B40F-00A0C9223196}\\{3C0D501A-140B-11D1-B40F-00A0C9223196}
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer]
+【修改】"Start"-DWORD-00000004
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+【创建】"AutoShareServer"-DWORD-00000000
+【创建】"AutoSharewks"-DWORD-00000000
+【修改】"Guid"-BINARY-96,99,d1,70,da,b7,d8,46,bc,43,e0,d5,2e,31,ef,c1
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation]
+【修改】"Start"-DWORD-00000004
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Lsa\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LSM\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MapsBroker]
+【修改】"Start"-DWORD-00000004
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MessagingService_4a44f]
+【创建】"Type"-DWORD-000000e0
+【创建】"Start"-DWORD-00000003
+【创建】"ErrorControl"-DWORD-00000000
+【创建】"ImagePath"-EXP_SZ-43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,00,76,00,63,00,68,00,6f,00,73,00,74,00,2e,00,65,00,78,00,65,00,20,00,2d,00,6b,00,20,00,55,00,6e,00,69,00,73,00,74,00,61,00,63,00,6b,00,53,00,76,00,63,00,47,00,72,00,6f,00,75,00,70,00,00,00
+【创建】"DisplayName"-SZ-MessagingService_4a44f
+【创建】"FailureActions"-BINARY-80,51,01,00,00,00,00,00,00,00,00,00,04,00,00,00,14,00,00,00,01,00,00,00,10,27,00,00,01,00,00,00,10,27,00,00,01,00,00,00,10,27,00,00,00,00,00,00,10,27,00,00
+【创建】"Description"-SZ-@%SystemRoot%\\system32\\MessagingService.dll,-101
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MessagingService_4a44f\Security]
+【创建】"Security"-BINARY-01,00,14,80,8c,00,00,00,98,00,00,00,14,00,00,00,30,00,00,00,02,00,1c,00,01,00,00,00,02,80,14,00,ff,01,0f,00,01,01,00,00,00,00,00,01,00,00,00,00,02,00,5c,00,04,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,05,12,00,00,00,00,00,18,00,ff,01,0f,00,01,02,00,00,00,00,00,05,20,00,00,00,20,02,00,00,00,00,14,00,8d,01,02,00,01,01,00,00,00,00,00,05,04,00,00,00,00,00,14,00,8d,01,02,00,01,01,00,00,00,00,00,05,06,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MessagingService_4a44f\TriggerInfo\0]
+【创建】"Type"-DWORD-00000007
+【创建】"Action"-DWORD-00000001
+【创建】"Guid"-BINARY-16,28,7a,2d,5e,0c,fc,45,9c,e7,57,0e,5e,cd,e9,c9
+【创建】"Data0"-BINARY-75,18,bc,a3,3e,03,95,13
+【创建】"DataType0"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\mouclass]
+【修改】"Type"-DWORD-00000004
+【修改】"Start"-DWORD-00000001
+【修改】"ErrorControl"-DWORD-00000004
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,31,00,36,00,2e,00,69,00,6e,00,66,00,00,00,74,00,65,00,72,00,6d,00,6d,00,6f,00,75,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,73,00,6d,00,6f,00,75,00,73,00,65,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\mouclass\Parameters]
+【创建】"MouseDataQueueSize"-DWORD-00000100
+【创建】"WorkNicely"-DWORD-00000000
+【创建】"ThreadPriority"-DWORD-00000008
+【创建】"WppRecorder_TraceGuid"-SZ-{fc8df8fd-d105-40a9-af75-2eec294adf8d}
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\mouclass\Enum]
+【修改】"0"-SZ-HID\\ALHid&Col01\\1&2d595ca7&1&0000
+【修改】"Count"-DWORD-00000004
+【修改】"NextInstance"-DWORD-00000004
+【修改】"1"-SZ-HID\\ALHid&Col02\\1&2d595ca7&1&0001
+【修改】"2"-SZ-HID\\VID_046D&PID_C54D&MI_00\\8&34ef6784&0&0000
+【删除】"4"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\mouhid\Parameters]
+【创建】"MouseDataQueueSize"-DWORD-00000100
+【创建】"WorkNicely"-DWORD-00000000
+【创建】"ThreadPriority"-DWORD-00000008
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\mouhid\Enum]
+【修改】"0"-SZ-HID\\ALHid&Col01\\1&2d595ca7&1&0000
+【修改】"Count"-DWORD-00000004
+【修改】"NextInstance"-DWORD-00000004
+【修改】"1"-SZ-HID\\ALHid&Col02\\1&2d595ca7&1&0001
+【修改】"2"-SZ-HID\\VID_046D&PID_C54D&MI_00\\8&34ef6784&0&0000
+【删除】"4"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MSDTC\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MSDTC Bridge 3.0.0.0\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MSDTC Bridge 4.0.0.0\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\mshidkmdf\Enum]
+【修改】"Count"-DWORD-00000002
+【修改】"NextInstance"-DWORD-00000002
+【修改】"1"-SZ-ButtonConverter\\ConvertedDevice\\4&1b3d86f6&0&0
+【删除】"2"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\msisadrv]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,31,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,61,00,63,00,68,00,69,00,6e,00,65,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MSKSSRV\Enum]
+【创建】"0"-SZ-SW\\{96E080C7-143C-11D1-B40F-00A0C9223196}\\{3C0D501A-140B-11D1-B40F-00A0C9223196}
+【修改】"Count"-DWORD-00000001
+【修改】"NextInstance"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MSSCNTRS\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\mssmbios\Data]
+【修改】"AcpiData"-BINARY-44,42,47,50,34,00,00,00,01,8a,41,4c,41,53,4b,41,41,20,4d,20,49,20,00,00,09,20,07,01,41,4d,49,20,13,00,00,01,00,00,00,00,01,08,00,00,f8,03,00,00,00,00,00,00,4d,43,46,47,3c,00,00,00,01,c7,41,4c,41,53,4b,41,41,20,4d,20,49,20,00,00,09,20,07,01,41,4d,49,20,13,00,00,01,00,00,00,00,00,00,00,00,00,00,00,c0,00,00,00,00,00,00,00,ff,00,00,00,00,46,41,43,50,14,01,00,00,06,d4,41,4c,41,53,4b,41,41,20,4d,20,49,20,00,00,09,20,07,01,41,4d,49,20,13,00,00,01,00,80,1a,73,00,30,ee,72,00,02,09,00,b2,00,00,00,a0,a1,00,00,00,18,00,00,00,00,00,00,04,18,00,00,00,00,00,00,50,18,00,00,08,18,00,00,60,18,00,00,00,00,00,00,04,02,01,04,20,00,10,00,65,00,e9,03,00,04,10,00,00,00,0d,00,32,02,00,00,f5,c4,23,00,41,50,49,43,dc,01,00,00,05,68,41,4c,41,53,4b,41,41,20,4d,20,49,20,00,00,09,20,07,01,41,4d,49,20,13,00,00,01,00,00,e0,fe,01,00,00,00,00,08,00,00,01,00,00,00,00,08,01,01,01,00,00,00,00,08,02,08,01,00,00,00,00,08,03,09,01,00,00,00,00,08,04,10,01,00,00,00,00,08,05,11,01,00,00,00,00,08,06,18,01,00,00,00,00,08,07,19,01,00,00,00,00,08,08,20,01,00,00,00,44,4d,41,52,50,00,00,00,01,3e,49,4e,54,45,4c,20,45,44,4b,32,20,20,20,20,02,00,00,00,20,20,20,20,13,00,00,01,26,05,00,00,00,00,00,00,00,00,00,00,00,00,20,00,01,00,00,00,00,10,d9,fe,00,00,00,00,03,08,00,00,02,00,1e,07,04,08,00,00,00,00,1e,06,48,50,45,54,38,00,00,00,01,3f,41,4c,41,53,4b,41,41,20,4d,20,49,20,00,00,09,20,07,01,41,4d,49,20,13,00,00,01,01,a2,86,80,00,40,00,00,00,00,d0,fe,00,00,00,00,00,80,00,00,46,50,44,54,44,00,00,00,01,21,41,4c,41,53,4b,41,41,20,4d,20,49,20,00,00,09,20,07,01,41,4d,49,20,13,00,00,01,00,00,10,01,00,00,00,00,00,20,e0,71,00,00,00,00,01,00,10,01,00,00,00,00,00,60,e6,72,00,00,00,00,46,49,44,54,9c,00,00,00,01,45,41,4c,41,53,4b,41,41,20,4d,20,49,00,00,00,09,20,07,01,41,4d,49,20,13,00,01,00,24,46,49,44,04,78,00,47,4d,78,50,51,37,78,4e,31,07,91,2f,8b,1a,e5,0b,19,19,48,51,62,fb,ac,ea,05,30,35,00,32,37,00,30,31,00,30,36,00,e8,07,0b,0b,10,0f,0f,ff,ff,41,4c,41,53,4b,41,41,20,4d,20,49,00,00,00,31,00,00,00,ff,ff,ff,ff,ff,ff,ff,ff,ff,53,53,44,54,8c,03,00,00,02,f6,50,6d,61,78,44,76,50,6d,61,78,5f,44,65,76,01,00,00,00,49,4e,54,4c,17,07,20,20,53,53,44,54,8c,03,00,00,02,f6,50,6d,61,78,44,76,50,6d,61,78,5f,44,65,76,01,00,00,00,49,4e,54,4c,17,07,20,20,53,53,44,54,8c,03,00,00,02,f6,50,6d,61,78,44,76,50,6d,61,78,5f,44,65,76,01,00,00,00,49,4e,54,4c,17,07,20,20,53,53,44,54,8c,03,00,00,02,f6,50,6d,61,78,44,76,50,6d,61,78,5f,44,65,76,01,00,00,00,49,4e,54,4c,17,07,20,20,53,53,44,54,8c,03,00,00,02,f6,50,6d,61,78,44,76,50,6d,61,78,5f,44,65,76,01,00,00,00,49,4e,54,4c,17,07,20,20,53,53,44,54,8c,03,00,00,02,f6,50,6d,61,78,44,76,50,6d,61,78,5f,44,65,76,01,00,00,00,49,4e,54,4c,17,07,20,20,55,45,46,49,48,00,00,00,01,d5,41,4c,41,53,4b,41,41,20,4d,20,49,20,00,00,09,20,07,01,41,4d,49,20,13,00,00,01,5d,b0,ed,ba,ce,f2,5b,48,b4,54,c2,51,87,0c,de,fc,36,00,02,00,18,8b,bb,73,00,00,00,00,d9,00,00,00,18,00,00,00,4e,48,4c,54,2d,00,00,00,00,41,41,4c,41,53,4b,41,41,20,4d,20,49,20,00,00,09,20,07,01,41,4d,49,20,13,00,00,01,00,04,00,00,00,de,ad,be,ef,4c,50,49,54,cc,00,00,00,01,ee,41,4c,41,53,4b,41,41,20,4d,20,49,20,00,00,09,20,07,01,41,4d,49,20,13,00,00,01,00,00,00,00,38,00,00,00,00,00,00,00,00,00,00,00,7f,01,02,00,60,00,00,00,00,00,00,00,30,75,00,00,b8,0b,00,00,7f,40,00,00,32,06,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,38,00,00,00,01,00,00,00,00,00,00,00,7f,01,02,00,60,00,00,00,53,53,44,54,8c,03,00,00,02,f6,50,6d,61,78,44,76,50,6d,61,78,5f,44,65,76,01,00,00,00,49,4e,54,4c,17,07,20,20,53,53,44,54,8c,03,00,00,02,f6,50,6d,61,78,44,76,50,6d,61,78,5f,44,65,76,01,00,00,00,49,4e,54,4c,17,07,20,20,44,42,47,32,54,00,00,00,00,18,41,4c,41,53,4b,41,41,20,4d,20,49,20,00,00,09,20,07,01,41,4d,49,20,13,00,00,01,2c,00,00,00,01,00,00,00,00,28,00,01,02,00,26,00,00,00,00,00,00,80,01,00,00,00,16,00,22,00,01,08,00,00,f8,03,00,00,00,00,00,00,0c,00,00,00,2e,00,53,53,44,54,8c,03,00,00,02,f6,50,6d,61,78,44,76,50,6d,61,78,5f,44,65,76,01,00,00,00,49,4e,54,4c,17,07,20,20,53,53,44,54,8c,03,00,00,02,f6,50,6d,61,78,44,76,50,6d,61,78,5f,44,65,76,01,00,00,00,49,4e,54,4c,17,07,20,20,53,53,44,54,8c,03,00,00,02,f6,50,6d,61,78,44,76,50,6d,61,78,5f,44,65,76,01,00,00,00,49,4e,54,4c,17,07,20,20,53,53,44,54,8c,03,00,00,02,f6,50,6d,61,78,44,76,50,6d,61,78,5f,44,65,76,01,00,00,00,49,4e,54,4c,17,07,20,20,54,50,4d,32,4c,00,00,00,04,ee,41,4c,41,53,4b,41,41,20,4d,20,49,20,00,00,01,00,00,00,41,4d,49,20,00,00,00,00,00,00,00,00,40,00,d4,fe,00,00,00,00,07,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,30,06,73,00,00,00,00,42,47,52,54,38,00,00,00,01,54,41,4c,41,53,4b,41,41,20,4d,20,49,20,00,00,09,20,07,01,41,4d,49,20,13,00,01,00,01,00,00,00,18,10,2a,69,00,00,00,00,70,03,00,00,f4,01,00,00,53,53,44,54,8c,03,00,00,02,f6,50,6d,61,78,44,76,50,6d,61,78,5f,44,65,76,01,00,00,00,49,4e,54,4c,17,07,20,20,50,48,41,54,31,06,00,00,01,1e,41,4c,41,53,4b,41,41,20,4d,20,49,20,00,00,05,00,00,00,4d,53,46,54,0d,00,00,01,00,00,a8,03,01,00,00,00,21,00,00,00,fd,7c,09,27,e5,46,39,4e,b8,e4,33,e4,39,a1,3e,af,50,00,a7,00,0c,00,00,00,49,4e,54,43,3e,a6,c1,64,2d,ba,de,41,96,55,2f,70,fe,61,8f,00,20,00,26,00,08,00,00,00,49,4e,54,43,ed,cb,99,21,3e,4d,ef,45,85,d1,e1,ba,57,53,4d,54,28,00,00,00,01,65,41,4c,41,53,4b,41,41,20,4d,20,49,20,00,00,09,20,07,01,41,4d,49,20,13,00,01,00,07,00,00,00
+【修改】"RegistersData"-BINARY-00,00,00,00,00,00,00,00,20,00,00,00,47,65,6e,75,6e,74,65,6c,69,6e,65,49,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,72,06,09,00,00,08,80,30,bf,fb,fa,7f,ff,fb,eb,bf,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00,01,ff,fe,00,f0,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,05,00,00,00,40,00,00,00,40,00,00,00,03,00,00,00,20,20,10,10,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,06,00,00,00,f7,cf,df,00,02,00,00,00,09,04,00,00,03,00,06,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,07,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,09,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0a,00,00,00,05,06,30,07,00,00,00,00,07,00,00,00,03,86,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0b,00,00,00,00,00,00,00,00,00,00,00,0b,00,00,00,30,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0c,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0d,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0e,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0f,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,10,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,11,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,12,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,13,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,14,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,15,00,00,00,02,00,00,00,78,00,00,00,00,f0,49,02,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,16,00,00,00,fc,08,00,00,c0,12,00,00,64,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,17,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,18,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,19,00,00,00,07,00,00,00,14,00,00,00,03,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,1a,00,00,00,01,00,00,40,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,1b,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,1c,00,00,00,0b,00,00,40,07,00,00,00,07,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,1d,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,1e,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,1f,00,00,00,00,00,00,00,00,00,00,00,1f,00,00,00,30,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,20,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,17,00,00,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,8b,00,00,00,00,00,00,00,2c,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,9a,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,9b,01,00,00,10,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,9c,01,00,00,00,30,33,88,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,9d,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,a0,01,00,00,89,00,85,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,fc,01,00,00,5b,00,ec,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,80,00,00,c0,01,0d,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,80,08,00,00,80,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,80,00,00,00,00,00,00,00,00,21,01,00,00,00,08,10,2c,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,80,31,32,74,68,20,47,65,6e,20,49,6e,74,65,6c,28,52,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,03,00,00,80,29,20,43,6f,72,65,28,54,4d,29,20,69,37,2d,31,32,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,04,00,00,80,38,30,30,48,58,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,05,00,00,80,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,06,00,00,80,00,00,00,00,00,00,00,00,40,70,00,05,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,07,00,00,80,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,08,00,00,80,27,30,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+【修改】"SMBiosData"-BINARY-00,03,06,00,fb,12,00,00,00,1a,00,00,01,02,00,f0,03,ff,80,98,fb,7f,01,00,00,00,03,0d,05,1b,01,17,20,00,41,6d,65,72,69,63,61,6e,20,4d,65,67,61,74,72,65,6e,64,73,20,49,6e,74,65,72,6e,61,74,69,6f,6e,61,6c,2c,20,4c,4c,43,2e,00,4e,2e,31,2e,30,36,4d,52,4f,31,37,00,31,31,2f,31,31,2f,32,30,32,34,00,00,01,1b,01,00,01,02,03,04,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,06,05,06,4d,45,43,48,52,45,56,4f,00,4b,75,61,6e,67,73,68,69,47,31,36,20,50,72,6f,20,53,65,72,69,65,73,20,47,4d,36,50,51,37,51,00,53,74,61,6e,64,61,72,64,00,34,32,34,30,38,30,41,33,32,34,38,30,36,39,30,39,32,37,00,30,30,30,31,00,41,44,4c,00,00,02,0f,02,00,01,02,03,04,05,09,06,03,00,0a,00,4d,45,43,48,52,45,56,4f,00,47,4d,36,50,51,37,51,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,20,20,20,20,20,20,20,20,00,53,74,61,6e,64,61,72,64,00,00,03,16,03,00,01,0a,02,03,04,03,03,03,03,00,00,00,00,00,01,00,03,05,4d,45,43,48,52,45,56,4f,00,53,74,61,6e,64,61,72,64,00,20,20,20,20,20,20,20,20,00,20,20,20,20,20,20,20,20,00,53,74,61,6e,64,61,72,64,00,00,08,09,04,00,01,00,02,00,00,49,6e,74,65,72,6e,61,6c,20,43,6f,6e,6e,65,63,74,6f,72,20,31,00,45,78,74,65,72,6e,61,6c,20,43,6f,6e,6e,65,63,74,6f,72,20,31,00,00,08,09,05,00,01,00,02,00,00,49,6e,74,65,72,6e,61,6c,20,43,6f,6e,6e,65,63,74,6f,72,20,32,00,45,78,74,65,72,6e,61,6c,20,43,6f,6e,6e,65,63,74,6f,72,20,32,00,00,08,09,06,00,01,00,02,00,00,49,6e,74,65,72,6e,61,6c,20,43,6f,6e,6e,65,63,74,6f,72,20,33,00,45,78,74,65,72,6e,61,6c,20,43,6f,6e,6e,65,63,74,6f,72,20,33,00,00,08,09,07,00,01,00,02,00,00,49,6e,74,65,72,6e,61,6c,20,43,6f,6e,6e,65,63,74,6f,72,20,34,00,45,78,74,65,72,6e,61,6c,20,43,6f,6e,6e,65,63,74,6f,72,20,34,00,00,08,09,08,00,01,00,02,00,00,49,6e,74,65,72,6e,61,6c,20,43,6f,6e,6e,65,63,74,6f,72,20,35,00,45,78,74,65,72,6e,61,6c,20,43,6f,6e,6e,65,63,74,6f,72,20,35,00,00,09,11,09,00,01,a6,05,03,03,01,00,04,01,00,00,00,00,53,6c,6f,74,20,31,00,00,09,11,0a,00,01,a6,05,03,03,01,00,04,01,00,00,00,00,53,6c,6f,74,20,32,00,00,09,11,0b,00,01,a6,05,03,03,01,00,04,01,00,00,00,00,53,6c,6f,74,20,33,00,00,09,11,0c,00,01,a6,05,03,03,01,00,04,01,00,00,00,00,53,6c,6f,74,20,34,00,00,09,11,0d,00,01,a6,05,03,03,01,00,04,01,00,00,00,00,53,6c,6f,74,20,35,00,00,0a,06,0e,00,82,01,44,65,76,69,63,65,20,31,00,00,0b,05,0f,00,14,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,46,47,4d,2d,47,4d,36,50,51,37,51,30,30,33,36,32,30,32,00,47,4d,36,50,51,37,51,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,31,44,30,35,31,33,36,34,51,31,31,30,30,31,30,30,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,00,0c,05,10,00,01,53,74,61,6e,64,61,72,64,00,00,0d,16,11,00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,65,6e,7c,55,53,7c,69,73,6f,38,38,35,39,2d,31,00,00,1a,16,12,00,01,67,00,80,00,80,00,80,00,80,00,80,00,00,00,00,00,80,56,6f,6c,74,61,67,65,20,50,72,6f,62,65,20,23,31,00,00,1a,16,13,00,01,67,00,80,00,80,00,80,00,80,00,80,00,00,00,00,00,80,56,6f,6c,74,61,67,65,20,50,72,6f,62,65,20,23,32,00,00,1b,0f,14,00,00,00,67,00,00,00,00,00,00,80,01,43,6f,6f,6c,69,6e,67,20,64,65,76,69,63,65,20,23,31,00,00,1b,0f,15,00,00,00,67,00,00,00,00,00,00,80,01,43,6f,6f,6c,69,6e,67,20,64,65,76,69,63,65,20,23,32,00,00,1b,0f,16,00,00,00,62,00,00,00,00,00,00,80,01,43,6f,6f,6c,69,6e,67,20,64,65,76,69,63,65,20,23,33,00,00,1c,16,17,00,01,67,00,80,00,80,00,80,00,80,00,80,00,00,00,00,00,80,54,65,6d,70,65,72,61,74,75,72,65,20,50,72,6f,62,65,20,23,31,00,00,1c,16,18,00,01,62,00,80,00,80,00,80,00,80,00,80,00,00,00,00,00,80,54,65,6d,70,65,72,61,74,75,72,65,20,50,72,6f,62,65,20,23,32,00,00,1c,16,19,00,01,62,00,80,00,80,00,80,00,80,00,80,00,00,00,00,00,80,54,65,6d,70,65,72,61,74,75,72,65,20,50,72,6f,62,65,20,23,33,00,00,1c,16,1a,00,01,62,00,80,00,80,00,80,00,80,00,80,00,00,00,00,00,80,54,65,6d,70,65,72,61,74,75,72,65,20,50,72,6f,62,65,20,23,34,00,00,1d,16,1b,00,01,67,00,80,00,80,00,80,00,80,00,80,00,00,00,00,00,80,45,6c,65,63,74,72,69,63,61,6c,20,50,72,6f,62,65,20,23,31,00,00,1d,16,1c,00,01,62,00,80,00,80,00,80,00,80,00,80,00,00,00,00,00,80,45,6c,65,63,74,72,69,63,61,6c,20,50,72,6f,62,65,20,23,32,00,00,1d,16,1d,00,01,62,00,80,00,80,00,80,00,80,00,80,00,00,00,00,00,80,45,6c,65,63,74,72,69,63,61,6c,20,50,72,6f,62,65,20,23,33,00,00,1d,16,1e,00,01,62,00,80,00,80,00,80,00,80,00,80,00,00,00,00,00,80,45,6c,65,63,74,72,69,63,61,6c,20,50,72,6f,62,65,20,23,34,00,00,1d,16,1f,00,01,62,00,80,00,80,00,80,00,80,00,80,00,00,00,00,00,80,45,6c,65,63,74,72,69,63,61,6c,20,50,72,6f,62,65,20,23,35,00,00,20,0b,20,00,00,00,00,00,00,00,00,00,00,22,0b,21,00,01,02,00,00,00,00,02,4d,61,6e,61,67,65,6d,65,6e,74,20,44,65,76,20,23,31,00,00,27,16,22,00,01,01,02,03,04,05,06,07,00,80,a2,11,12,00,14,00,1f,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,20,20,20,20,20,20,20,20,00,20,20,20,20,20,20,20,20,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,00,27,16,23,00,01,01,02,03,04,05,06,07,00,80,a2,11,13,00,15,00,1e,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,20,20,20,20,20,20,20,20,00,20,20,20,20,20,20,20,20,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,00,27,16,24,00,01,01,01,01,01,01,01,02,00,80,a2,11,ff,ff,16,00,ff,ff,20,20,20,20,20,20,20,20,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,53,74,61,6e,64,61,72,64,00,00,2c,09,25,00,00,00,01,01,00,00,00,2d,1a,26,00,01,02,01,03,01,04,05,06,00,00,00,01,00,00,00,00,01,00,04,01,00,00,42,49,4f,53,20,46,69,72,6d,77,61,72,65,00,4e,2e,31,2e,30,36,4d,52,4f,31,37,00,46,45,32,45,34,46,31,35,2d,34,37,32,44,2d,35,30,35,32,2d,38,43,43,31,2d,45,44,36,39,36,45,36,37,30,37,36,39,00,31,31,2f,31,31,2f,32,30,32,34,00,53,74,61,6e,64,61,72,64,00,4e,2e,31,2e,30,36,4d,52,4f,31,37,00,00,10,17,27,00,03,03,03,00,00,00,04,fe,ff,02,00,00,00,00,00,00,00,00,00,00,00,11,5c,28,00,27,00,fe,ff,40,00,40,00,00,40,0d,00,01,02,22,80,00,e0,15,03,04,05,06,01,00,00,00,00,c0,12,4c,04,4c,04,4c,04,03,08,00,00,85,9b,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,43,6f,6e,74,72,6f,6c,6c,65,72,30,2d,43,68,61,6e,6e,65,6c,41,2d,44,49,4d,4d,30,00,42,41,4e,4b,20,30,00,43,72,75,63,69,61,6c,20,54,65,63,68,6e,6f,6c,6f,67,79,00,20,20,20,20,20,20,20,20,00,20,20,20,20,20,20,20,20,20,20,00,43,54,31,36,47,35,36,43,34,36,53,35,2e,4d,38,47,31,20,20,20,00,00,11,5c,29,00,27,00,fe,ff,40,00,40,00,00,40,0d,00,01,02,22,80,00,e0,15,03,04,05,06,01,00,00,00,00,c0,12,4c,04,4c,04,4c,04,03,08,00,00,85,9b,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,43,6f,6e,74,72,6f,6c,6c,65,72,31,2d,43,68,61,6e,6e,65,6c,41,2d,44,49,4d,4d,30,00,42,41,4e,4b,20,30,00,43,72,75,63,69,61,6c,20,54,65,63,68,6e,6f,6c,6f,67,79,00,20,20,20,20,20,20,20,20,00,20,20,20,20,20,20,20,20,20,20,00,43,54,31,36,47,35,36,43,34,36,53,35,2e,4d,38,47,31,20,20,20,00,00,13,1f,2a,00,00,00,00,00,ff,ff,ff,01,27,00,02,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,2b,1f,2b,00,49,4e,54,43,02,00,12,00,58,02,80,08,1b,00,02,10,00,00,00,00,00,00,00,00,00,00,00,54,50,4d,20,32,2e,30,00,49,4e,54,45,4c,00,00,2d,1a,2c,00,01,02,01,00,01,03,04,00,ff,ff,ff,ff,ff,ff,ff,ff,00,00,04,01,00,00,54,50,4d,20,46,69,72,6d,77,61,72,65,00,32,35,38,30,30,31,32,2e,31,42,30,38,38,30,00,32,30,32,31,2d,30,35,2d,31,35,54,30,30,3a,30,30,3a,30,30,5a,00,49,4e,54,45,4c,00,00,14,23,2d,00,00,00,00,00,ff,ff,ff,00,28,00,2a,00,ff,01,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,14,23,2e,00,00,00,00,01,ff,ff,ff,01,29,00,2a,00,ff,02,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,dd,0c,2f,00,01,01,00,04,00,00,00,00,46,53,50,20,42,69,6e,61,72,79,20,56,65,72,73,69,6f,6e,00,00,dd,1a,30,00,03,01,00,0c,00,a7,50,00,02,00,00,00,00,2c,00,03,00,01,12,0d,00,00,52,65,66,65,72,65,6e,63,65,20,43,6f,64,65,20,2d,20,43,50,55,00,75,43,6f,64,65,20,56,65,72,73,69,6f,6e,00,54,58,54,20,41,43,4d,20,76,65,72,73,69,6f,6e,00,00,dd,1a,31,00,03,01,00,0c,00,a7,50,00,02,00,00,00,00,00,00,03,04,10,01,1b,80,08,52,65,66,65,72,65,6e,63,65,20,43,6f,64,65,20,2d,20,4d,45,00,4d,45,42,78,20,76,65,72,73,69,6f,6e,00,4d,45,20,46,69,72,6d,77,61,72,65,20,56,65,72,73,69,6f,6e,00,43,6f,6e,73,75,6d,65,72,20,53,4b,55,00,00,dd,2f,32,00,06,01,00,0c,00,a7,50,00,02,03,ff,ff,ff,ff,ff,04,00,ff,ff,ff,11,00,05,00,ff,ff,ff,11,00,06,00,02,46,00,00,00,07,00,04,00,00,00,00,52,65,66,65,72,65,6e,63,65,20,43,6f,64,65,20,2d,20,50,43,48,00,50,43,48,2d,43,52,49,44,20,53,74,61,74,75,73,00,44,69,73,61,62,6c,65,64,00,50,43,48,2d,43,52,49,44,20,4f,72,69,67,69,6e,61,6c,20,56,61,6c,75,65,00,50,43,48,2d,43,52,49,44,20,4e,65,77,20,56,61,6c,75,65,00,4f,50,52,4f,4d,20,2d,20,52,53,54,20,2d,20,52,41,49,44,00,50,43,48,20,48,73,69,6f,20,56,65,72,73,69,6f,6e,00,00,dd,52,33,00,0b,01,00,0c,00,a7,50,00,02,00,00,00,04,93,00,03,00,0c,00,a7,50,00,04,05,ff,ff,ff,ff,ff,06,00,00,00,00,02,00,07,00,00,00,00,02,00,08,00,ff,ff,ff,ff,ff,09,00,ff,ff,ff,ff,ff,0a,00,ff,ff,ff,ff,ff,0b,00,ff,ff,ff,ff,ff,0c,00,ff,ff,ff,ff,ff,52,65,66,65,72,65,6e,63,65,20,43,6f,64,65,20,2d,20,53,41,20,2d,20,53,79,73,74,65,6d,20,41,67,65,6e,74,00,52,65,66,65,72,65,6e,63,65,20,43,6f,64,65,20,2d,20,4d,52,43,00,53,41,20,2d,20,50,43,49,65,20,56,65,72,73,69,6f,6e,00,53,41,2d,43,52,49,44,20,53,74,61,74,75,73,00,44,69,73,61,62,6c,65,64,00,53,41,2d,43,52,49,44,20,4f,72,69,67,69,6e,61,6c,20,56,61,6c,75,65,00,53,41,2d,43,52,49,44,20,4e,65,77,20,56,61,6c,75,65,00,4f,50,52,4f,4d,20,2d,20,56,42,49,4f,53,00,49,4f,20,4d,61,6e,61,67,65,61,62,69,6c,69,74,79,20,45,6e,67,69,6e,65,20,46,57,20,56,65,72,73,69,6f,6e,00,50,48,59,20,42,75,69,6c,64,20,56,65,72,73,69,6f,6e,00,54,68,75,6e,64,65,72,62,6f,6c,74,28,54,4d,29,20,46,57,20,56,65,72,73,69,6f,6e,00,53,79,73,74,65,6d,20,41,67,65,6e,74,20,4d,61,6e,61,67,65,61,62,69,6c,69,74,79,20,45,6e,67,69,6e,65,20,46,57,20,56,65,72,73,69,6f,6e,00,00,07,1b,34,00,01,80,01,80,01,80,01,20,00,20,00,00,04,04,09,80,01,00,00,80,01,00,00,4c,31,20,43,61,63,68,65,00,00,07,1b,35,00,01,80,01,00,01,00,01,20,00,20,00,00,04,03,07,00,01,00,00,00,01,00,00,4c,31,20,43,61,63,68,65,00,00,07,1b,36,00,01,81,01,00,28,00,28,20,00,20,00,00,05,05,01,00,28,00,00,00,28,00,00,4c,32,20,43,61,63,68,65,00,00,07,1b,37,00,01,82,01,00,64,00,64,20,00,20,00,00,06,05,01,00,64,00,00,00,64,00,00,4c,33,20,43,61,63,68,65,00,00,07,1b,38,00,01,80,01,00,01,00,01,20,00,20,00,00,04,04,07,00,01,00,00,00,01,00,00,4c,31,20,43,61,63,68,65,00,00,07,1b,39,00,01,80,01,00,02,00,02,20,00,20,00,00,04,03,07,00,02,00,00,00,02,00,00,4c,31,20,43,61,63,68,65,00,00,07,1b,3a,00,01,81,01,00,10,00,10,20,00,20,00,00,05,05,08,00,10,00,00,00,10,00,00,4c,32,20,43,61,63,68,65,00,00,07,1b,3b,00,01,82,01,00,64,00,64,20,00,20,00,00,06,05,01,00,64,00,00,00,64,00,00,4c,33,20,43,61,63,68,65,00,00,04,30,3c,00,01,03,c6,02,72,06,09,00,ff,fb,eb,bf,03,88,64,00,34,21,bc,07,41,40,39,00,3a,00,3b,00,04,05,06,10,10,18,fc,00,c6,00,10,00,10,00,18,00,55,33,45,31,00,49,6e,74,65,6c,28,52,29,20,43,6f,72,70,6f,72,61,74,69,6f,6e,00,31,32,74,68,20,47,65,6e,20,49,6e,74,65,6c,28,52,29,20,43,6f,72,65,28,54,4d,29,20,69,37,2d,31,32,38,30,30,48,58,00,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,00,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,00,54,6f,20,42,65,20,46,69,6c,6c,65,64,20,42,79,20,4f,2e,45,2e,4d,2e,00,00,83,40,3e,00,31,00,00,00,00,00,00,00,00,00,00,00,f8,00,8c,7a,00,00,00,00,21,20,00,00,01,00,10,00,80,08,1b,00,00,00,00,00,fe,00,ff,ff,00,00,00,00,00,00,00,00,22,00,00,00,76,50,72,6f,00,00,00,00,00,00,29,0b,3f,00,01,81,01,00,00,00,00,4f,6e,62,6f,61,72,64,20,2d,20,4f,74,68,65,72,00,00,29,0b,40,00,01,81,02,00,00,00,20,4f,6e,62,6f,61,72,64,20,2d,20,4f,74,68,65,72,00,00,29,0b,41,00,01,81,03,00,00,00,40,4f,6e,62,6f,61,72,64,20,2d,20,4f,74,68,65,72,00,00,29,0b,42,00,01,81,04,00,00,00,50,4f,6e,62,6f,61,72,64,20,2d,20,4f,74,68,65,72,00,00,29,0b,43,00,01,81,05,00,00,00,a0,4f,6e,62,6f,61,72,64,20,2d,20,4f,74,68,65,72,00,00,29,0b,44,00,01,81,06,00,00,00,a2,4f,6e,62,6f,61,72,64,20,2d,20,4f,74,68,65,72,00,00,29,0b,45,00,01,85,01,00,00,00,a3,4f,6e,62,6f,61,72,64,20,2d,20,45,74,68,65,72,6e,65,74,00,00,29,0b,46,00,01,81,07,00,00,00,a8,4f,6e,62,6f,61,72,64,20,2d,20,4f,74,68,65,72,00,00,29,0b,47,00,01,81,08,00,00,00,b0,4f,6e,62,6f,61,72,64,20,2d,20,4f,74,68,65,72,00,00,29,0b,48,00,01,81,09,00,00,00,f8,4f,6e,62,6f,61,72,64,20,2d,20,4f,74,68,65,72,00,00,29,0b,49,00,01,87,01,00,00,00,fb,4f,6e,62,6f,61,72,64,20,2d,20,53,6f,75,6e,64,00,00,29,0b,4a,00,01,81,0a,00,00,00,fc,4f,6e,62,6f,61,72,64,20,2d,20,4f,74,68,65,72,00,00,29,0b,4b,00,01,81,0b,00,00,00,fd,4f,6e,62,6f,61,72,64,20,2d,20,4f,74,68,65,72,00,00,dd,52,4c,00,0b,01,00,ff,ff,ff,ff,ff,02,00,ff,ff,ff,ff,ff,03,04,ff,ff,ff,ff,ff,05,06,ff,ff,ff,ff,ff,07,08,ff,ff,ff,ff,ff,09,00,ff,ff,ff,ff,ff,0a,00,ff,ff,ff,ff,ff,0b,00,ff,ff,00,00,00,0c,00,ff,ff,ff,ff,ff,0d,00,ff,ff,ff,ff,ff,0e,00,00,07,00,00,00,4c,61,6e,20,50,68,79,20,56,65,72,73,69,6f,6e,00,53,65,6e,73,6f,72,20,46,69,72,6d,77,61,72,65,20,56,65,72,73,69,6f,6e,00,44,65,62,75,67,20,4d,6f,64,65,20,53,74,61,74,75,73,00,44,69,73,61,62,6c,65,64,00,50,65,72,66,6f,72,6d,61,6e,63,65,20,4d,6f,64,65,20,53,74,61,74,75,73,00,44,69,73,61,62,6c,65,64,00,44,65,62,75,67,20,55,73,65,20,55,53,42,28,44,69,73,61,62,6c,65,64,3a,53,65,72,69,61,6c,29,00,44,69,73,61,62,6c,65,64,00,49,43,43,20,4f,76,65,72,63,6c,6f,63,6b,69,6e,67,20,56,65,72,73,69,6f,6e,00,55,4e,44,49,20,56,65,72,73,69,6f,6e,00,45,43,20,46,57,20,56,65,72,73,69,6f,6e,00,47,4f,50,20,56,65,72,73,69,6f,6e,00,52,6f,79,61,6c,20,50,61,72,6b,20,56,65,72,73,69,6f,6e,00,50,6c,61,74,66,6f,72,6d,20,56,65,72,73,69,6f,6e,00,00,85,2c,4d,00,f9,b4,95,78,4d,92,0a,41,96,39,12,38,62,b2,8a,63,00,86,80,08,16,12,20,26,12,86,80,01,00,00,00,61,72,57,18,03,00,00,00,00,00,00,88,08,4e,00,00,00,00,00,00,00,0e,08,4f,00,01,db,00,00,24,4d,45,49,00,00,db,6a,50,00,01,04,01,55,02,00,a0,06,01,10,89,20,00,00,00,00,40,00,00,00,00,00,00,00,00,40,00,02,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,03,00,00,00,80,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,4d,45,49,31,00,4d,45,49,32,00,4d,45,49,33,00,4d,45,49,34,00,00,88,06,51,00,00,00,00,00,0e,17,52,00,01,dd,2f,00,dd,30,00,dd,31,00,dd,32,00,dd,33,00,dd,4c,00,46,69,72,6d,77,61,72,65,20,56,65,72,73,69,6f,6e,20,49,6e,66,6f,00,00,7f,04,53,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NDIS\Parameters]
+【创建】"InterruptModeration"-DWORD-00000000
+【创建】"ProcessorAffinityMask"-DWORD-00000000
+【创建】"RssBaseCpu"-DWORD-00000001
+【创建】"ThreadPriority"-DWORD-00000008
+【修改】"DefaultPnPCapabilities"-DWORD-00000024
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NdisWan\Linkage]
+【修改】"Export"-MLT_SZ-5c,00,44,00,65,00,76,00,69,00,63,00,65,00,5c,00,4e,00,64,00,69,00,73,00,57,00,61,00,6e,00,00,00,00,00
+【修改】"Bind"-MLT_SZ-00,00
+【修改】"Route"-MLT_SZ-00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Ndu]
+【修改】"Start"-DWORD-00000004
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Neac]
+【创建】"Type"-DWORD-00000002
+【创建】"Start"-DWORD-00000003
+【创建】"ErrorControl"-DWORD-00000001
+【创建】"ImagePath"-EXP_SZ-5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,64,00,72,00,69,00,76,00,65,00,72,00,73,00,5c,00,4e,00,65,00,61,00,63,00,53,00,61,00,66,00,65,00,2e,00,73,00,79,00,73,00,00,00
+【创建】"DisplayName"-SZ-Neac
+【创建】"Group"-SZ-FSFilter Activity Monitor
+【创建】"DependOnService"-MLT_SZ-46,00,6c,00,74,00,4d,00,67,00,72,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Neac\Instances]
+【创建】"DefaultInstance"-SZ-Neac
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Neac\Instances\Neac]
+【创建】"Altitude"-SZ-360198
+【创建】"Flags"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NetBT\Parameters]
+【创建】"NoNameReleaseOnDemand"-DWORD-00000001
+【修改】"EnableLMHOSTS"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NVDisplay.ContainerLocalSystem\LocalSystem\NvcDispCorePlugin]
+【修改】"DisableLoad"-DWORD-00000001
+【修改】"LogFile"-SZ--
+【修改】"LogLevel"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NVDisplay.ContainerLocalSystem\Parameters\LocalSystem\NvTopps]
+【创建】"TURBO_MODE_VERSION"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NVHDA]
+【修改】"DisplayName"-SZ-@oem12.inf,%NVHDA.SvcDesc%;Service for NVIDIA High Definition Audio Driver
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm]
+【创建】"DisablePreemption"-DWORD-00000001
+【创建】"EnableCEPreemption"-DWORD-00000000
+【创建】"DisablePreemptionOnS3S4"-DWORD-00000001
+【创建】"EnableTiledDisplay"-DWORD-00000000
+【创建】"UvmDisable"-DWORD-00000000
+【创建】"LogWarningEntries"-DWORD-00000000
+【创建】"LogPagingEntries"-DWORD-00000000
+【创建】"LogEventEntries"-DWORD-00000000
+【创建】"LogErrorEntries"-DWORD-00000000
+【创建】"DisableWriteCombining"-DWORD-00000000
+【创建】"DisableMshybridNvsrSwitch"-DWORD-00000000
+【创建】"PowerMizerEnable"-DWORD-00000000
+【创建】"AdaptiveClocking"-DWORD-00000000
+【创建】"DisableDeepSleep"-DWORD-00000001
+【创建】"DisableCudaContextPreemption"-DWORD-00000001
+【创建】"ComputePreemption"-DWORD-00000000
+【创建】"EnableMidGfxPreemption"-DWORD-00000000
+【创建】"EnableMidGfxPreemptionVGPU"-DWORD-00000000
+【创建】"EnableMidBufferPreemptionForHighTdrTimeout"-DWORD-00000000
+【创建】"EnableMidBufferPreemption"-DWORD-00000000
+【创建】"EnableAsyncMidBufferPreemption"-DWORD-00000000
+【创建】"RmGpsPsEnablePerCpuCoreDpc"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\NvHybrid\Persistence\ACE\HDR]
+【修改】"BrightEv"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\NVTweak]
+【创建】"DisableAsyncShaderOptimization"-DWORD-00000000
+【创建】"DisplayPowerSaving"-DWORD-00000000
+【创建】"EnableGpuCompression"-DWORD-00000001
+【创建】"EnableGpuMemoryCompression"-DWORD-00000001
+【创建】"EnableGpuTextureCompression"-DWORD-00000001
+【创建】"RmGpsPsEnablePerCpuCoreDpc"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\Startup]
+【创建】"SendTelemetryData"-DWORD-00000000
+【创建】"DisableRss"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\NVAPI]
+【创建】"RmGpsPsEnablePerCpuCoreDpc"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Parameters]
+【创建】"ThreadPriority"-DWORD-00000008
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Parameters\Global\NVTweak]
+【创建】"NvCplSLIConfig"-DWORD-00000000
+【修改】"LidCloseAction"-DWORD-00000000
+【修改】"NvCplPhysxAuto"-DWORD-00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Parameters\Global\Startup\AcePersistenceOnDriverLoad]
+【修改】@-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Parameters\Global\Startup\NvidiaGpuArrived]
+【创建】@-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Parameters\Global\Startup\USBDeviceArrival]
+【创建】@-DWORD-00000001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Parameters\Global\Startup\USBDeviceRemoveComplete]
+【创建】@-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\State]
+【创建】"0x11e91a61"-DWORD-ffffffff
+【创建】"0x1194f158"-DWORD-00000000
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\OneSyncSvc_4a44f]
+【创建】"Type"-DWORD-000000e0
+【创建】"Start"-DWORD-00000003
+【创建】"ErrorControl"-DWORD-00000000
+【创建】"ImagePath"-EXP_SZ-43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,00,76,00,63,00,68,00,6f,00,73,00,74,00,2e,00,65,00,78,00,65,00,20,00,2d,00,6b,00,20,00,55,00,6e,00,69,00,73,00,74,00,61,00,63,00,6b,00,53,00,76,00,63,00,47,00,72,00,6f,00,75,00,70,00,00,00
+【创建】"DisplayName"-SZ-OneSyncSvc_4a44f
+【创建】"FailureActions"-BINARY-80,51,01,00,00,00,00,00,00,00,00,00,04,00,00,00,14,00,00,00,01,00,00,00,10,27,00,00,01,00,00,00,10,27,00,00,01,00,00,00,10,27,00,00,00,00,00,00,00,00,00,00
+【创建】"Description"-SZ-@%SystemRoot%\\system32\\APHostRes.dll,-10001
+
+【创建】[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\OneSyncSvc_4a44f\Security]
+【创建】"Security"-BINARY-01,00,04,80,b0,00,00,00,bc,00,00,00,00,00,00,00,14,00,00,00,02,00,9c,00,07,00,00,00,00,00,14,00,8d,01,02,00,01,01,00,00,00,00,00,05,04,00,00,00,00,00,14,00,8d,01,02,00,01,01,00,00,00,00,00,05,06,00,00,00,00,00,14,00,ff,01,0f,00,01,01,00,00,00,00,00,05,12,00,00,00,00,00,18,00,ff,01,0f,00,01,02,00,00,00,00,00,05,20,00,00,00,20,02,00,00,00,00,18,00,14,00,00,00,01,02,00,00,00,00,00,0f,02,00,00,00,01,00,00,00,00,00,14,00,14,00,00,00,01,01,00,00,00,00,00,05,04,00,00,00,00,00,14,00,14,00,00,00,01,01,00,00,00,00,00,05,0b,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\pci]
+【创建】"MaxLinkSpeed"-DWORD-00000003
+【创建】"LinkStatePowerManagement"-DWORD-00000000
+【创建】"PerformanceMode"-DWORD-00000001
+【创建】"SlotPowerManagement"-DWORD-00000000
+【创建】"AsPmEnabled"-DWORD-00000000
+【创建】"Disable Performance Counters"-DWORD-00000001
+【修改】"DisplayName"-SZ-@pci.inf,%pci_svcdesc%;PCI 总线驱动程序
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,31,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,70,00,63,00,69,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,61,00,63,00,68,00,69,00,6e,00,65,00,2e,00,69,00,6e,00,66,00,00,00,70,00,63,00,6d,00,63,00,69,00,61,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\pcw]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfDisk\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfNet\Performance]
+【创建】"Disable Performance Counters"-DWORD-00000001
+

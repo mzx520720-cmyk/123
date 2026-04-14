@@ -1,0 +1,1000 @@
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/system32/toseaeapo64.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/system32/tossaeapo64.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/system32/tossaemaxapo64.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/WMALFXGFXDSP.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/system32/YamahaAE.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/system32/YamahaAE2.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/system32/YamahaAE3.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/JHI.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,33,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+【修改】"Source"-EXP_SZ-25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,44,00,72,00,69,00,76,00,65,00,72,00,53,00,74,00,6f,00,72,00,65,00,5c,00,46,00,69,00,6c,00,65,00,52,00,65,00,70,00,6f,00,73,00,69,00,74,00,6f,00,72,00,79,00,5c,00,64,00,61,00,6c,00,2e,00,69,00,6e,00,66,00,5f,00,61,00,6d,00,64,00,36,00,34,00,5f,00,38,00,61,00,33,00,66,00,38,00,38,00,65,00,33,00,34,00,66,00,36,00,62,00,38,00,33,00,38,00,35,00,5c,00,4a,00,48,00,49,00,2e,00,64,00,6c,00,6c,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/RltkAPO.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/RTCOM/CX32APO.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/RTCOM/RTCOMDLL.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/RTCOM/RtDataProc.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/RTCOM/RtkCfg.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/RTCOM/RTLCPAPI.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/SECOMN32.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/SEHDHF32.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/SFCOM.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/SRCOM.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/TEEManagement.dll]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,33,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+【修改】"Source"-EXP_SZ-25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,44,00,72,00,69,00,76,00,65,00,72,00,53,00,74,00,6f,00,72,00,65,00,5c,00,46,00,69,00,6c,00,65,00,52,00,65,00,70,00,6f,00,73,00,69,00,74,00,6f,00,72,00,79,00,5c,00,64,00,61,00,6c,00,2e,00,69,00,6e,00,66,00,5f,00,61,00,6d,00,64,00,36,00,34,00,5f,00,38,00,61,00,33,00,66,00,38,00,38,00,65,00,33,00,34,00,66,00,36,00,62,00,38,00,33,00,38,00,35,00,5c,00,54,00,45,00,45,00,4d,00,61,00,6e,00,61,00,67,00,65,00,6d,00,65,00,6e,00,74,00,2e,00,64,00,6c,00,6c,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AppID\SysFxUi.DLL\AppID]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AppID\{A7D2EC8B-B70F-434C-A0CE-0DF324805F7D}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{62dc1a93-ae24-464c-a43e-452f824c4250}\APOInterface0]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{62dc1a93-ae24-464c-a43e-452f824c4250}\Copyright]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{62dc1a93-ae24-464c-a43e-452f824c4250}\Flags]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{62dc1a93-ae24-464c-a43e-452f824c4250}\FriendlyName]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{62dc1a93-ae24-464c-a43e-452f824c4250}\MajorVersion]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{62dc1a93-ae24-464c-a43e-452f824c4250}\MaxInputConnections]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{62dc1a93-ae24-464c-a43e-452f824c4250}\MaxInstances]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{62dc1a93-ae24-464c-a43e-452f824c4250}\MaxOutputConnections]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{62dc1a93-ae24-464c-a43e-452f824c4250}\MinInputConnections]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{62dc1a93-ae24-464c-a43e-452f824c4250}\MinorVersion]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{62dc1a93-ae24-464c-a43e-452f824c4250}\MinOutputConnections]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{62dc1a93-ae24-464c-a43e-452f824c4250}\NumAPOInterfaces]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{637c490d-eee3-4c0a-973f-371958802da2}\APOInterface0]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{637c490d-eee3-4c0a-973f-371958802da2}\Copyright]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{637c490d-eee3-4c0a-973f-371958802da2}\Flags]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{637c490d-eee3-4c0a-973f-371958802da2}\FriendlyName]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{637c490d-eee3-4c0a-973f-371958802da2}\MajorVersion]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{637c490d-eee3-4c0a-973f-371958802da2}\MaxInputConnections]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{637c490d-eee3-4c0a-973f-371958802da2}\MaxInstances]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{637c490d-eee3-4c0a-973f-371958802da2}\MaxOutputConnections]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{637c490d-eee3-4c0a-973f-371958802da2}\MinInputConnections]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{637c490d-eee3-4c0a-973f-371958802da2}\MinorVersion]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{637c490d-eee3-4c0a-973f-371958802da2}\MinOutputConnections]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{637c490d-eee3-4c0a-973f-371958802da2}\NumAPOInterfaces]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\APOInterface0]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\Copyright]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\Flags]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\FriendlyName]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\MajorVersion]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\MaxInputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\MaxInstances]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\MaxOutputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\MinInputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\MinorVersion]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\MinOutputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\NumAPOInterfaces]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{98977F90-DAFD-4536-82C8-B19CE24BE729}\APOInterface0]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{98977F90-DAFD-4536-82C8-B19CE24BE729}\Copyright]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{98977F90-DAFD-4536-82C8-B19CE24BE729}\Flags]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{98977F90-DAFD-4536-82C8-B19CE24BE729}\FriendlyName]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{98977F90-DAFD-4536-82C8-B19CE24BE729}\MajorVersion]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{98977F90-DAFD-4536-82C8-B19CE24BE729}\MaxInputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{98977F90-DAFD-4536-82C8-B19CE24BE729}\MaxInstances]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{98977F90-DAFD-4536-82C8-B19CE24BE729}\MaxOutputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{98977F90-DAFD-4536-82C8-B19CE24BE729}\MinInputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{98977F90-DAFD-4536-82C8-B19CE24BE729}\MinorVersion]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{98977F90-DAFD-4536-82C8-B19CE24BE729}\MinOutputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{98977F90-DAFD-4536-82C8-B19CE24BE729}\NumAPOInterfaces]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AC080A6E-5953-43D4-843A-A604EDF5771E}\APOInterface0]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AC080A6E-5953-43D4-843A-A604EDF5771E}\Copyright]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AC080A6E-5953-43D4-843A-A604EDF5771E}\Flags]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AC080A6E-5953-43D4-843A-A604EDF5771E}\FriendlyName]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AC080A6E-5953-43D4-843A-A604EDF5771E}\MajorVersion]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AC080A6E-5953-43D4-843A-A604EDF5771E}\MaxInputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AC080A6E-5953-43D4-843A-A604EDF5771E}\MaxInstances]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AC080A6E-5953-43D4-843A-A604EDF5771E}\MaxOutputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AC080A6E-5953-43D4-843A-A604EDF5771E}\MinInputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AC080A6E-5953-43D4-843A-A604EDF5771E}\MinorVersion]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AC080A6E-5953-43D4-843A-A604EDF5771E}\MinOutputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AC080A6E-5953-43D4-843A-A604EDF5771E}\NumAPOInterfaces]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\APOInterface0]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\Copyright]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\Flags]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\FriendlyName]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\MajorVersion]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\MaxInputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\MaxInstances]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\MaxOutputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\MinInputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\MinorVersion]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\MinOutputConnections]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\AudioEngine\AudioProcessingObjects\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\NumAPOInterfaces]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{02B1F563-E87B-42A3-B145-B65690F87D67}\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{02B1F563-E87B-42A3-B145-B65690F87D67}\InProcServer32\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{02B1F563-E87B-42A3-B145-B65690F87D67}\InProcServer32\ThreadingModel]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{02B1F563-E87B-42A3-B145-B65690F87D67}\TypeLib\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{34D81E35-C48B-4B3A-B0AB-94C80DBDAD6B}\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{34D81E35-C48B-4B3A-B0AB-94C80DBDAD6B}\InProcServer32\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{34D81E35-C48B-4B3A-B0AB-94C80DBDAD6B}\InProcServer32\ThreadingModel]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{34D81E35-C48B-4B3A-B0AB-94C80DBDAD6B}\TypeLib\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{3739576F-F27B-4857-9E3E-8BAAA2A030B9}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{3739576F-F27B-4857-9E3E-8BAAA2A030B9}\InProcServer32\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{3739576F-F27B-4857-9E3E-8BAAA2A030B9}\InProcServer32\ThreadingModel]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{5860E1C5-F95C-4a7a-8EC8-8AEF24F379A1}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{5860E1C5-F95C-4a7a-8EC8-8AEF24F379A1}\InProcServer32\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{5860E1C5-F95C-4a7a-8EC8-8AEF24F379A1}\InProcServer32\ThreadingModel]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{5860E1C5-F95C-4a7a-8EC8-8AEF24F379A1}\Programmable\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{62dc1a93-ae24-464c-a43e-452f824c4250}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{62dc1a93-ae24-464c-a43e-452f824c4250}\InProcServer32\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{62dc1a93-ae24-464c-a43e-452f824c4250}\InProcServer32\ThreadingModel]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{637c490d-eee3-4c0a-973f-371958802da2}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{637c490d-eee3-4c0a-973f-371958802da2}\InProcServer32\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{637c490d-eee3-4c0a-973f-371958802da2}\InProcServer32\ThreadingModel]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{64079779-1BDD-42D4-A0D3-52EF2924D7EE}\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{64079779-1BDD-42D4-A0D3-52EF2924D7EE}\InProcServer32\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{64079779-1BDD-42D4-A0D3-52EF2924D7EE}\InProcServer32\ThreadingModel]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{64079779-1BDD-42D4-A0D3-52EF2924D7EE}\TypeLib\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{7766EC50-C2D3-466F-BC7A-9C339C5908A2}\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{7766EC50-C2D3-466F-BC7A-9C339C5908A2}\InProcServer32\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{7766EC50-C2D3-466F-BC7A-9C339C5908A2}\InProcServer32\ThreadingModel]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{7766EC50-C2D3-466F-BC7A-9C339C5908A2}\TypeLib\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{7927515B-FB15-4722-9B7B-D40EE46D4003}\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{7927515B-FB15-4722-9B7B-D40EE46D4003}\InProcServer32\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{7927515B-FB15-4722-9B7B-D40EE46D4003}\InProcServer32\ThreadingModel]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{7927515B-FB15-4722-9B7B-D40EE46D4003}\TypeLib\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{87019306-A4B6-484C-9B73-FF9AFE237E76}\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{87019306-A4B6-484C-9B73-FF9AFE237E76}\InProcServer32\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{87019306-A4B6-484C-9B73-FF9AFE237E76}\InProcServer32\ThreadingModel]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{87019306-A4B6-484C-9B73-FF9AFE237E76}\TypeLib\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\InProcServer32\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\InProcServer32\ThreadingModel]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{8B778F49-83A0-4EE9-896A-ED52903EDF1F}\TypeLib\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{98977F90-DAFD-4536-82C8-B19CE24BE729}\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{98977F90-DAFD-4536-82C8-B19CE24BE729}\InProcServer32\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{98977F90-DAFD-4536-82C8-B19CE24BE729}\InProcServer32\ThreadingModel]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{98977F90-DAFD-4536-82C8-B19CE24BE729}\TypeLib\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{AC080A6E-5953-43D4-843A-A604EDF5771E}\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{AC080A6E-5953-43D4-843A-A604EDF5771E}\InProcServer32\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{AC080A6E-5953-43D4-843A-A604EDF5771E}\InProcServer32\ThreadingModel]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{AC080A6E-5953-43D4-843A-A604EDF5771E}\TypeLib\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\InProcServer32\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\InProcServer32\ThreadingModel]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{AD1F2B64-646D-43DB-9F29-08324E9A94E8}\TypeLib\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{BBA39DEF-B0D8-4D50-9133-85D5B1AC7971}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{BBA39DEF-B0D8-4D50-9133-85D5B1AC7971}\InProcServer32\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{BBA39DEF-B0D8-4D50-9133-85D5B1AC7971}\InProcServer32\ThreadingModel]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{DD5BF58A-7484-4180-9A08-D5C9444799EF}\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{DD5BF58A-7484-4180-9A08-D5C9444799EF}\InProcServer32\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{DD5BF58A-7484-4180-9A08-D5C9444799EF}\InProcServer32\ThreadingModel]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{DD5BF58A-7484-4180-9A08-D5C9444799EF}\TypeLib\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{E9F5C314-5210-45EA-B4E5-75461C4FEA6D}\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{E9F5C314-5210-45EA-B4E5-75461C4FEA6D}\InProcServer32\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{E9F5C314-5210-45EA-B4E5-75461C4FEA6D}\InProcServer32\ThreadingModel]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{E9F5C314-5210-45EA-B4E5-75461C4FEA6D}\TypeLib\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{F5A3D847-0F0F-4887-9CD8-1E3759B1A22C}\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{F5A3D847-0F0F-4887-9CD8-1E3759B1A22C}\InProcServer32\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{F5A3D847-0F0F-4887-9CD8-1E3759B1A22C}\InProcServer32\ThreadingModel]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{F5A3D847-0F0F-4887-9CD8-1E3759B1A22C}\TypeLib\ ]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,30,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Interface\{E6DB299B-B925-415A-879B-4A76D072F39A}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Interface\{E6DB299B-B925-415A-879B-4A76D072F39A}\ProxyStubClsid\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Interface\{E6DB299B-B925-415A-879B-4A76D072F39A}\ProxyStubClsid32\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Interface\{E6DB299B-B925-415A-879B-4A76D072F39A}\TypeLib\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Interface\{E6DB299B-B925-415A-879B-4A76D072F39A}\TypeLib\Version]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\TypeLib\{87D5F036-FAC3-4390-A1E8-DFA8A62C09E7}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\TypeLib\{87D5F036-FAC3-4390-A1E8-DFA8A62C09E7}\1.0\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\TypeLib\{87D5F036-FAC3-4390-A1E8-DFA8A62C09E7}\1.0\0\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\TypeLib\{87D5F036-FAC3-4390-A1E8-DFA8A62C09E7}\1.0\0\win32\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\TypeLib\{87D5F036-FAC3-4390-A1E8-DFA8A62C09E7}\1.0\FLAGS\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\TypeLib\{87D5F036-FAC3-4390-A1E8-DFA8A62C09E7}\1.0\HELPDIR\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{11111155-852c-48b9-8d43-61e5455392d3}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{11111155-852c-48b9-8d43-61e5455392d3}\InProcServer32\ThreadingModel]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{3739576F-F27B-4857-9E3E-8BAAA2A030B9}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{3739576F-F27B-4857-9E3E-8BAAA2A030B9}\InProcServer32\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{3739576F-F27B-4857-9E3E-8BAAA2A030B9}\InProcServer32\ThreadingModel]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{73C0325A-D3BF-48AF-9F37-1589CC58E788}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,35,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,36,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{73C0325A-D3BF-48AF-9F37-1589CC58E788}\InprocServer32\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,35,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,36,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{73C0325A-D3BF-48AF-9F37-1589CC58E788}\InprocServer32\ThreadingModel]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,35,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,36,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{A9C2CEBF-36DC-40A3-92E6-ED59FDD9D20D}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{A9C2CEBF-36DC-40A3-92E6-ED59FDD9D20D}\InProcServer32\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{A9C2CEBF-36DC-40A3-92E6-ED59FDD9D20D}\InProcServer32\ThreadingModel]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{A9C2CEBF-36DC-40A3-92E6-ED59FDD9D20D}\ProgID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{A9C2CEBF-36DC-40A3-92E6-ED59FDD9D20D}\Programmable\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{A9C2CEBF-36DC-40A3-92E6-ED59FDD9D20D}\VersionIndependentProgID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{AF099A7C-45D2-4CE6-9327-EEAAB0395444}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{AF099A7C-45D2-4CE6-9327-EEAAB0395444}\InProcServer32\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{AF099A7C-45D2-4CE6-9327-EEAAB0395444}\InProcServer32\ThreadingModel]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{AF099A7C-45D2-4CE6-9327-EEAAB0395444}\ProgID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{AF099A7C-45D2-4CE6-9327-EEAAB0395444}\Programmable\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{AF099A7C-45D2-4CE6-9327-EEAAB0395444}\VersionIndependentProgID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{BBA39DEF-B0D8-4D50-9133-85D5B1AC7971}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{BBA39DEF-B0D8-4D50-9133-85D5B1AC7971}\InProcServer32\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{BBA39DEF-B0D8-4D50-9133-85D5B1AC7971}\InProcServer32\ThreadingModel]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{C6606CA5-2108-4CAF-8E52-1953F2DBF716}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{C6606CA5-2108-4CAF-8E52-1953F2DBF716}\InProcServer32\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{C6606CA5-2108-4CAF-8E52-1953F2DBF716}\InProcServer32\ThreadingModel]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{C6606CA5-2108-4CAF-8E52-1953F2DBF716}\ProgID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{C6606CA5-2108-4CAF-8E52-1953F2DBF716}\Programmable\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{C6606CA5-2108-4CAF-8E52-1953F2DBF716}\VersionIndependentProgID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{CC0CA09A-5B84-43F2-BE5C-9169C192565F}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{CC0CA09A-5B84-43F2-BE5C-9169C192565F}\InProcServer32\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{CC0CA09A-5B84-43F2-BE5C-9169C192565F}\InProcServer32\ThreadingModel]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{CC0CA09A-5B84-43F2-BE5C-9169C192565F}\ProgID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{CC0CA09A-5B84-43F2-BE5C-9169C192565F}\Programmable\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{CC0CA09A-5B84-43F2-BE5C-9169C192565F}\VersionIndependentProgID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{E9F1F599-7B14-4213-BF46-F992758CAB81}\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{E9F1F599-7B14-4213-BF46-F992758CAB81}\InProcServer32\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{E9F1F599-7B14-4213-BF46-F992758CAB81}\InProcServer32\ThreadingModel]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{E9F1F599-7B14-4213-BF46-F992758CAB81}\ProgID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{E9F1F599-7B14-4213-BF46-F992758CAB81}\Programmable\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{E9F1F599-7B14-4213-BF46-F992758CAB81}\VersionIndependentProgID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\PropSet.PropSet\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\PropSet.PropSet\CurVer\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\PropSet.PropSet.1\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\PropSet.PropSet.1\CLSID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RTCOMDLL.RTLCSSAPI\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RTCOMDLL.RTLCSSAPI\CurVer\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RTCOMDLL.RTLCSSAPI.1\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RTCOMDLL.RTLCSSAPI.1\CLSID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RTCOMDLL.SONY\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RTCOMDLL.SONY\CurVer\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RTCOMDLL.SONY.1\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RTCOMDLL.SONY.1\CLSID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RtkCfg.RtkCfgApi\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RtkCfg.RtkCfgApi\CLSID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RtkCfg.RtkCfgApi\CurVer\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RtkCfg.RtkCfgApi.1\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RtkCfg.RtkCfgApi.1\CLSID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RtlCP.RtlCP\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RtlCP.RtlCP\CurVer\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RtlCP.RtlCP.1\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\RtlCP.RtlCP.1\CLSID\ ]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\DTS\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Fortemedia\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Fortemedia\RealtekEffects\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Fortemedia\VoiceTracking\{3F21D705-F23F-43C2-8055-73FB6412FA23},0]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Knowles\APO\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Control Panel\Extended Properties\{305CA226-D286-468e-B848-2B2E8E697B74} 2\%SystemRoot%\System32\RTSnMg64.cpl]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\AcousticEchoCancellation]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\AcousticSourceTracking]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\AdvGCC\activeness_thr]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\AdvGCC\clustering_thr]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\AdvGCC\cut_off_frequency]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\AdvGCC\deviation_threshold]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\AdvGCC\gamma_noise_weighting]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\AdvGCC\max_verif_range]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\AdvGCC\min_diff_src]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\AdvGCC\resampling_points]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\AdvGCC\Tsm_csp]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\AdvGCC\Tsm_output]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\Beamforming]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\abm_fft_overlap]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\abm_forgetting_factor_recursive_power_estimation]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\abm_number_filter_taps]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\abm_stepsize]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\abm_time_constant_freezing]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\ac_correction_factor_abm_thresholds]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\ac_correction_factor_aic_thresholds]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\ac_number_sub_windows_for_minimum_statistics]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\ac_size_sub_windows_for_minimum_statistics]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\ac_snr_averaging_cutoff_frequency]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\ac_snr_averaging_higher_frequency]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\ac_snr_averaging_lower_frequency]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\aic_fft_overlap]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\aic_forgetting_factor_recursive_power_estimation]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\aic_max_filter_norm]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\aic_number_filter_taps]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\aic_stepsize]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\aic_tim4e_constant_freezing]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\PostFiltering\constraint]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\PostFiltering\constraint_circle]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\PostFiltering\constraint_pulse]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\PostFiltering\constraint_spec]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\PostFiltering\delta]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\PostFiltering\pulse_cons_thr]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\PostFiltering\pulse_width]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\PostFiltering\scale_spec_sub]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\PostFiltering\stepsize]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\PostFiltering\Tmsne]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\PostFiltering\Tsm]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\PostFiltering\U]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\PostFiltering\V]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\regularization_energythreshold_dynamic]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\regularization_threshold_dynamic]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\regularization_threshold_static]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\AECBF\icrcAudioProcessingDemo\GSCBeamformer\regularize_dynamically]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\Audio\GUI_INFORMATION\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\Audio\VbCmdMonitor\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\RealtekEffects\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\RealtekOptions\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Realtek\SpkProtection\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\SonicFocus\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\SoundResearch\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}\DisplayIcon]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}\DisplayName]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}\DisplayVersion]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}\InstallLocation]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}\Publisher]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}\UninstallString]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Wow6432Node\Realtek\Audio\VbCmdMonitor\/]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+【创建】[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\DmaSecurity\AllowedBuses\Intel(R) PEG10 - 460D]
+【创建】"Owners"-MLT_SZ-6f,00,65,00,6d,00,34,00,31,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{00DFF077-96E3-11d2-AC4C-00C04F8EFB68}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{00DFF077-96E3-11d2-AC4C-00C04F8EFB68}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{00DFF078-96E3-11d2-AC4C-00C04F8EFB68}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{00DFF078-96E3-11d2-AC4C-00C04F8EFB68}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{02B223C0-C557-11D0-8A2B-00A0C9255AC1}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{02B223C0-C557-11D0-8A2B-00A0C9255AC1}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{063C7B0E-7D63-45ea-BD17-BD2383C9DA48}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{063C7B0E-7D63-45ea-BD17-BD2383C9DA48}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{066ED7CF-26FC-4cd6-8DB0-BDA088FFC7B6}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{066ED7CF-26FC-4cd6-8DB0-BDA088FFC7B6}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{085AFF00-62CE-11CF-A5D6-28DB04C10000}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{085AFF00-62CE-11CF-A5D6-28DB04C10000}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{08FDB237-3D34-4c59-9511-56E178AE3E10}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{08FDB237-3D34-4c59-9511-56E178AE3E10}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{093C0065-6B45-4582-87D7-5A6742F6E859}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{093C0065-6B45-4582-87D7-5A6742F6E859}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{0A4252A0-7E70-11D0-A5D6-28DB04C10000}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{0A4252A0-7E70-11D0-A5D6-28DB04C10000}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{0BF09DFA-1DC9-45d6-9E68-B62FCE22F574}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{0BF09DFA-1DC9-45d6-9E68-B62FCE22F574}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{0D95D21C-2FF7-4a66-9526-CC39DA3E749E}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{0D95D21C-2FF7-4a66-9526-CC39DA3E749E}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{0FBC7B0C-368C-468a-ADCA-A9C1DFD67B01}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{0FBC7B0C-368C-468a-ADCA-A9C1DFD67B01}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{144981E0-C558-11D0-8A2B-00A0C9255AC1}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{144981E0-C558-11D0-8A2B-00A0C9255AC1}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{15DC9025-22AD-41b3-8875-F4CEB0299E20}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{15DC9025-22AD-41b3-8875-F4CEB0299E20}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,31,00,32,00,2e,00,69,00,6e,00,66,00,00,00,77,00,64,00,6d,00,61,00,5f,00,75,00,73,00,62,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,76,00,69,00,64,00,65,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,68,00,64,00,61,00,75,00,64,00,69,00,6f,00,2e,00,69,00,6e,00,66,00,00,00,75,00,73,00,62,00,61,00,75,00,64,00,69,00,6f,00,32,00,2e,00,69,00,6e,00,66,00,00,00,6d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5f,00,62,00,6c,00,75,00,65,00,74,00,6f,00,6f,00,74,00,68,00,5f,00,61,00,32,00,64,00,70,00,5f,00,73,00,72,00,63,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{16238C4C-5B07-4acf-9B1D-72056187853C}\Display]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Control\MediaCategories\{16238C4C-5B07-4acf-9B1D-72056187853C}\Name]
+【修改】"Owners"-MLT_SZ-6f,00,65,00,6d,00,32,00,38,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,32,00,31,00,2e,00,69,00,6e,00,66,00,00,00,6f,00,65,00,6d,00,33,00,33,00,2e,00,69,00,6e,00,66,00,00,00,00,00
